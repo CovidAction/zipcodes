@@ -1,0 +1,1103 @@
+"State","OBJECTID","ZIP","OBJECTID_1","DEPCODE","COUNTYNAME","FieldMatch","POName","Places","OBJECTID_12","ZIPX","c_places","Cases_1","LabelY"
+"Florida",1,"00041",44,6,"Broward","Broward-00041","NONE","Area is in the South Florida Water Conservation Area 3A",NA,NA,"","0",0
+"Florida",2,"00042",49,5,"Brevard","Brevard-00042","NONE","Area is part of a federally protected nature area",NA,NA,"","0",0
+"Florida",3,"00045",55,42,"Marion","Marion-00045","NONE","Area is part of the Wakulla National Forest ",NA,NA,"","0",0
+"Florida",4,"00053",58,50,"Palm Beach","Palm Beach-00053","NONE","Area is part of the Loxahatchee National Wildlife Refuge",NA,NA,"","0",0
+"Florida",5,"00087",60,31,"Indian River","Indian River-00067","NONE","Area is part of the Stick Marsh-- St. Johns Water Management Area",NA,NA,"","0",0
+"Florida",6,"00097",64,44,"Monroe","Monroe-00097","NONE","Area is part of the Everglades National Park",NA,NA,"","0",0
+"Florida",7,"00098",66,44,"Monroe","Monroe-00098","NONE","Area is part of the Everglades National Park",NA,NA,"","0",0
+"Florida",8,"32003",67,10,"Clay","Clay-32003","Fleming Island","Orange Park, Fleming Island, Lakeside",171,"Clay-32003","Fleming Island, Green Cove Springs, Middleburg, Orange Park","103",103
+"Florida",9,"32008",71,15,"Dixie","Dixie-32008","Branford","Branford",295,"Dixie-32008","","0",0
+"Florida",10,"32008",72,21,"Gilchrist","Gilchrist-32008","Branford","Hollingsworth Bluff, Sandy Point",375,"Gilchrist-32008","","0",0
+"Florida",11,"32008",73,34,"Lafayette","Lafayette-32008","Branford","Brandford, Grady, Midway",506,"Lafayette-32008","Branford","<5",-2
+"Florida",12,"32008",74,61,"Suwannee","Suwannee-32008","Branford","Branford, Grady",1048,"Suwannee-32008","Branford","17",17
+"Florida",13,"32009",78,45,"Nassau","Nassau-32009","Bryceville","Jacksonville, Bryceville, Mattox",683,"Nassau-32009","Bryceville","9",9
+"Florida",14,"32011",80,45,"Nassau","Nassau-32011","Callahan","Callahan, Hilliard, Jacksonville, Nassau Village-Ratliff",684,"Nassau-32011","Callahan","41",41
+"Florida",15,"32013",81,34,"Lafayette","Lafayette-32013","Day","Day, Townsend, Dell, Dowling Park",507,"Lafayette-32013","","0",0
+"Florida",16,"32024",85,12,"Columbia","Columbia-32024","Lake City","Lake City, Bass, Columbia",202,"Columbia-32024","Lake City","67",67
+"Florida",17,"32024",86,61,"Suwannee","Suwannee-32024","Lake City","Lake City, Wellborn",1049,"Suwannee-32024","Lake City","<5",-2
+"Florida",18,"32025",89,12,"Columbia","Columbia-32025","Lake City","Lake City, Watertown",203,"Columbia-32025","Lake City","139",139
+"Florida",19,"32033",92,55,"St. Johns","St. Johns-32033","Elkton","Elkton",1008,"St. Johns-32033","Elkton","9",9
+"Florida",20,"32034",95,45,"Nassau","Nassau-32034","Fernandina Beach","Fernandina Beach, Jacksonville, Yulee",685,"Nassau-32034","Fernandina, Fernandina Beach","115",115
+"Florida",21,"32038",97,12,"Columbia","Columbia-32038","Fort White","Fort White",204,"Columbia-32038","Fort White","19",19
+"Florida",22,"32040",101,2,"Baker","Baker-32040","Glen Saint Mary","Glen St. Mary",23,"Baker-32040","Glen Saint Mary","10",10
+"Florida",23,"32043",106,10,"Clay","Clay-32043","Green Cove Springs","Green Cove Springs, Penney Farms, Asbury Lake, Fleming Island, Middleburg",172,"Clay-32043","Green Cove Springs","167",167
+"Florida",24,"32043",107,54,"Putnam","Putnam-32043","Green Cove Springs","West Tocoi",940,"Putnam-32043","","0",0
+"Florida",25,"32044",109,1,"Alachua","Alachua-32044","Hampton","Louise",1,"Alachua-32044","","0",0
+"Florida",26,"32044",110,4,"Bradford","Bradford-32044","Hampton","Hampton",41,"Bradford-32044","Hampton","<5",-2
+"Florida",27,"32046",112,45,"Nassau","Nassau-32046","Hilliard","Hilliard",686,"Nassau-32046","Hilliard","25",25
+"Florida",28,"32052",114,24,"Hamilton","Hamilton-32052","Jasper","Jasper, Marion, Hillcoast, Adams",387,"Hamilton-32052","Jasper","293",293
+"Florida",29,"32053",118,24,"Hamilton","Hamilton-32053","Jennings","Jennings",388,"Hamilton-32053","Jennings","77",77
+"Florida",30,"32054",121,4,"Bradford","Bradford-32054","Lake Butler","Worthington Springs",42,"Bradford-32054","Lake Butler","<5",-2
+"Florida",31,"32054",123,63,"Union","Union-32054","Lake Butler","Lake Butler, Worthington Springs",1062,"Union-32054","Lake Butler","31",31
+"Florida",32,"32055",126,12,"Columbia","Columbia-32055","Lake City","Lake City, Five Points, Watertown",205,"Columbia-32055","Lake City","98",98
+"Florida",33,"32058",130,4,"Bradford","Bradford-32058","Lawtey","Lawtey",43,"Bradford-32058","Lawtey","14",14
+"Florida",34,"32058",131,10,"Clay","Clay-32058","Lawtey","Lawtey",173,"Clay-32058","","0",0
+"Florida",35,"32058",132,63,"Union","Union-32058","Lawtey","Lawtey",1063,"Union-32058","","0",0
+"Florida",36,"32059",134,40,"Madison","Madison-32059","Lee","Lee",603,"Madison-32059","Lee","12",12
+"Florida",37,"32060",139,61,"Suwannee","Suwannee-32060","Live Oak","Live Oak",1050,"Suwannee-32060","Live Oak","268",268
+"Florida",38,"32061",140,12,"Columbia","Columbia-32061","Lulu","Lulu",206,"Columbia-32061","","0",0
+"Florida",39,"32062",142,61,"Suwannee","Suwannee-32062","Mc Alpin","Mc Alpin",1051,"Suwannee-32062","Mcalpin","15",15
+"Florida",40,"32063",144,2,"Baker","Baker-32063","Macclenny","Macclenny",24,"Baker-32063","Macclenny","61",61
+"Florida",41,"32064",149,61,"Suwannee","Suwannee-32064","Live Oak","Live Oak",1052,"Suwannee-32064","Dowling Park, Live Oak","232",232
+"Florida",42,"32065",150,10,"Clay","Clay-32065","Orange Park","Jacksonville, Lakeside, Oakleaf Plantation",174,"Clay-32065","Orange Park","164",164
+"Florida",43,"32066",153,34,"Lafayette","Lafayette-32066","Mayo","Mayo, Day",508,"Lafayette-32066","Mayo","32",32
+"Florida",44,"32068",157,10,"Clay","Clay-32068","Middleburg","Asbury Lake, Fleming Island, Lakeside, Middleburg, Oakleaf Plantation",175,"Clay-32068","Middleburg","179",179
+"Florida",45,"32071",161,61,"Suwannee","Suwannee-32071","O Brien","Branford",1053,"Suwannee-32071","O Brien","27",27
+"Florida",46,"32073",162,10,"Clay","Clay-32073","Orange Park","Orange Park, Jacksonville, Bellair-Meadowbrook Terrace, Fleming Island, Lakeside, Oakleaf Plantation",176,"Clay-32073","Orange Park","220",220
+"Florida",47,"32080",164,18,"Flagler","Flagler-32080","Saint Augustine","Marineland",356,"Flagler-32080","","0",0
+"Florida",48,"32080",165,55,"St. Johns","St. Johns-32080","Saint Augustine","St. Augustine, St. Augustine Beach, Marineland, Butler Beach, Crescent Beach",1009,"St. Johns-32080","Saint Augustine","86",86
+"Florida",49,"32081",166,16,"Duval","Duval-32081","Ponte Vedra","Jacksonville, Nocatee",300,"Duval-32081","","0",0
+"Florida",50,"32081",167,55,"St. Johns","St. Johns-32081","Ponte Vedra","Jacksonville, Nocatee",1010,"St. Johns-32081","Ponte Vedra, Ponte Vedra Beach","97",97
+"Florida",51,"32082",169,55,"St. Johns","St. Johns-32082","Ponte Vedra Beach","Jacksonville Beach, Nocatee, Palm Valley, Sawgrass",1011,"St. Johns-32082","Ponte Vedra, Ponte Vedra Beach","222",222
+"Florida",52,"32083",172,63,"Union","Union-32083","Raiford","Raiford",1064,"Union-32083","Raiford","17",17
+"Florida",53,"32084",173,55,"St. Johns","St. Johns-32084","Saint Augustine","St. Augustine, Villano Beach, World Golf Village",1012,"St. Johns-32084","Saint Augustine","121",121
+"Florida",54,"32086",175,55,"St. Johns","St. Johns-32086","Saint Augustine","St. Augustine, Palm Coast, St. Augustine Shores, St. Augustine South",1013,"St. Johns-32086","Saint Augustine","110",110
+"Florida",55,"32087",177,2,"Baker","Baker-32087","Sanderson","Sanderson",25,"Baker-32087","Sanderson","13",13
+"Florida",56,"32091",181,4,"Bradford","Bradford-32091","Starke","Hampton, Starke",44,"Bradford-32091","Starke","71",71
+"Florida",57,"32091",182,10,"Clay","Clay-32091","Starke","Middleburg",177,"Clay-32091","","0",0
+"Florida",58,"32092",186,55,"St. Johns","St. Johns-32092","Saint Augustine","World Golf Village",1014,"St. Johns-32092","Saint Augustine","156",156
+"Florida",59,"32094",187,12,"Columbia","Columbia-32094","Wellborn","Wellborn",207,"Columbia-32094","","0",0
+"Florida",60,"32094",188,61,"Suwannee","Suwannee-32094","Wellborn","Wellborn",1054,"Suwannee-32094","Wellborn","6",6
+"Florida",61,"32095",189,55,"St. Johns","St. Johns-32095","Saint Augustine","St. Augustine, Nocatee, World Golf Village",1015,"St. Johns-32095","Saint Augustine","50",50
+"Florida",62,"32096",190,12,"Columbia","Columbia-32096","White Springs","White Springs",208,"Columbia-32096","","0",0
+"Florida",63,"32096",191,24,"Hamilton","Hamilton-32096","White Springs","White Springs",389,"Hamilton-32096","White Springs","7",7
+"Florida",64,"32096",192,61,"Suwannee","Suwannee-32096","White Springs","White Springs",1055,"Suwannee-32096","","0",0
+"Florida",65,"32097",195,45,"Nassau","Nassau-32097","Yulee","Jacksonville, Yulee",687,"Nassau-32097","Yulee","51",51
+"Florida",66,"32102",196,35,"Lake","Lake-32102","Astor","Astor",509,"Lake-32102","Astor","5",5
+"Florida",67,"32102",198,64,"Volusia","Volusia-32102","Astor","Astor",1066,"Volusia-32102","","0",0
+"Florida",68,"32110",199,18,"Flagler","Flagler-32110","Bunnell","Bunnell, Palm Coast",357,"Flagler-32110","Bunnell","36",36
+"Florida",69,"32112",205,54,"Putnam","Putnam-32112","Crescent City","Crescent City, Pomona Park, Welaka",941,"Putnam-32112","Crescent City","87",87
+"Florida",70,"32113",208,42,"Marion","Marion-32113","Citra","McIntosh",630,"Marion-32113","Citra","18",18
+"Florida",71,"32114",210,64,"Volusia","Volusia-32114","Daytona Beach","Daytona Beach, South Daytona, Holly Hill",1067,"Volusia-32114","Daytona Beach","173",173
+"Florida",72,"32117",211,64,"Volusia","Volusia-32117","Daytona Beach","Daytona Beach, Ormond Beach, Holly Hill",1068,"Volusia-32117","Daytona Beach, Holly Hill","186",186
+"Florida",73,"32118",212,64,"Volusia","Volusia-32118","Daytona Beach","Daytona Beach, Ormond Beach, Port Orange, Daytona Beach Shores",1069,"Volusia-32118","Daytona Beach","44",44
+"Florida",74,"32119",213,64,"Volusia","Volusia-32119","Daytona Beach","Daytona Beach, South Daytona, Port Orange",1070,"Volusia-32119","Daytona Beach, South Daytona, South Daytona Beach","70",70
+"Florida",75,"32124",214,64,"Volusia","Volusia-32124","Daytona Beach","Daytona Beach",1071,"Volusia-32124","Daytona Beach","163",163
+"Florida",76,"32127",215,64,"Volusia","Volusia-32127","Port Orange","Ponce Inlet, South Daytona, Port Orange, Daytona Beach Shores",1072,"Volusia-32127","Ponce Inlet, Port Orange","64",64
+"Florida",77,"32128",216,64,"Volusia","Volusia-32128","Port Orange","Daytona Beach, Port Orange, New Smyrna Beach, Glencoe, Samsula-Spruce Creek",1073,"Volusia-32128","Port Orange","58",58
+"Florida",78,"32129",217,64,"Volusia","Volusia-32129","Port Orange","Daytona Beach, South Daytona, Port Orange",1074,"Volusia-32129","Port Orange","56",56
+"Florida",79,"32130",218,64,"Volusia","Volusia-32130","De Leon Springs","Bunnell, De Leon Springs",1075,"Volusia-32130","De Leon Springs","39",39
+"Florida",80,"32131",220,54,"Putnam","Putnam-32131","East Palatka","Palatka, East Palatka",942,"Putnam-32131","East Palatka","25",25
+"Florida",81,"32131",221,55,"St. Johns","St. Johns-32131","East Palatka","Flagler Estates",1016,"St. Johns-32131","","0",0
+"Florida",82,"32132",222,64,"Volusia","Volusia-32132","Edgewater","Edgewater, New Smyrna Beach, Glencoe",1076,"Volusia-32132","Edgewater","10",10
+"Florida",83,"32134",224,42,"Marion","Marion-32134","Fort Mc Coy","Fort Mc Coy",631,"Marion-32134","Fort Mccoy","<5",-2
+"Florida",84,"32134",225,54,"Putnam","Putnam-32134","Fort Mc Coy","Fort Mc Coy",943,"Putnam-32134","","0",0
+"Florida",85,"32136",227,18,"Flagler","Flagler-32136","Flagler Beach","Flagler Beach, Beverly Beach, Palm Coast",358,"Flagler-32136","Flagler Beach","28",28
+"Florida",86,"32136",228,64,"Volusia","Volusia-32136","Flagler Beach","Flagler Beach",1077,"Volusia-32136","","0",0
+"Florida",87,"32137",229,18,"Flagler","Flagler-32137","Palm Coast","Flagler Beach, Bunnell, Marineland, Palm Coast",359,"Flagler-32137","Palm Coast","127",127
+"Florida",88,"32139",231,54,"Putnam","Putnam-32139","Georgetown","Georgetown",944,"Putnam-32139","Georgetown","<5",-2
+"Florida",89,"32140",234,54,"Putnam","Putnam-32140","Florahome","Florahome",945,"Putnam-32140","Florahome","5",5
+"Florida",90,"32141",236,64,"Volusia","Volusia-32141","Edgewater","Edgewater, Oak Hill",1078,"Volusia-32141","Edgewater","40",40
+"Florida",91,"32145",239,55,"St. Johns","St. Johns-32145","Hastings","Hastings, Palm Coast, Flagler Estates",1017,"St. Johns-32145","Hastings","12",12
+"Florida",92,"32148",241,54,"Putnam","Putnam-32148","Interlachen","Interlachen",946,"Putnam-32148","Interlachen","31",31
+"Florida",93,"32159",242,35,"Lake","Lake-32159","Lady Lake","Fruitland Park, Lady Lake, The Villages",510,"Lake-32159","Lady Lake, The Villages","43",43
+"Florida",94,"32159",244,60,"Sumter","Sumter-32159","Lady Lake","The Villages",1038,"Sumter-32159","Lady Lake, The Villages","<5",-2
+"Florida",95,"32162",246,42,"Marion","Marion-32162","The Villages","The Villages",632,"Marion-32162","The Villages","<5",-2
+"Florida",96,"32162",247,60,"Sumter","Sumter-32162","The Villages","Wildwood, The Villages",1039,"Sumter-32162","Lady Lake, The Villages","85",85
+"Florida",97,"32163",248,35,"Lake","Lake-32163","The Villages","Fruitland Park, The Villages",511,"Lake-32163","","0",0
+"Florida",98,"32163",249,60,"Sumter","Sumter-32163","The Villages","Wildwood, The Villages",1040,"Sumter-32163","The Villages","39",39
+"Florida",99,"32164",250,18,"Flagler","Flagler-32164","Palm Coast","Bunnell, Palm Coast",360,"Flagler-32164","Palm Coast","159",159
+"Florida",100,"32168",251,64,"Volusia","Volusia-32168","New Smyrna Beach","Edgewater, Ponce Inlet, Port Orange, New Smyrna Beach, Glencoe, Samsula-Spruce Creek",1079,"Volusia-32168","New Smyrna Beach","84",84
+"Florida",101,"32169",252,64,"Volusia","Volusia-32169","New Smyrna Beach","Oak Hill, New Smyrna Beach",1080,"Volusia-32169","New Smyrna, New Smyrna Beach","17",17
+"Florida",102,"32174",253,18,"Flagler","Flagler-32174","Ormond Beach","Bunnell, Ormond Beach",361,"Flagler-32174","","0",0
+"Florida",103,"32174",254,64,"Volusia","Volusia-32174","Ormond Beach","Bunnell, Daytona Beach, Ormond Beach, Holly Hill",1081,"Volusia-32174","Ormond Beach","171",171
+"Florida",104,"32176",255,64,"Volusia","Volusia-32176","Ormond Beach","Flagler Beach, Ormond Beach, Ormond-by-the-Sea",1082,"Volusia-32176","Ormond Beach","37",37
+"Florida",105,"32177",258,54,"Putnam","Putnam-32177","Palatka","Welaka, Palatka, East Palatka",947,"Putnam-32177","Palatka","278",278
+"Florida",106,"32179",260,42,"Marion","Marion-32179","Ocklawaha","Ocklawaha",633,"Marion-32179","Ocklawaha, Oklawaha","13",13
+"Florida",107,"32180",264,64,"Volusia","Volusia-32180","Pierson","Pierson, Astor, Seville",1083,"Volusia-32180","Pierson","48",48
+"Florida",108,"32181",265,54,"Putnam","Putnam-32181","Pomona Park","Pomona Park, Welaka",948,"Putnam-32181","Pomona Park","11",11
+"Florida",109,"32187",267,54,"Putnam","Putnam-32187","San Mateo","Bunnell",949,"Putnam-32187","San Mateo","9",9
+"Florida",110,"32189",268,54,"Putnam","Putnam-32189","Satsuma","Satsuma",950,"Putnam-32189","Satsuma","13",13
+"Florida",111,"32190",272,64,"Volusia","Volusia-32190","Seville","Seville",1084,"Volusia-32190","Seville","21",21
+"Florida",112,"32193",273,54,"Putnam","Putnam-32193","Welaka","Welaka",951,"Putnam-32193","Welaka","<5",-2
+"Florida",113,"32195",274,35,"Lake","Lake-32195","Weirsdale","Lady Lake",512,"Lake-32195","","0",0
+"Florida",114,"32195",275,42,"Marion","Marion-32195","Weirsdale","Lady Lake",634,"Marion-32195","Weirsdale","8",8
+"Florida",115,"32202",276,16,"Duval","Duval-32202","Jacksonville","Jacksonville",301,"Duval-32202","Jacksonville","364",364
+"Florida",116,"32204",277,16,"Duval","Duval-32204","Jacksonville","Jacksonville",302,"Duval-32204","Jacksonville","60",60
+"Florida",117,"32205",278,16,"Duval","Duval-32205","Jacksonville","Jacksonville",303,"Duval-32205","Jacksonville","132",132
+"Florida",118,"32206",279,16,"Duval","Duval-32206","Jacksonville","Jacksonville",304,"Duval-32206","Jacksonville","124",124
+"Florida",119,"32207",280,16,"Duval","Duval-32207","Jacksonville","Jacksonville",305,"Duval-32207","Jacksonville","321",321
+"Florida",120,"32208",281,16,"Duval","Duval-32208","Jacksonville","Jacksonville",306,"Duval-32208","Jacksonville","732",732
+"Florida",121,"32209",282,16,"Duval","Duval-32209","Jacksonville","Jacksonville",307,"Duval-32209","Jacksonville","255",255
+"Florida",122,"32210",283,16,"Duval","Duval-32210","Jacksonville","Jacksonville",308,"Duval-32210","Jacksonville","527",527
+"Florida",123,"32211",284,16,"Duval","Duval-32211","Jacksonville","Jacksonville",309,"Duval-32211","Jacksonville","225",225
+"Florida",124,"32212",286,16,"Duval","Duval-32212","Jacksonville","Jacksonville",310,"Duval-32212","Jacksonville","221",221
+"Florida",125,"32214",287,16,"Duval","Duval-32214","Jacksonville","Jacksonville",311,"Duval-32214","Jacksonville","7",7
+"Florida",126,"32216",288,16,"Duval","Duval-32216","Jacksonville","Jacksonville",312,"Duval-32216","Jacksonville","436",436
+"Florida",127,"32217",289,16,"Duval","Duval-32217","Jacksonville","Jacksonville",313,"Duval-32217","Jacksonville","161",161
+"Florida",128,"32218",290,16,"Duval","Duval-32218","Jacksonville","Jacksonville, Nassau Village-Ratliff",314,"Duval-32218","Jacksonville","394",394
+"Florida",129,"32219",292,16,"Duval","Duval-32219","Jacksonville","Jacksonville, Nassau Village-Ratliff",315,"Duval-32219","Jacksonville","85",85
+"Florida",130,"32220",294,16,"Duval","Duval-32220","Jacksonville","Baldwin, Jacksonville",316,"Duval-32220","Jacksonville","40",40
+"Florida",131,"32221",297,16,"Duval","Duval-32221","Jacksonville","Jacksonville",317,"Duval-32221","Jacksonville","157",157
+"Florida",132,"32222",299,16,"Duval","Duval-32222","Jacksonville","Jacksonville",318,"Duval-32222","Jacksonville","67",67
+"Florida",133,"32223",301,16,"Duval","Duval-32223","Jacksonville","Orange Park, Jacksonville, Fleming Island",319,"Duval-32223","Jacksonville","108",108
+"Florida",134,"32224",303,16,"Duval","Duval-32224","Jacksonville","Neptune Beach, Jacksonville",320,"Duval-32224","Jacksonville","326",326
+"Florida",135,"32225",305,16,"Duval","Duval-32225","Jacksonville","Atlantic Beach, Jacksonville",321,"Duval-32225","Jacksonville","345",345
+"Florida",136,"32226",306,16,"Duval","Duval-32226","Jacksonville","Jacksonville",322,"Duval-32226","Jacksonville","98",98
+"Florida",137,"32227",308,16,"Duval","Duval-32227","Jacksonville","Jacksonville",323,"Duval-32227","Jacksonville, Mayport","8",8
+"Florida",138,"32233",309,16,"Duval","Duval-32233","Atlantic Beach","Atlantic Beach, Neptune Beach, Jacksonville",324,"Duval-32233","Atlantic Beach, Jacksonville, Mayport","176",176
+"Florida",139,"32234",310,2,"Baker","Baker-32234","Jacksonville","Jacksonville",26,"Baker-32234","","0",0
+"Florida",140,"32234",312,10,"Clay","Clay-32234","Jacksonville","Jacksonville",178,"Clay-32234","","0",0
+"Florida",141,"32234",313,16,"Duval","Duval-32234","Jacksonville","Baldwin, Jacksonville",325,"Duval-32234","Baldwin, Jacksonville","24",24
+"Florida",142,"32234",314,45,"Nassau","Nassau-32234","Jacksonville","Jacksonville",688,"Nassau-32234","","0",0
+"Florida",143,"32244",316,16,"Duval","Duval-32244","Jacksonville","Jacksonville",326,"Duval-32244","Jacksonville","385",385
+"Florida",144,"32246",317,16,"Duval","Duval-32246","Jacksonville","Jacksonville",327,"Duval-32246","Jacksonville","440",440
+"Florida",145,"32250",318,16,"Duval","Duval-32250","Jacksonville Beach","Jacksonville Beach, Neptune Beach, Jacksonville",328,"Duval-32250","Jacksonville, Jacksonville Beach","355",355
+"Florida",146,"32254",320,16,"Duval","Duval-32254","Jacksonville","Jacksonville",329,"Duval-32254","Jacksonville","124",124
+"Florida",147,"32256",321,16,"Duval","Duval-32256","Jacksonville","Jacksonville",330,"Duval-32256","Jacksonville","402",402
+"Florida",148,"32257",323,16,"Duval","Duval-32257","Jacksonville","Jacksonville",331,"Duval-32257","Jacksonville","197",197
+"Florida",149,"32258",324,16,"Duval","Duval-32258","Jacksonville","Jacksonville, Fruit Cove",332,"Duval-32258","Jacksonville","191",191
+"Florida",150,"32259",328,55,"St. Johns","St. Johns-32259","Saint Johns","Jacksonville, Fleming Island, Fruit Cove, Nocatee",1018,"St. Johns-32259","Fruit Cove, Jacksonville, Saint Johns, Switzerland","234",234
+"Florida",151,"32266",329,16,"Duval","Duval-32266","Neptune Beach","Atlantic Beach, Jacksonville Beach, Neptune Beach",333,"Duval-32266","Jacksonville, Jacksonville Beach, Neptune Beach","95",95
+"Florida",152,"32277",330,16,"Duval","Duval-32277","Jacksonville","Jacksonville",334,"Duval-32277","Jacksonville","199",199
+"Florida",153,"32301",331,37,"Leon","Leon-32301","Tallahassee","Tallahassee",575,"Leon-32301","Tallahassee","136",136
+"Florida",154,"32303",333,37,"Leon","Leon-32303","Tallahassee","Midway, Tallahassee",576,"Leon-32303","Tallahassee","193",193
+"Florida",155,"32304",335,37,"Leon","Leon-32304","Tallahassee","Midway, Tallahassee",577,"Leon-32304","Tallahassee","474",474
+"Florida",156,"32305",336,37,"Leon","Leon-32305","Tallahassee","Tallahassee, Woodville",578,"Leon-32305","Tallahassee","51",51
+"Florida",157,"32306",338,37,"Leon","Leon-32306","Tallahassee","Florida State University, Florida A&M University",579,"Leon-32306","Tallahassee","7",7
+"Florida",158,"32308",340,37,"Leon","Leon-32308","Tallahassee","Tallahassee",580,"Leon-32308","Centerville, Tallahassee","113",113
+"Florida",159,"32309",342,33,"Jefferson","Jefferson-32309","Tallahassee","Tallahassee",502,"Jefferson-32309","","0",0
+"Florida",160,"32309",343,37,"Leon","Leon-32309","Tallahassee","Tallahassee",581,"Leon-32309","Centerville, Tallahassee","77",77
+"Florida",161,"32310",345,37,"Leon","Leon-32310","Tallahassee","Tallahassee",582,"Leon-32310","Tallahassee","94",94
+"Florida",162,"32311",349,37,"Leon","Leon-32311","Tallahassee","Tallahassee",583,"Leon-32311","Tallahassee","84",84
+"Florida",163,"32312",353,37,"Leon","Leon-32312","Tallahassee","Tallahassee",584,"Leon-32312","Tallahassee","119",119
+"Florida",164,"32317",355,37,"Leon","Leon-32317","Tallahassee","Tallahassee",585,"Leon-32317","Tallahassee","49",49
+"Florida",165,"32320",356,19,"Franklin","Franklin-32320","Apalachicola","Apalachicola",362,"Franklin-32320","Apalachicola","<5",-2
+"Florida",166,"32321",361,39,"Liberty","Liberty-32321","Bristol","Bristol, Lake Mystic, Sumatra",600,"Liberty-32321","Bristol","231",231
+"Florida",167,"32322",362,19,"Franklin","Franklin-32322","Carrabelle","Carrabelle",363,"Franklin-32322","Carrabelle","5",5
+"Florida",168,"32324",366,20,"Gadsden","Gadsden-32324","Chattahoochee","Gretna, Chattahoochee",369,"Gadsden-32324","Chattahoochee","28",28
+"Florida",169,"32327",369,37,"Leon","Leon-32327","Crawfordville","Woodville",586,"Leon-32327","","0",0
+"Florida",170,"32327",370,65,"Wakulla","Wakulla-32327","Crawfordville","St. Marks, Crawfordville, Woodville",1096,"Wakulla-32327","Crawfordville, Wakulla Springs","63",63
+"Florida",171,"32328",371,19,"Franklin","Franklin-32328","Eastpoint","Eastpoint, St. George Island",365,"Franklin-32328","Eastpoint","<5",-2
+"Florida",172,"32331",376,33,"Jefferson","Jefferson-32331","Greenville","Greenville",503,"Jefferson-32331","","0",0
+"Florida",173,"32331",377,40,"Madison","Madison-32331","Greenville","Greenville",604,"Madison-32331","Greenville","16",16
+"Florida",174,"32331",378,62,"Taylor","Taylor-32331","Greenville","Greenville",1056,"Taylor-32331","","0",0
+"Florida",175,"32332",379,20,"Gadsden","Gadsden-32332","Gretna","Gretna",370,"Gadsden-32332","Gretna","23",23
+"Florida",176,"32333",381,20,"Gadsden","Gadsden-32333","Havana","Havana, Midway",371,"Gadsden-32333","Havana","41",41
+"Florida",177,"32334",386,39,"Liberty","Liberty-32334","Hosford","Hosford",601,"Liberty-32334","Hosford","7",7
+"Florida",178,"32336",388,33,"Jefferson","Jefferson-32336","Lamont","Lamont",504,"Jefferson-32336","Lamont","<5",-2
+"Florida",179,"32336",389,40,"Madison","Madison-32336","Lamont","Lamont",605,"Madison-32336","","0",0
+"Florida",180,"32336",390,62,"Taylor","Taylor-32336","Lamont","Lamont",1057,"Taylor-32336","Lamont","<5",-2
+"Florida",181,"32340",394,40,"Madison","Madison-32340","Madison","Lee, Madison",606,"Madison-32340","Madison","174",174
+"Florida",182,"32343",396,20,"Gadsden","Gadsden-32343","Midway","Midway",372,"Gadsden-32343","Midway","31",31
+"Florida",183,"32344",399,33,"Jefferson","Jefferson-32344","Monticello","Monticello, Aucilla, Lloyd, Wacissa, Waukeenah",505,"Jefferson-32344","Monticello","51",51
+"Florida",184,"32346",403,19,"Franklin","Franklin-32346","Panacea","Panacea",366,"Franklin-32346","","0",0
+"Florida",185,"32346",404,65,"Wakulla","Wakulla-32346","Panacea","Panacea",1097,"Wakulla-32346","","0",0
+"Florida",186,"32347",408,62,"Taylor","Taylor-32347","Perry","Perry",1058,"Taylor-32347","Perry","30",30
+"Florida",187,"32348",410,62,"Taylor","Taylor-32348","Perry","Perry",1059,"Taylor-32348","Perry","51",51
+"Florida",188,"32350",413,40,"Madison","Madison-32350","Pinetta","Pinetta",607,"Madison-32350","Pinetta","6",6
+"Florida",189,"32351",414,20,"Gadsden","Gadsden-32351","Quincy","Gretna, Quincy, Greensboro, Midway",373,"Gadsden-32351","Quincy","241",241
+"Florida",190,"32352",419,20,"Gadsden","Gadsden-32352","Quincy","Gretna, Quincy",374,"Gadsden-32352","Quincy","45",45
+"Florida",191,"32355",420,65,"Wakulla","Wakulla-32355","Saint Marks","St. Marks",1098,"Wakulla-32355","Saint Marks","<5",-2
+"Florida",192,"32356",422,62,"Taylor","Taylor-32356","Salem","Salem",1060,"Taylor-32356","Salem","<5",-2
+"Florida",193,"32358",423,19,"Franklin","Franklin-32358","Sopchoppy","Sopchoppy",367,"Franklin-32358","","0",0
+"Florida",194,"32358",426,65,"Wakulla","Wakulla-32358","Sopchoppy","Sopchoppy",1099,"Wakulla-32358","Sopchoppy","<5",-2
+"Florida",195,"32359",427,15,"Dixie","Dixie-32359","Steinhatchee","Steinhatchee",296,"Dixie-32359","Steinhatchee","<5",-2
+"Florida",196,"32359",429,62,"Taylor","Taylor-32359","Steinhatchee","Steinhatchee",1061,"Taylor-32359","Jena, Steinhatchee","6",6
+"Florida",197,"32360",430,39,"Liberty","Liberty-32360","Telogia","Telogia",602,"Liberty-32360","","0",0
+"Florida",198,"32399",431,37,"Leon","Leon-32399","Tallahassee","Tallahassee",587,"Leon-32399","Tallahassee","6",6
+"Florida",199,"32401",432,3,"Bay","Bay-32401","Panama City","Panama City, Parker, Springfield, Cedar Grove",27,"Bay-32401","Panama City, Panama City Beach","133",133
+"Florida",200,"32403",433,3,"Bay","Bay-32403","Panama City","Tyndall AFB",28,"Bay-32403","Tyndall Air Force Base","<5",-2
+"Florida",201,"32404",434,3,"Bay","Bay-32404","Panama City","Panama City, Parker, Springfield, Callaway, Lynn Haven, Tyndall AFB",29,"Bay-32404","Callaway, Panama City, Parker","115",115
+"Florida",202,"32405",437,3,"Bay","Bay-32405","Panama City","Panama City, Springfield, Lynn Haven, Cedar Grove, Pretty Bayou",30,"Bay-32405","Panama City","112",112
+"Florida",203,"32407",438,3,"Bay","Bay-32407","Panama City Beach","Panama City Beach, Upper Grand Lagoon",31,"Bay-32407","Panama City Beach","62",62
+"Florida",204,"32408",439,3,"Bay","Bay-32408","Panama City","Panama City Beach, Lower Grand Lagoon, Upper Grand Lagoon",32,"Bay-32408","Panama City, Panama City Beach","49",49
+"Florida",205,"32409",440,3,"Bay","Bay-32409","Panama City","Lynn Haven",33,"Bay-32409","Panama City, Southport","16",16
+"Florida",206,"32413",442,3,"Bay","Bay-32413","Panama City Beach","Panama City Beach, Laguna Beach",34,"Bay-32413","Inlet Beach, Panama City, Panama City Beach","25",25
+"Florida",207,"32420",447,32,"Jackson","Jackson-32420","Alford","Alford",490,"Jackson-32420","Alford","7",7
+"Florida",208,"32420",448,67,"Washington","Washington-32420","Alford","Alford",1112,"Washington-32420","","0",0
+"Florida",209,"32421",450,7,"Calhoun","Calhoun-32421","Altha","Altha",133,"Calhoun-32421","Altha","13",13
+"Florida",210,"32423",453,32,"Jackson","Jackson-32423","Bascom","Malone, Bascom",491,"Jackson-32423","Bascom","<5",-2
+"Florida",211,"32424",454,7,"Calhoun","Calhoun-32424","Blountstown","Blountstown",134,"Calhoun-32424","Blountstown","80",80
+"Florida",212,"32425",458,30,"Holmes","Holmes-32425","Bonifay","Caryville, Esto, Noma, Bonifay",476,"Holmes-32425","Bonifay","188",188
+"Florida",213,"32425",460,67,"Washington","Washington-32425","Bonifay","Caryville, Bonifay",1113,"Washington-32425","Bonifay","<5",-2
+"Florida",214,"32426",462,32,"Jackson","Jackson-32426","Campbellton","Campbellton, Jacob City",492,"Jackson-32426","Campbellton","<5",-2
+"Florida",215,"32427",465,67,"Washington","Washington-32427","Caryville","Caryville, Westville",1114,"Washington-32427","Caryville","<5",-2
+"Florida",216,"32428",468,32,"Jackson","Jackson-32428","Chipley","Chipley",493,"Jackson-32428","","0",0
+"Florida",217,"32428",469,67,"Washington","Washington-32428","Chipley","Chipley, Wausau",1115,"Washington-32428","Chipley","100",100
+"Florida",218,"32430",470,7,"Calhoun","Calhoun-32430","Clarksville","Clarksville",135,"Calhoun-32430","Clarksville","<5",-2
+"Florida",219,"32431",471,32,"Jackson","Jackson-32431","Cottondale","Cottondale, Alford, Jacob City",494,"Jackson-32431","Cottondale","16",16
+"Florida",220,"32431",472,67,"Washington","Washington-32431","Cottondale","Cottondale",1116,"Washington-32431","","0",0
+"Florida",221,"32433",476,66,"Walton","Walton-32433","Defuniak Springs","Paxton, DeFuniak Springs",1100,"Walton-32433","Defuniak Springs","75",75
+"Florida",222,"32435",479,66,"Walton","Walton-32435","Defuniak Springs","DeFuniak Springs, Freeport",1101,"Walton-32435","Defuniak Springs","60",60
+"Florida",223,"32437",480,3,"Bay","Bay-32437","Ebro","Ebro",35,"Bay-32437","","0",0
+"Florida",224,"32437",482,67,"Washington","Washington-32437","Ebro","Ebro",1117,"Washington-32437","","0",0
+"Florida",225,"32438",483,3,"Bay","Bay-32438","Fountain","Fountain",36,"Bay-32438","Fountain","5",5
+"Florida",226,"32438",484,7,"Calhoun","Calhoun-32438","Fountain","Fountain",136,"Calhoun-32438","","0",0
+"Florida",227,"32438",486,67,"Washington","Washington-32438","Fountain","Fountain",1118,"Washington-32438","","0",0
+"Florida",228,"32439",487,66,"Walton","Walton-32439","Freeport","Freeport",1102,"Walton-32439","Freeport","22",22
+"Florida",229,"32440",489,30,"Holmes","Holmes-32440","Graceville","Graceville",477,"Holmes-32440","Graceville","<5",-2
+"Florida",230,"32440",490,32,"Jackson","Jackson-32440","Graceville","Campbellton, Graceville",495,"Jackson-32440","Graceville","8",8
+"Florida",231,"32442",492,7,"Calhoun","Calhoun-32442","Grand Ridge","Grand Ridge",137,"Calhoun-32442","","0",0
+"Florida",232,"32442",494,32,"Jackson","Jackson-32442","Grand Ridge","Sneads, Grand Ridge",496,"Jackson-32442","Grand Ridge","11",11
+"Florida",233,"32443",496,32,"Jackson","Jackson-32443","Greenwood","Greenwood",497,"Jackson-32443","Greenwood","17",17
+"Florida",234,"32444",497,3,"Bay","Bay-32444","Lynn Haven","Panama City, Lynn Haven",37,"Bay-32444","Lynn Haven","54",54
+"Florida",235,"32445",499,32,"Jackson","Jackson-32445","Malone","Malone",498,"Jackson-32445","Malone","11",11
+"Florida",236,"32446",500,32,"Jackson","Jackson-32446","Marianna","Greenwood, Marianna, Jacob City",499,"Jackson-32446","Marianna","87",87
+"Florida",237,"32448",502,32,"Jackson","Jackson-32448","Marianna","Cottondale, Marianna",500,"Jackson-32448","Marianna","48",48
+"Florida",238,"32449",504,7,"Calhoun","Calhoun-32449","Wewahitchka","Wewahitchka",138,"Calhoun-32449","Kinard","<5",-2
+"Florida",239,"32455",506,30,"Holmes","Holmes-32455","Ponce De Leon","Ponce de Leon, Westville",478,"Holmes-32455","","0",0
+"Florida",240,"32455",507,66,"Walton","Walton-32455","Ponce De Leon","Ponce de Leon",1103,"Walton-32455","Ponce De Leon","<5",-2
+"Florida",241,"32456",509,3,"Bay","Bay-32456","Port Saint Joe","Mexico Beach",38,"Bay-32456","","0",0
+"Florida",242,"32456",511,23,"Gulf","Gulf-32456","Port Saint Joe","Mexico Beach, Port St. Joe",385,"Gulf-32456","Port Saint Joe","17",17
+"Florida",243,"32459",513,66,"Walton","Walton-32459","Santa Rosa Beach","Miramar Beach",1104,"Walton-32459","Point Washington, Santa Rosa Beach","71",71
+"Florida",244,"32460",516,32,"Jackson","Jackson-32460","Sneads","Sneads, Chattahoochee",501,"Jackson-32460","Sneads","173",173
+"Florida",245,"32461",518,66,"Walton","Walton-32461","Inlet Beach","Inlet Beach",1105,"Walton-32461","Inlet Beach","<5",-2
+"Florida",246,"32462",519,3,"Bay","Bay-32462","Vernon","Vernon",39,"Bay-32462","","0",0
+"Florida",247,"32462",520,66,"Walton","Walton-32462","Vernon","Vernon",1106,"Walton-32462","","0",0
+"Florida",248,"32462",521,67,"Washington","Washington-32462","Vernon","Vernon",1119,"Washington-32462","Vernon","12",12
+"Florida",249,"32464",522,30,"Holmes","Holmes-32464","Westville","Caryville, Ponce de Leon, Westville",479,"Holmes-32464","Westville","<5",-2
+"Florida",250,"32464",523,66,"Walton","Walton-32464","Westville","Westville",1107,"Walton-32464","Westville","<5",-2
+"Florida",251,"32465",527,19,"Franklin","Franklin-32465","Wewahitchka","Wewahitchka",368,"Franklin-32465","","0",0
+"Florida",252,"32465",528,23,"Gulf","Gulf-32465","Wewahitchka","Wewahitchka",386,"Gulf-32465","Wewahitchka","13",13
+"Florida",253,"32466",530,3,"Bay","Bay-32466","Youngstown","Youngstown",40,"Bay-32466","Bayou George, Youngstown","12",12
+"Florida",254,"32466",531,7,"Calhoun","Calhoun-32466","Youngstown","Youngstown",139,"Calhoun-32466","","0",0
+"Florida",255,"32466",532,67,"Washington","Washington-32466","Youngstown","Youngstown",1120,"Washington-32466","","0",0
+"Florida",256,"32501",533,17,"Escambia","Escambia-32501","Pensacola","Pensacola, Brent, Goulding, West Pensacola",336,"Escambia-32501","Pensacola","140",140
+"Florida",257,"32502",534,17,"Escambia","Escambia-32502","Pensacola","Pensacola, Warrington",337,"Escambia-32502","Pensacola","116",116
+"Florida",258,"32503",535,17,"Escambia","Escambia-32503","Pensacola","Pensacola, Brent, Ensley, Ferry Pass, Goulding",338,"Escambia-32503","Pensacola","219",219
+"Florida",259,"32504",536,17,"Escambia","Escambia-32504","Pensacola","Pensacola, Brent, Ensley, Ferry Pass",339,"Escambia-32504","Pensacola","195",195
+"Florida",260,"32505",537,17,"Escambia","Escambia-32505","Pensacola","Pensacola, Bellview, Brent, Ensley, Goulding, Myrtle Grove, Warrington, West Pensacola",340,"Escambia-32505","Pensacola","184",184
+"Florida",261,"32506",538,17,"Escambia","Escambia-32506","Pensacola","Bellview, Myrtle Grove, Warrington, West Pensacola",341,"Escambia-32506","Pensacola","134",134
+"Florida",262,"32507",540,17,"Escambia","Escambia-32507","Pensacola","Pensacola, Myrtle Grove, Warrington, West Pensacola",342,"Escambia-32507","Pensacola, Perdido Key","93",93
+"Florida",263,"32508",541,17,"Escambia","Escambia-32508","Pensacola","Warrington",343,"Escambia-32508","Pensacola","11",11
+"Florida",264,"32509",542,17,"Escambia","Escambia-32509","Pensacola","Bellview",344,"Escambia-32509","","0",0
+"Florida",265,"32511",543,17,"Escambia","Escambia-32511","Pensacola","Myrtle Grove, West Pensacola",345,"Escambia-32511","Pensacola","16",16
+"Florida",266,"32512",544,17,"Escambia","Escambia-32512","Pensacola","Myrtle Grove",346,"Escambia-32512","Pensacola, Pensacola Naval Hospital","30",30
+"Florida",267,"32514",545,17,"Escambia","Escambia-32514","Pensacola","Pensacola, Ensley, Ferry Pass, Gonzalez",347,"Escambia-32514","Pensacola","355",355
+"Florida",268,"32526",548,17,"Escambia","Escambia-32526","Pensacola","Bellview, Brent, Ensley, Myrtle Grove, West Pensacola",348,"Escambia-32526","Bellview, Pensacola","217",217
+"Florida",269,"32531",550,46,"Okaloosa","Okaloosa-32531","Baker","Baker",689,"Okaloosa-32531","Baker","14",14
+"Florida",270,"32531",551,57,"Santa Rosa","Santa Rosa-32531","Baker","Munson",954,"Santa Rosa-32531","","0",0
+"Florida",271,"32533",553,17,"Escambia","Escambia-32533","Cantonment","Ensley, Gonzalez, Molino",349,"Escambia-32533","Cantonment","148",148
+"Florida",272,"32534",555,17,"Escambia","Escambia-32534","Pensacola","Brent, Ensley, Gonzalez",350,"Escambia-32534","Pensacola","92",92
+"Florida",273,"32535",557,17,"Escambia","Escambia-32535","Century","Century",351,"Escambia-32535","Century","13",13
+"Florida",274,"32536",559,46,"Okaloosa","Okaloosa-32536","Crestview","Crestview",690,"Okaloosa-32536","Crestview","51",51
+"Florida",275,"32539",560,46,"Okaloosa","Okaloosa-32539","Crestview","Crestview",691,"Okaloosa-32539","Crestview","100",100
+"Florida",276,"32539",561,66,"Walton","Walton-32539","Crestview","Crestview",1108,"Walton-32539","","0",0
+"Florida",277,"32541",562,46,"Okaloosa","Okaloosa-32541","Destin","Destin, Miramar Beach",692,"Okaloosa-32541","Destin","130",130
+"Florida",278,"32542",564,46,"Okaloosa","Okaloosa-32542","Eglin Afb","Valparaiso, Eglin AFB, Lake Lorraine",693,"Okaloosa-32542","Eglin Air Force Base","8",8
+"Florida",279,"32542",565,57,"Santa Rosa","Santa Rosa-32542","Navarre","Muddy Ford, Holley, Navarre",955,"Santa Rosa-32542","","0",0
+"Florida",280,"32544",567,46,"Okaloosa","Okaloosa-32544","Hurlburt Field","Hurlburt Field",694,"Okaloosa-32544","","0",0
+"Florida",281,"32547",568,46,"Okaloosa","Okaloosa-32547","Fort Walton Beach","Fort Walton Beach, Ocean City, Wright",695,"Okaloosa-32547","Fort Walton Beach","208",208
+"Florida",282,"32548",569,46,"Okaloosa","Okaloosa-32548","Fort Walton Beach","Cinco Bayou, Fort Walton Beach, Mary Esther, Ocean City, Wright",696,"Okaloosa-32548","Fort Walton Beach","107",107
+"Florida",283,"32550",572,66,"Walton","Walton-32550","Miramar Beach","Miramar Beach",1109,"Walton-32550","Destin, Miramar Beach","25",25
+"Florida",284,"32561",573,17,"Escambia","Escambia-32561","Gulf Breeze","Gulf Breeze, Navarre Beach, Oriole Beach, Woodlawn Beach",352,"Escambia-32561","Gulf Breeze, Pensacola, Pensacola Beach","<5",-2
+"Florida",285,"32561",574,57,"Santa Rosa","Santa Rosa-32561","Gulf Breeze","Gulf Breeze, Midway, Oriole Beach",956,"Santa Rosa-32561","Gulf Breeze, Pensacola Beach","56",56
+"Florida",286,"32563",575,57,"Santa Rosa","Santa Rosa-32563","Gulf Breeze","Gulf Breeze, Midway, Navarre, Oriole Beach, Tiger Point, Woodlawn Beach",957,"Santa Rosa-32563","Gulf Breeze","91",91
+"Florida",287,"32564",576,46,"Okaloosa","Okaloosa-32564","Holt","Harold",697,"Okaloosa-32564","Holt","<5",-2
+"Florida",288,"32564",577,57,"Santa Rosa","Santa Rosa-32564","Holt","Harold, Munson, Springhill",958,"Santa Rosa-32564","","0",0
+"Florida",289,"32565",580,57,"Santa Rosa","Santa Rosa-32565","Jay","Jay, Allentown, Berrydale, Brownsdale, Chumuckla, Cobbtown, Dixonville, Fidelis, Mount Carmel, Pine Level, Whitfield",959,"Santa Rosa-32565","Jay","17",17
+"Florida",290,"32566",582,57,"Santa Rosa","Santa Rosa-32566","Navarre","Holley, Midway, Navarre",960,"Santa Rosa-32566","Navarre","126",126
+"Florida",291,"32567",584,46,"Okaloosa","Okaloosa-32567","Laurel Hill","Laurel Hill",698,"Okaloosa-32567","Laurel Hill","5",5
+"Florida",292,"32567",585,66,"Walton","Walton-32567","Laurel Hill","Paxton",1110,"Walton-32567","","0",0
+"Florida",293,"32568",587,17,"Escambia","Escambia-32568","Mc David","Chumuckla",353,"Escambia-32568","Mcdavid, Walnut Hill","9",9
+"Florida",294,"32569",589,46,"Okaloosa","Okaloosa-32569","Mary Esther","Fort Walton Beach, Mary Esther",699,"Okaloosa-32569","Mary Esther","49",49
+"Florida",295,"32570",592,57,"Santa Rosa","Santa Rosa-32570","Milton","Milton, Allentown, Bagdad, Berrydale, Cobbtown, East Milton, Munson, Pace, Pea Ridge, Point Baker, Roeville, Springhill, Whitfield",961,"Santa Rosa-32570","Milton","141",141
+"Florida",296,"32571",594,57,"Santa Rosa","Santa Rosa-32571","Milton","Chumuckla, Ferry Pass, Mulat, Pace, Pea Ridge, Wallace",962,"Santa Rosa-32571","Milton, Pace","149",149
+"Florida",297,"32577",596,17,"Escambia","Escambia-32577","Molino","Molino",354,"Escambia-32577","Molino","24",24
+"Florida",298,"32578",598,46,"Okaloosa","Okaloosa-32578","Niceville","Niceville, Valparaiso",700,"Okaloosa-32578","Niceville","70",70
+"Florida",299,"32578",599,66,"Walton","Walton-32578","Niceville","Niceville",1111,"Walton-32578","","0",0
+"Florida",300,"32579",600,46,"Okaloosa","Okaloosa-32579","Shalimar","Fort Walton Beach, Shalimar, Eglin AFB, Lake Lorraine, Ocean City",701,"Okaloosa-32579","Shalimar","49",49
+"Florida",301,"32580",601,46,"Okaloosa","Okaloosa-32580","Valparaiso","Niceville, Valparaiso, Eglin AFB",702,"Okaloosa-32580","Valparaiso","5",5
+"Florida",302,"32583",603,57,"Santa Rosa","Santa Rosa-32583","Milton","Milton, Avalon, Bagdad, Dickerson City, East Milton, Garcon Point, Harold, Mulat, Pea Ridge",963,"Santa Rosa-32583","Milton","154",154
+"Florida",303,"32601",604,1,"Alachua","Alachua-32601","Gainesville","Gainesville",2,"Alachua-32601","Gainesville","195",195
+"Florida",304,"32603",605,1,"Alachua","Alachua-32603","Gainesville","Gainesville",3,"Alachua-32603","Gainesville","72",72
+"Florida",305,"32605",606,1,"Alachua","Alachua-32605","Gainesville","Gainesville",4,"Alachua-32605","Gainesville","102",102
+"Florida",306,"32606",607,1,"Alachua","Alachua-32606","Gainesville","Gainesville",5,"Alachua-32606","Gainesville","84",84
+"Florida",307,"32607",608,1,"Alachua","Alachua-32607","Gainesville","Gainesville",6,"Alachua-32607","Gainesville","188",188
+"Florida",308,"32608",609,1,"Alachua","Alachua-32608","Gainesville","Gainesville",7,"Alachua-32608","Gainesville","197",197
+"Florida",309,"32609",610,1,"Alachua","Alachua-32609","Gainesville","Gainesville, Waldo, La Crosse",8,"Alachua-32609","Gainesville","174",174
+"Florida",310,"32610",612,1,"Alachua","Alachua-32610","Gainesville","Gainesville",9,"Alachua-32610","Gainesville","7",7
+"Florida",311,"32611",613,1,"Alachua","Alachua-32611","Gainesville","Gainesville",10,"Alachua-32611","Gainesville","6",6
+"Florida",312,"32615",615,1,"Alachua","Alachua-32615","Alachua","Alachua, High Springs, Newberry, Worthington Springs, La Crosse",11,"Alachua-32615","Alachua, Santa Fe","70",70
+"Florida",313,"32617",619,42,"Marion","Marion-32617","Anthony","Anthony",635,"Marion-32617","Anthony","6",6
+"Florida",314,"32618",620,1,"Alachua","Alachua-32618","Archer","Archer, Newberry",12,"Alachua-32618","Archer","17",17
+"Florida",315,"32618",621,38,"Levy","Levy-32618","Archer","Newberry, East Bronson",589,"Levy-32618","","0",0
+"Florida",316,"32619",623,21,"Gilchrist","Gilchrist-32619","Bell","Bell",376,"Gilchrist-32619","Bell","19",19
+"Florida",317,"32621",626,38,"Levy","Levy-32621","Bronson","Bronson, Otter Creek, East Bronson, Williston Highlands",590,"Levy-32621","Bronson","38",38
+"Florida",318,"32622",627,1,"Alachua","Alachua-32622","Brooker","La Crosse",13,"Alachua-32622","","0",0
+"Florida",319,"32622",628,4,"Bradford","Bradford-32622","Brooker","Brooker, Worthington Springs",45,"Bradford-32622","Brooker","<5",-2
+"Florida",320,"32625",630,38,"Levy","Levy-32625","Cedar Key","Cedar Key",591,"Levy-32625","Cedar Key","<5",-2
+"Florida",321,"32626",633,38,"Levy","Levy-32626","Chiefland","Fanning Springs, Chiefland, Otter Creek, Andrews, Manatee Road",592,"Levy-32626","Chiefland","96",96
+"Florida",322,"32628",634,15,"Dixie","Dixie-32628","Cross City","Cross City",297,"Dixie-32628","Cross City","28",28
+"Florida",323,"32631",635,1,"Alachua","Alachua-32631","Earleton","Earleton",14,"Alachua-32631","Earleton","<5",-2
+"Florida",324,"32640",638,1,"Alachua","Alachua-32640","Hawthorne","Hawthorne",15,"Alachua-32640","Hawthorne","13",13
+"Florida",325,"32640",640,54,"Putnam","Putnam-32640","Hawthorne","Hawthorne",952,"Putnam-32640","Hawthorne","<5",-2
+"Florida",326,"32641",641,1,"Alachua","Alachua-32641","Gainesville","Gainesville",16,"Alachua-32641","Gainesville","94",94
+"Florida",327,"32643",642,1,"Alachua","Alachua-32643","High Springs","Alachua, High Springs, Newberry",17,"Alachua-32643","High Springs","26",26
+"Florida",328,"32643",643,12,"Columbia","Columbia-32643","High Springs","High Springs",209,"Columbia-32643","","0",0
+"Florida",329,"32643",644,21,"Gilchrist","Gilchrist-32643","High Springs","Newberry, Spring Ridge",377,"Gilchrist-32643","","0",0
+"Florida",330,"32648",645,15,"Dixie","Dixie-32648","Horseshoe Beach","Horseshoe Beach",298,"Dixie-32648","","0",0
+"Florida",331,"32653",646,1,"Alachua","Alachua-32653","Gainesville","Alachua, Gainesville, La Crosse",18,"Alachua-32653","Gainesville","58",58
+"Florida",332,"32656",648,4,"Bradford","Bradford-32656","Keystone Heights","Keystone Heights",46,"Bradford-32656","","0",0
+"Florida",333,"32656",649,10,"Clay","Clay-32656","Keystone Heights","Keystone Heights",179,"Clay-32656","Keystone Heights","20",20
+"Florida",334,"32666",651,1,"Alachua","Alachua-32666","Melrose","Melrose",19,"Alachua-32666","","0",0
+"Florida",335,"32666",652,4,"Bradford","Bradford-32666","Melrose","Melrose",47,"Bradford-32666","","0",0
+"Florida",336,"32666",653,10,"Clay","Clay-32666","Melrose","Keystone Heights",180,"Clay-32666","","0",0
+"Florida",337,"32666",654,54,"Putnam","Putnam-32666","Melrose","Melrose",953,"Putnam-32666","Melrose","13",13
+"Florida",338,"32667",655,1,"Alachua","Alachua-32667","Micanopy","Micanopy, McIntosh",20,"Alachua-32667","Micanopy","7",7
+"Florida",339,"32667",657,42,"Marion","Marion-32667","Micanopy","McIntosh",637,"Marion-32667","","0",0
+"Florida",340,"32668",658,38,"Levy","Levy-32668","Morriston","Morriston, Williston Highlands",593,"Levy-32668","Morriston","12",12
+"Florida",341,"32668",659,42,"Marion","Marion-32668","Morriston","Morriston",638,"Marion-32668","","0",0
+"Florida",342,"32669",660,1,"Alachua","Alachua-32669","Newberry","Newberry",21,"Alachua-32669","Newberry, Tioga","55",55
+"Florida",343,"32669",661,21,"Gilchrist","Gilchrist-32669","Newberry","Newberry",378,"Gilchrist-32669","","0",0
+"Florida",344,"32669",662,38,"Levy","Levy-32669","Newberry","Newberry",594,"Levy-32669","","0",0
+"Florida",345,"32680",663,15,"Dixie","Dixie-32680","Old Town","Fanning Springs",299,"Dixie-32680","Old Town","42",42
+"Florida",346,"32686",670,42,"Marion","Marion-32686","Reddick","Reddick",639,"Marion-32686","Reddick","9",9
+"Florida",347,"32693",673,21,"Gilchrist","Gilchrist-32693","Trenton","Fanning Springs, Trenton",379,"Gilchrist-32693","Fanning Springs, Trenton","90",90
+"Florida",348,"32693",674,38,"Levy","Levy-32693","Trenton","Fanning Springs, Andrews, Manatee Road",595,"Levy-32693","","0",0
+"Florida",349,"32694",675,1,"Alachua","Alachua-32694","Waldo","Waldo",22,"Alachua-32694","Waldo","7",7
+"Florida",350,"32696",678,38,"Levy","Levy-32696","Williston","Williston, East Bronson, East Williston, Raleigh, Williston Highlands",596,"Levy-32696","Williston","42",42
+"Florida",351,"32696",679,42,"Marion","Marion-32696","Williston","East Williston",640,"Marion-32696","","0",0
+"Florida",352,"32701",680,59,"Seminole","Seminole-32701","Altamonte Springs","Altamonte Springs, Longwood, Casselberry, Fern Park",992,"Seminole-32701","Altamonte Springs","163",163
+"Florida",353,"32702",681,35,"Lake","Lake-32702","Altoona","Umatilla, Altoona, Pittman",513,"Lake-32702","Altoona","6",6
+"Florida",354,"32702",682,42,"Marion","Marion-32702","Altoona","Altoona",641,"Marion-32702","","0",0
+"Florida",355,"32703",683,48,"Orange","Orange-32703","Apopka","Apopka, Ocoee, Clarcona, Forest City, Lockhart, Paradise Heights, South Apopka, Wekiwa Springs",705,"Orange-32703","Apopka, Forest City","345",345
+"Florida",356,"32703",684,59,"Seminole","Seminole-32703","Apopka","Forest City, Lockhart, Wekiwa Springs",993,"Seminole-32703","","0",0
+"Florida",357,"32707",685,59,"Seminole","Seminole-32707","Casselberry","Altamonte Springs, Longwood, Casselberry, Winter Springs, Fern Park",994,"Seminole-32707","Casselberry","245",245
+"Florida",358,"32708",686,59,"Seminole","Seminole-32708","Winter Springs","Oviedo, Longwood, Casselberry, Winter Springs, Black Hammock",995,"Seminole-32708","Casselberry, Winter Springs","266",266
+"Florida",359,"32709",688,48,"Orange","Orange-32709","Christmas","Bithlo, Christmas, Wedgefield",706,"Orange-32709","Christmas","20",20
+"Florida",360,"32712",692,48,"Orange","Orange-32712","Apopka","Apopka, Mount Plymouth, Wekiwa Springs, Zellwood",707,"Orange-32712","Apopka","321",321
+"Florida",361,"32713",696,64,"Volusia","Volusia-32713","Debary","DeBary, Deltona, Orange City",1085,"Volusia-32713","Debary","127",127
+"Florida",362,"32714",698,59,"Seminole","Seminole-32714","Altamonte Springs","Altamonte Springs, Forest City, Lockhart, Wekiwa Springs",996,"Seminole-32714","Altamonte Springs","314",314
+"Florida",363,"32720",699,35,"Lake","Lake-32720","Deland","Lake Kathryn, Lake Mack-Forest Hills",514,"Lake-32720","","0",0
+"Florida",364,"32720",701,64,"Volusia","Volusia-32720","Deland","DeLand, Orange City, DeLand Southwest, De Leon Springs, North DeLand, West DeLand",1086,"Volusia-32720","Deland","181",181
+"Florida",365,"32724",702,64,"Volusia","Volusia-32724","Deland","Lake Helen, DeLand, DeLand Southwest, De Leon Springs, North DeLand",1087,"Volusia-32724","Deland","267",267
+"Florida",366,"32725",704,64,"Volusia","Volusia-32725","Deltona","DeBary, DeLand, Deltona, Orange City",1088,"Volusia-32725","Deltona, Enterprise","221",221
+"Florida",367,"32726",705,35,"Lake","Lake-32726","Eustis","Tavares, Eustis, Mount Dora",515,"Lake-32726","Eustis","134",134
+"Florida",368,"32730",706,59,"Seminole","Seminole-32730","Casselberry","Altamonte Springs, Casselberry, Fern Park",997,"Seminole-32730","Casselberry, Fern Park","31",31
+"Florida",369,"32732",707,59,"Seminole","Seminole-32732","Geneva","Black Hammock, Geneva",998,"Seminole-32732","Geneva","40",40
+"Florida",370,"32735",709,35,"Lake","Lake-32735","Grand Island","Eustis",516,"Lake-32735","Grand Island","12",12
+"Florida",371,"32736",710,35,"Lake","Lake-32736","Eustis","Eustis, Mount Dora, Pine Lakes",517,"Lake-32736","Eustis","35",35
+"Florida",372,"32738",711,64,"Volusia","Volusia-32738","Deltona","Lake Helen, Deltona",1089,"Volusia-32738","Deltona","200",200
+"Florida",373,"32744",712,64,"Volusia","Volusia-32744","Lake Helen","Lake Helen, DeLand, Deltona",1090,"Volusia-32744","Lake Helen","9",9
+"Florida",374,"32746",715,59,"Seminole","Seminole-32746","Lake Mary","Sanford, Lake Mary, Heathrow",999,"Seminole-32746","Heathrow, Lake Mary","298",298
+"Florida",375,"32750",716,59,"Seminole","Seminole-32750","Longwood","Altamonte Springs, Lake Mary, Longwood, Casselberry, Winter Springs, Wekiwa Springs",1000,"Seminole-32750","Longwood","160",160
+"Florida",376,"32751",717,48,"Orange","Orange-32751","Maitland","Altamonte Springs, Eatonville, Maitland, Casselberry, Winter Park, Fairview Shores, Fern Park",708,"Orange-32751","Eatonville, Maitland","233",233
+"Florida",377,"32751",718,59,"Seminole","Seminole-32751","Maitland","Altamonte Springs, Casselberry, Winter Park, Fern Park",1001,"Seminole-32751","","0",0
+"Florida",378,"32754",719,5,"Brevard","Brevard-32754","Mims","Mims",48,"Brevard-32754","Mims","30",30
+"Florida",379,"32754",721,64,"Volusia","Volusia-32754","Mims","Mims",1091,"Volusia-32754","","0",0
+"Florida",380,"32757",722,35,"Lake","Lake-32757","Mount Dora","Tavares, Eustis, Mount Dora",518,"Lake-32757","Mount Dora","99",99
+"Florida",381,"32757",723,48,"Orange","Orange-32757","Mount Dora","Mount Dora, Tangerine, Zellwood",709,"Orange-32757","Mount Dora","<5",-2
+"Florida",382,"32759",725,64,"Volusia","Volusia-32759","Oak Hill","Edgewater, Oak Hill",1092,"Volusia-32759","Oak Hill","7",7
+"Florida",383,"32763",727,64,"Volusia","Volusia-32763","Orange City","DeBary, DeLand, Deltona, Orange City",1093,"Volusia-32763","Orange City","161",161
+"Florida",384,"32764",729,64,"Volusia","Volusia-32764","Osteen","Deltona",1094,"Volusia-32764","Osteen","10",10
+"Florida",385,"32765",731,59,"Seminole","Seminole-32765","Oviedo","Oviedo, Winter Springs, Black Hammock",1002,"Seminole-32765","Oviedo","458",458
+"Florida",386,"32766",733,59,"Seminole","Seminole-32766","Oviedo","Oviedo, Chuluota",1003,"Seminole-32766","Chuluota, Oviedo","104",104
+"Florida",387,"32767",735,35,"Lake","Lake-32767","Paisley","Lake Kathryn, Paisley",519,"Lake-32767","Paisley","<5",-2
+"Florida",388,"32771",738,59,"Seminole","Seminole-32771","Sanford","Sanford, Lake Mary, DeBary, Heathrow, Midway",1004,"Seminole-32771","Sanford","353",353
+"Florida",389,"32773",740,59,"Seminole","Seminole-32773","Sanford","Sanford, Lake Mary, Winter Springs, Black Hammock, Midway",1005,"Seminole-32773","Sanford","262",262
+"Florida",390,"32776",741,35,"Lake","Lake-32776","Sorrento","Mount Dora, Mount Plymouth, Sorrento",520,"Lake-32776","Mount Plymouth, Sorrento","43",43
+"Florida",391,"32776",742,48,"Orange","Orange-32776","Sorrento","Apopka, Mount Plymouth",710,"Orange-32776","Sorrento","<5",-2
+"Florida",392,"32778",744,35,"Lake","Lake-32778","Tavares","Tavares, Astatula, Eustis, Leesburg, Mount Dora, Yalaha",521,"Lake-32778","Tavares","266",266
+"Florida",393,"32779",746,59,"Seminole","Seminole-32779","Longwood","Altamonte Springs, Lake Mary, Longwood, Forest City, Wekiwa Springs",1006,"Seminole-32779","Longwood","214",214
+"Florida",394,"32780",747,5,"Brevard","Brevard-32780","Titusville","Titusville, Port St. John",49,"Brevard-32780","Titusville","106",106
+"Florida",395,"32784",749,35,"Lake","Lake-32784","Umatilla","Eustis, Umatilla, Altoona",522,"Lake-32784","Umatilla","23",23
+"Florida",396,"32784",750,42,"Marion","Marion-32784","Umatilla","Umatilla",642,"Marion-32784","","0",0
+"Florida",397,"32789",751,48,"Orange","Orange-32789","Winter Park","Eatonville, Maitland, Orlando, Winter Park, Fairview Shores",711,"Orange-32789","Orlando, Winter Park","249",249
+"Florida",398,"32792",753,48,"Orange","Orange-32792","Winter Park","Orlando, Casselberry, Winter Park, Goldenrod",712,"Orange-32792","Aloma, Winter Park","310",310
+"Florida",399,"32792",754,59,"Seminole","Seminole-32792","Winter Park","Casselberry, Winter Park, Goldenrod",1007,"Seminole-32792","Winter Park","<5",-2
+"Florida",400,"32796",755,5,"Brevard","Brevard-32796","Titusville","Titusville, Mims",50,"Brevard-32796","Titusville","73",73
+"Florida",401,"32798",759,48,"Orange","Orange-32798","Zellwood","Apopka, Tangerine, Zellwood",713,"Orange-32798","Zellwood","23",23
+"Florida",402,"32801",760,48,"Orange","Orange-32801","Orlando","Orlando",714,"Orange-32801","Orlando","400",400
+"Florida",403,"32803",761,48,"Orange","Orange-32803","Orlando","Orlando, Winter Park, Fairview Shores",715,"Orange-32803","Orlando","461",461
+"Florida",404,"32804",762,48,"Orange","Orange-32804","Orlando","Orlando, Fairview Shores",716,"Orange-32804","Orlando","188",188
+"Florida",405,"32805",763,48,"Orange","Orange-32805","Orlando","Orlando, Holden Heights",717,"Orange-32805","Orlando","224",224
+"Florida",406,"32806",764,48,"Orange","Orange-32806","Orlando","Belle Isle, Edgewood, Orlando, Conway, Holden Heights",718,"Orange-32806","Orlando","314",314
+"Florida",407,"32807",765,48,"Orange","Orange-32807","Orlando","Orlando, Winter Park, Azalea Park",719,"Orange-32807","Azalea Park, Orlando","355",355
+"Florida",408,"32808",766,48,"Orange","Orange-32808","Orlando","Orlando, Fairview Shores, Lockhart, Orlovista, Pine Hills",720,"Orange-32808","Orlando, Pine Hills","387",387
+"Florida",409,"32809",767,48,"Orange","Orange-32809","Orlando","Belle Isle, Edgewood, Orlando, Oak Ridge, Pine Castle, Sky Lake",721,"Orange-32809","Belle Isle, Orlando","257",257
+"Florida",410,"32810",768,48,"Orange","Orange-32810","Orlando","Altamonte Springs, Eatonville, Maitland, Orlando, Clarcona, Fairview Shores, Lockhart, Pine Hills",722,"Orange-32810","Lockhart, Orlando","223",223
+"Florida",411,"32811",770,48,"Orange","Orange-32811","Orlando","Orlando, Orlovista",723,"Orange-32811","Orlando","388",388
+"Florida",412,"32812",771,48,"Orange","Orange-32812","Orlando","Belle Isle, Orlando, Conway",724,"Orange-32812","Belle Isle, Orlando","272",272
+"Florida",413,"32814",772,48,"Orange","Orange-32814","Orlando","Orlando, Winter Park",725,"Orange-32814","Orlando","113",113
+"Florida",414,"32815",773,5,"Brevard","Brevard-32815","Orlando","Orlando",51,"Brevard-32815","","0",0
+"Florida",415,"32816",775,48,"Orange","Orange-32816","Orlando","Orlando, University",726,"Orange-32816","Alafaya, Orlando","12",12
+"Florida",416,"32817",777,48,"Orange","Orange-32817","Orlando","Alafaya, Goldenrod, Union Park, University",727,"Orange-32817","Orlando, Union Park","290",290
+"Florida",417,"32818",779,48,"Orange","Orange-32818","Orlando","Ocoee, Clarcona, Orlovista, Pine Hills",728,"Orange-32818","Hiawassee, Orlando","334",334
+"Florida",418,"32819",780,48,"Orange","Orange-32819","Orlando","Orlando, Bay Hill, Doctor Phillips, Lake Butler, Tangelo Park, Williamsburg",729,"Orange-32819","Orlando, Sand Lake","392",392
+"Florida",419,"32820",781,48,"Orange","Orange-32820","Orlando","Bithlo, Christmas",730,"Orange-32820","Alafaya, Orlando","58",58
+"Florida",420,"32821",782,48,"Orange","Orange-32821","Orlando","Bay Lake, Lake Buena Vista, Williamsburg",731,"Orange-32821","Bay Lake, Orlando","181",181
+"Florida",421,"32822",784,48,"Orange","Orange-32822","Orlando","Orlando, Azalea Park, Conway",732,"Orange-32822","Orlando","529",529
+"Florida",422,"32824",785,48,"Orange","Orange-32824","Orlando","Belle Isle, Orlando, Meadow Woods, Southchase, Taft",733,"Orange-32824","Orlando","499",499
+"Florida",423,"32825",787,48,"Orange","Orange-32825","Orlando","Alafaya, Rio Pinar, Union Park, University",734,"Orange-32825","Alafaya, Orlando","480",480
+"Florida",424,"32826",788,48,"Orange","Orange-32826","Orlando","Alafaya, University",735,"Orange-32826","Alafaya, Orlando","271",271
+"Florida",425,"32827",790,48,"Orange","Orange-32827","Orlando","Orlando",736,"Orange-32827","Orlando","120",120
+"Florida",426,"32828",792,48,"Orange","Orange-32828","Orlando","Alafaya, Bithlo, University, Wedgefield",737,"Orange-32828","Alafaya, Orlando","489",489
+"Florida",427,"32829",793,48,"Orange","Orange-32829","Orlando","Orlando, Alafaya, Rio Pinar",738,"Orange-32829","Orlando","164",164
+"Florida",428,"32830",794,48,"Orange","Orange-32830","Orlando","Bay Lake, Lake Buena Vista, Horizon West",739,"Orange-32830","Orlando","<5",-2
+"Florida",429,"32831",796,48,"Orange","Orange-32831","Orlando","Orlando, Alafaya, Wedgefield",740,"Orange-32831","Orlando","6",6
+"Florida",430,"32832",797,48,"Orange","Orange-32832","Orlando","Orlando, Alafaya, Lake Hart, Lake Mary Jane, Wedgefield",741,"Orange-32832","Orlando","184",184
+"Florida",431,"32833",799,48,"Orange","Orange-32833","Orlando","Alafaya, Bithlo, Christmas, Wedgefield",742,"Orange-32833","Orlando","59",59
+"Florida",432,"32835",800,48,"Orange","Orange-32835","Orlando","Orlando, Gotha, Lake Butler, Orlovista",743,"Orange-32835","Orlando","363",363
+"Florida",433,"32836",801,48,"Orange","Orange-32836","Orlando","Bay Lake, Lake Buena Vista, Bay Hill, Doctor Phillips, Horizon West, Lake Butler",744,"Orange-32836","Orlando","152",152
+"Florida",434,"32837",802,48,"Orange","Orange-32837","Orlando","Hunters Creek, Southchase, Williamsburg",745,"Orange-32837","Orlando","429",429
+"Florida",435,"32839",804,48,"Orange","Orange-32839","Orlando","Edgewood, Orlando, Holden Heights, Oak Ridge, Pine Castle, Sky Lake",746,"Orange-32839","Edgewood, Orlando, Pine Castle","441",441
+"Florida",436,"32901",805,5,"Brevard","Brevard-32901","Melbourne","Melbourne, Palm Bay, West Melbourne",52,"Brevard-32901","Melbourne","139",139
+"Florida",437,"32903",806,5,"Brevard","Brevard-32903","Indialantic","Melbourne, Indialantic, Indian Harbour Beach",53,"Brevard-32903","Indialantic, Melbourne","46",46
+"Florida",438,"32904",807,5,"Brevard","Brevard-32904","Melbourne","Melbourne Village, Melbourne, Palm Bay, West Melbourne, June Park",54,"Brevard-32904","Melbourne, West Melbourne","190",190
+"Florida",439,"32905",808,5,"Brevard","Brevard-32905","Palm Bay","Melbourne, Palm Bay, Malabar, West Melbourne",55,"Brevard-32905","Melbourne, Palm Bay","98",98
+"Florida",440,"32907",809,5,"Brevard","Brevard-32907","Palm Bay","Palm Bay, Malabar, West Melbourne",56,"Brevard-32907","Melbourne, Palm Bay","189",189
+"Florida",441,"32908",810,5,"Brevard","Brevard-32908","Palm Bay","Palm Bay",57,"Brevard-32908","Melbourne, Palm Bay","45",45
+"Florida",442,"32909",811,5,"Brevard","Brevard-32909","Palm Bay","Palm Bay, Malabar, Grant-Valkaria",58,"Brevard-32909","Melbourne, Palm Bay","179",179
+"Florida",443,"32920",813,5,"Brevard","Brevard-32920","Cape Canaveral","Cape Canaveral, Cocoa Beach",59,"Brevard-32920","Cape Canaveral","39",39
+"Florida",444,"32922",814,5,"Brevard","Brevard-32922","Cocoa","Rockledge, Cocoa, Cocoa West",60,"Brevard-32922","Cocoa","174",174
+"Florida",445,"32925",815,5,"Brevard","Brevard-32925","Patrick Afb","Patrick AFB, South Patrick Shores",61,"Brevard-32925","Patrick Air Force Base","8",8
+"Florida",446,"32926",816,5,"Brevard","Brevard-32926","Cocoa","Rockledge, Cocoa, Cocoa West, Port St. John, Sharpes",62,"Brevard-32926","Cocoa","73",73
+"Florida",447,"32927",818,5,"Brevard","Brevard-32927","Cocoa","Titusville, Port St. John, Sharpes",63,"Brevard-32927","Cocoa, Port Saint John","71",71
+"Florida",448,"32931",819,5,"Brevard","Brevard-32931","Cocoa Beach","Cape Canaveral, Cocoa Beach",64,"Brevard-32931","Cocoa Beach","69",69
+"Florida",449,"32934",820,5,"Brevard","Brevard-32934","Melbourne","Melbourne, West Melbourne",65,"Brevard-32934","Melbourne","47",47
+"Florida",450,"32935",821,5,"Brevard","Brevard-32935","Melbourne","Palm Shores, Melbourne",66,"Brevard-32935","Melbourne","152",152
+"Florida",451,"32937",822,5,"Brevard","Brevard-32937","Satellite Beach","Satellite Beach, Melbourne, Indian Harbour Beach, Merritt Island, Patrick AFB, South Patrick Shores",67,"Brevard-32937","Indian Harbour Beach, Melbourne, Satellite Beach","97",97
+"Florida",452,"32940",823,5,"Brevard","Brevard-32940","Melbourne","Palm Shores, Melbourne, Viera East, Viera West",68,"Brevard-32940","Melbourne, Palm Shores, Viera","146",146
+"Florida",453,"32948",824,5,"Brevard","Brevard-32948","Fellsmere","Fellsmere",69,"Brevard-32948","","0",0
+"Florida",454,"32948",825,31,"Indian River","Indian River-32948","Fellsmere","Fellsmere",480,"Indian River-32948","Fellsmere","198",198
+"Florida",455,"32949",826,5,"Brevard","Brevard-32949","Grant","Malabar, Grant-Valkaria, Micco",70,"Brevard-32949","Grant-valkaria","9",9
+"Florida",456,"32950",827,5,"Brevard","Brevard-32950","Malabar","Palm Bay, Malabar, Grant-Valkaria",71,"Brevard-32950","Malabar, Valkaria","17",17
+"Florida",457,"32951",828,5,"Brevard","Brevard-32951","Melbourne Beach","Indialantic, Melbourne Beach, Micco",72,"Brevard-32951","Melbourne Beach","21",21
+"Florida",458,"32952",829,5,"Brevard","Brevard-32952","Merritt Island","Satellite Beach, Merritt Island",73,"Brevard-32952","Merritt Island","77",77
+"Florida",459,"32953",830,5,"Brevard","Brevard-32953","Merritt Island","Titusville, Merritt Island",74,"Brevard-32953","Merritt Island","88",88
+"Florida",460,"32955",831,5,"Brevard","Brevard-32955","Rockledge","Rockledge, Cocoa, Cocoa West, Viera East, Viera West",75,"Brevard-32955","Melbourne, Rockledge, Viera","144",144
+"Florida",461,"32958",834,31,"Indian River","Indian River-32958","Sebastian","Sebastian, Fellsmere, Roseland, Wabasso",481,"Indian River-32958","Sebastian","66",66
+"Florida",462,"32960",835,31,"Indian River","Indian River-32960","Vero Beach","Vero Beach, Gifford, Vero Beach South",482,"Indian River-32960","Vero Beach","209",209
+"Florida",463,"32962",836,31,"Indian River","Indian River-32962","Vero Beach","Florida Ridge, Vero Beach South",483,"Indian River-32962","Vero Beach","88",88
+"Florida",464,"32963",838,31,"Indian River","Indian River-32963","Vero Beach","Orchid, Vero Beach, Indian River Shores, Florida Ridge, South Beach, Wabasso Beach, Windsor",484,"Indian River-32963","Indian River Shores, Vero Beach","42",42
+"Florida",465,"32963",839,56,"St. Lucie","St. Lucie-32963","Vero Beach","South Beach",1019,"St. Lucie-32963","","0",0
+"Florida",466,"32966",840,31,"Indian River","Indian River-32966","Vero Beach","Vero Beach, Fellsmere, Gifford, Vero Beach South, West Vero Corridor, Yeehaw Junction",485,"Indian River-32966","Vero Beach","50",50
+"Florida",467,"32967",844,31,"Indian River","Indian River-32967","Vero Beach","Sebastian, Vero Beach, Fellsmere, Gifford, Wabasso, Winter Beach",486,"Indian River-32967","Vero Beach","115",115
+"Florida",468,"32968",845,31,"Indian River","Indian River-32968","Vero Beach","Florida Ridge, Vero Beach South",487,"Indian River-32968","Vero Beach","33",33
+"Florida",469,"32976",847,5,"Brevard","Brevard-32976","Sebastian","Grant-Valkaria, Micco, Roseland",76,"Brevard-32976","Barefoot Bay, Sebastian","12",12
+"Florida",470,"33004",849,6,"Broward","Broward-33004","Dania","Hollywood, Dania Beach",78,"Broward-33004","Dania, Dania Beach","118",118
+"Florida",471,"33009",850,6,"Broward","Broward-33009","Hallandale","Aventura, Pembroke Park, West Park, Hallandale Beach, Hollywood",79,"Broward-33009","Hallandale, Hallandale Beach","342",342
+"Florida",472,"33010",852,13,"Dade","Dade-33010","Hialeah","Hialeah, Medley, Miami Springs",211,"Dade-33010","Hialeah, Miami Gardens","1087",1087
+"Florida",473,"33012",853,13,"Dade","Dade-33012","Hialeah","Hialeah, Hialeah Gardens",212,"Dade-33012","Hialeah","1387",1387
+"Florida",474,"33013",854,13,"Dade","Dade-33013","Hialeah","Hialeah, Opa-locka, West Little River, Westview",213,"Dade-33013","Hialeah","529",529
+"Florida",475,"33014",855,13,"Dade","Dade-33014","Hialeah","Miami Lakes, Miami Gardens, Hialeah, Opa-locka, Country Club",214,"Dade-33014","Hialeah, Miami Lakes","543",543
+"Florida",476,"33015",857,13,"Dade","Dade-33015","Hialeah","Miami Lakes, Miramar, Country Club, Palm Springs North",215,"Dade-33015","Hialeah, Miami Beach, Miami Gardens, Miami Lakes","978",978
+"Florida",477,"33016",858,13,"Dade","Dade-33016","Hialeah","Miami Lakes, Hialeah, Hialeah Gardens, Country Club",216,"Dade-33016","Hialeah, Hialeah Gardens, Miami Lakes","873",873
+"Florida",478,"33018",860,13,"Dade","Dade-33018","Hialeah","Miami Lakes, Hialeah, Hialeah Gardens",217,"Dade-33018","Hialeah, Hialeah Gardens, Miami Lakes","689",689
+"Florida",479,"33019",861,6,"Broward","Broward-33019","Hollywood","Hallandale Beach, Hollywood, Dania Beach",80,"Broward-33019","Hollywood","73",73
+"Florida",480,"33020",862,6,"Broward","Broward-33020","Hollywood","Pembroke Park, Hallandale Beach, Hollywood, Dania Beach",81,"Broward-33020","Hollywood","404",404
+"Florida",481,"33021",863,6,"Broward","Broward-33021","Hollywood","Pembroke Park, West Park, Hollywood, Dania Beach",82,"Broward-33021","Hollywood, Pembroke Park","512",512
+"Florida",482,"33023",864,6,"Broward","Broward-33023","Hollywood","Miramar, Pembroke Park, West Park, Hollywood, Pembroke Pines",83,"Broward-33023","Hollywood, Miramar, Pembroke Park, Pembroke Pines, West Park","982",982
+"Florida",483,"33024",866,6,"Broward","Broward-33024","Hollywood","Cooper City, Hollywood, Davie, Pembroke Pines",84,"Broward-33024","Cooper City, Hollywood, Pembroke Pines","747",747
+"Florida",484,"33025",867,6,"Broward","Broward-33025","Hollywood","Miami Gardens, Miramar, Pembroke Pines, Country Club",85,"Broward-33025","Hollywood, Miramar, Pembroke Pines","880",880
+"Florida",485,"33026",869,6,"Broward","Broward-33026","Hollywood","Cooper City, Davie, Southwest Ranches, Pembroke Pines",86,"Broward-33026","Cooper City, Hollywood, Pembroke Pines","216",216
+"Florida",486,"33027",870,6,"Broward","Broward-33027","Hollywood","Miramar, Pembroke Pines, Country Club",87,"Broward-33027","Hollywood, Miramar, Pembroke Pines","504",504
+"Florida",487,"33028",872,6,"Broward","Broward-33028","Pembroke Pines","Davie, Southwest Ranches, Pembroke Pines",88,"Broward-33028","Hollywood, Pembroke Pines","648",648
+"Florida",488,"33029",873,6,"Broward","Broward-33029","Hollywood","Miramar, Southwest Ranches, Pembroke Pines",89,"Broward-33029","Hollywood, Miramar, Pembroke Pines","317",317
+"Florida",489,"33030",875,13,"Dade","Dade-33030","Homestead","Homestead, Florida City, Leisure City",218,"Dade-33030","Everglades National Park, Homestead","908",908
+"Florida",490,"33031",876,13,"Dade","Dade-33031","Homestead","Homestead",219,"Dade-33031","Homestead","52",52
+"Florida",491,"33032",877,13,"Dade","Dade-33032","Homestead","Goulds, Homestead Base, Leisure City, Naranja, Princeton",220,"Dade-33032","Homestead, Naranja, Princeton","549",549
+"Florida",492,"33033",878,13,"Dade","Dade-33033","Homestead","Homestead, Islandia, Homestead Base, Leisure City, Naranja",221,"Dade-33033","Homestead, Naranja","940",940
+"Florida",493,"33034",879,13,"Dade","Dade-33034","Homestead","Homestead, Florida City",222,"Dade-33034","Florida City, Homestead","689",689
+"Florida",494,"33034",880,44,"Monroe","Monroe-33034","Flamingo","Flamingo",673,"Monroe-33034","","0",0
+"Florida",495,"33035",881,13,"Dade","Dade-33035","Homestead","Homestead, Florida City",223,"Dade-33035","Homestead","215",215
+"Florida",496,"33036",883,44,"Monroe","Monroe-33036","Islamorada","Islamorada, Village of Islands",674,"Monroe-33036","Islamorada","13",13
+"Florida",497,"33037",885,44,"Monroe","Monroe-33037","Key Largo","Islandia, Key Largo, North Key Largo, Tavernier",675,"Monroe-33037","Key Largo","46",46
+"Florida",498,"33039",886,13,"Dade","Dade-33039","Homestead","Homestead Base",224,"Dade-33039","Homestead","<5",-2
+"Florida",499,"33040",887,44,"Monroe","Monroe-33040","Key West","Key West, Big Coppitt Key, Stock Island",676,"Monroe-33040","Key West, Stock Island","127",127
+"Florida",500,"33042",888,44,"Monroe","Monroe-33042","Summerland Key","Cudjoe Key",677,"Monroe-33042","Cudjoe Key, Sugarloaf, Summerland Key","10",10
+"Florida",501,"33043",889,44,"Monroe","Monroe-33043","Big Pine Key","Big Pine Key",678,"Monroe-33043","Big Pine Key","12",12
+"Florida",502,"33050",890,44,"Monroe","Monroe-33050","Marathon","Marathon, Key Colony Beach, Duck Key",679,"Monroe-33050","Marathon","45",45
+"Florida",503,"33054",892,13,"Dade","Dade-33054","Opa Locka","Miami Lakes, Miami Gardens, Hialeah, Opa-locka, Golden Glades, Westview",225,"Dade-33054","Miami Gardens, Opa Locka","555",555
+"Florida",504,"33055",894,13,"Dade","Dade-33055","Opa Locka","Miami Lakes, Miami Gardens, Miramar, Country Club",226,"Dade-33055","Carol City, Miami Gardens, Opa Locka","761",761
+"Florida",505,"33056",896,13,"Dade","Dade-33056","Miami Gardens","Miami Gardens, Miramar",227,"Dade-33056","Carol City, Miami Gardens, Opa Locka","606",606
+"Florida",506,"33060",897,6,"Broward","Broward-33060","Pompano Beach","Pompano Beach, Fort Lauderdale, Oakland Park",90,"Broward-33060","Pompano Beach","479",479
+"Florida",507,"33062",898,6,"Broward","Broward-33062","Pompano Beach","Deerfield Beach, Pompano Beach, Lauderdale-by-the-Sea, Lighthouse Point, Hillsboro Beach, Fort Lauderdale",91,"Broward-33062","Hillsboro Beach, Lauderdale By The Sea, Pompano Beach","109",109
+"Florida",508,"33063",899,6,"Broward","Broward-33063","Pompano Beach","Coconut Creek, Coral Springs, North Lauderdale, Margate",92,"Broward-33063","Coconut Creek, Margate, Pompano Beach","457",457
+"Florida",509,"33064",900,6,"Broward","Broward-33064","Pompano Beach","Deerfield Beach, Pompano Beach, Lighthouse Point, Hillsboro Beach",93,"Broward-33064","Deerfield Beach, Lighthouse Point, Pompano Beach","743",743
+"Florida",510,"33065",901,6,"Broward","Broward-33065","Coral Springs","Coral Springs, Parkland",94,"Broward-33065","Coral Springs, Margate, Pompano Beach","408",408
+"Florida",511,"33066",902,6,"Broward","Broward-33066","Pompano Beach","Coconut Creek",95,"Broward-33066","Coconut Creek, Pompano Beach","104",104
+"Florida",512,"33067",903,6,"Broward","Broward-33067","Pompano Beach","Coconut Creek, Coral Springs, Parkland, Watergate",96,"Broward-33067","Coral Springs, Parkland, Pompano Beach","125",125
+"Florida",513,"33068",905,6,"Broward","Broward-33068","Pompano Beach","Coral Springs, North Lauderdale, Tamarac, Margate, Fort Lauderdale",97,"Broward-33068","Margate, North Lauderdale, Pompano Beach","527",527
+"Florida",514,"33069",906,6,"Broward","Broward-33069","Pompano Beach","Coconut Creek, Deerfield Beach, North Lauderdale, Pompano Beach, Fort Lauderdale, Oakland Park",98,"Broward-33069","Pompano Beach","346",346
+"Florida",515,"33070",907,44,"Monroe","Monroe-33070","Tavernier","Islamorada, Village of Islands, Key Largo, Tavernier",680,"Monroe-33070","Tavernier","45",45
+"Florida",516,"33071",908,6,"Broward","Broward-33071","Coral Springs","Coral Springs, Tamarac, Margate",99,"Broward-33071","Coral Springs, Margate, Pompano Beach","244",244
+"Florida",517,"33073",909,6,"Broward","Broward-33073","Pompano Beach","Coconut Creek, Coral Springs, Deerfield Beach, Parkland, Pompano Beach, Hillsboro Pines, Watergate",100,"Broward-33073","Coconut Creek, Coral Springs, Parkland, Pompano Beach","278",278
+"Florida",518,"33076",911,6,"Broward","Broward-33076","Pompano Beach","Pompano Beach, Coral Springs, Parkland",101,"Broward-33076","Coral Springs, Parkland, Pompano Beach","206",206
+"Florida",519,"33109",913,13,"Dade","Dade-33109","Miami Beach","Miami, Miami Beach, Fisher Island",228,"Dade-33109","Fisher Island, Miami, Miami Beach","10",10
+"Florida",520,"33122",914,13,"Dade","Dade-33122","Miami","Doral",229,"Dade-33122","Doral, Miami","27",27
+"Florida",521,"33125",915,13,"Dade","Dade-33125","Miami","Miami, Coral Gables",230,"Dade-33125","Miami","2161",2161
+"Florida",522,"33126",916,13,"Dade","Dade-33126","Miami","Doral, Miami, Fountainebleau",231,"Dade-33126","Doral, Miami","826",826
+"Florida",523,"33127",917,13,"Dade","Dade-33127","Miami","Miami",232,"Dade-33127","Miami","533",533
+"Florida",524,"33128",918,13,"Dade","Dade-33128","Miami","Miami",233,"Dade-33128","Miami","667",667
+"Florida",525,"33129",919,13,"Dade","Dade-33129","Miami","Miami",234,"Dade-33129","Miami","117",117
+"Florida",526,"33130",920,13,"Dade","Dade-33130","Miami","Miami",235,"Dade-33130","Miami","530",530
+"Florida",527,"33131",921,13,"Dade","Dade-33131","Miami","Miami",236,"Dade-33131","Miami","171",171
+"Florida",528,"33132",922,13,"Dade","Dade-33132","Miami","Miami",237,"Dade-33132","Miami","166",166
+"Florida",529,"33133",923,13,"Dade","Dade-33133","Miami","Miami, Coral Gables",238,"Dade-33133","Coconut Grove, Coral Gables, Miami","433",433
+"Florida",530,"33134",924,13,"Dade","Dade-33134","Miami","West Miami, Miami, Coral Gables, Coral Terrace",239,"Dade-33134","Coconut Grove, Coral Gables, Miami","379",379
+"Florida",531,"33135",925,13,"Dade","Dade-33135","Miami","Miami, Coral Gables",240,"Dade-33135","Miami","668",668
+"Florida",532,"33136",926,13,"Dade","Dade-33136","Miami","Miami",241,"Dade-33136","Miami","912",912
+"Florida",533,"33137",927,13,"Dade","Dade-33137","Miami","Miami",242,"Dade-33137","Miami","332",332
+"Florida",534,"33138",928,13,"Dade","Dade-33138","Miami","Miami, Biscayne Park, El Portal, Miami Shores, West Little River",243,"Dade-33138","El Portal, Miami, Miami Shores","269",269
+"Florida",535,"33139",929,13,"Dade","Dade-33139","Miami Beach","Miami, Miami Beach",244,"Dade-33139","Fisher Island, Miami, Miami Beach","481",481
+"Florida",536,"33140",930,13,"Dade","Dade-33140","Miami Beach","Miami Beach",245,"Dade-33140","Miami, Miami Beach","511",511
+"Florida",537,"33141",931,13,"Dade","Dade-33141","Miami Beach","Surfside, Miami Beach",246,"Dade-33141","Miami, Miami Beach, North Bay Village","311",311
+"Florida",538,"33142",932,13,"Dade","Dade-33142","Miami","Miami, Hialeah, Miami Springs, Brownsville, Gladeview",247,"Dade-33142","Miami","1477",1477
+"Florida",539,"33143",933,13,"Dade","Dade-33143","Miami","Coral Gables, Pinecrest, South Miami, Glenvar Heights, Kendall, Olympia Heights, Sunset",248,"Dade-33143","Coral Gables, Miami, Miami Gardens, South Miami","782",782
+"Florida",540,"33144",934,13,"Dade","Dade-33144","Miami","West Miami, Miami, Coral Gables, Coral Terrace, Fountainebleau, Westchester",249,"Dade-33144","Coral Gables, Miami, West Miami","555",555
+"Florida",541,"33145",935,13,"Dade","Dade-33145","Miami","Miami, Coral Gables",250,"Dade-33145","Miami","362",362
+"Florida",542,"33146",936,13,"Dade","Dade-33146","Miami","Miami, Coral Gables, South Miami",251,"Dade-33146","Coconut Grove, Coral Gables, Miami","109",109
+"Florida",543,"33147",937,13,"Dade","Dade-33147","Miami","Miami, Hialeah, Brownsville, Gladeview, Pinewood, West Little River, Westview",252,"Dade-33147","Miami","876",876
+"Florida",544,"33149",938,13,"Dade","Dade-33149","Key Biscayne","Miami, Key Biscayne",253,"Dade-33149","Key Biscayne, Miami","138",138
+"Florida",545,"33150",939,13,"Dade","Dade-33150","Miami","Miami, El Portal, Miami Shores, Gladeview, Pinewood, West Little River",254,"Dade-33150","El Portal, Miami","513",513
+"Florida",546,"33154",940,13,"Dade","Dade-33154","Miami Beach","Surfside, Bal Harbour, Miami Beach, North Miami",255,"Dade-33154","Bal Harbour, Bay Harbor Islands, Miami, Miami Beach, Surfside","124",124
+"Florida",547,"33155",941,13,"Dade","Dade-33155","Miami","West Miami, Coral Gables, South Miami, Coral Terrace, Glenvar Heights, Olympia Heights, Westchester",256,"Dade-33155","Miami, Miami Beach, West Miami","614",614
+"Florida",548,"33156",942,13,"Dade","Dade-33156","Miami","Coral Gables, Pinecrest, South Miami, Palmetto Bay, Glenvar Heights, Kendall",257,"Dade-33156","Coral Gables, Kendall, Miami, Pinecrest","392",392
+"Florida",549,"33157",943,13,"Dade","Dade-33157","Miami","Cutler Bay, Palmetto Bay, Kendall, Palmetto Estates, Richmond Heights, South Miami Heights, West Perrine",258,"Dade-33157","Cutler Bay, Miami, Palmetto Bay, Perrine, Village Of Palmetto Bay","1208",1208
+"Florida",550,"33158",944,13,"Dade","Dade-33158","Miami","Coral Gables, Pinecrest, Palmetto Bay, Kendall",259,"Dade-33158","Miami, Palmetto Bay, Village Of Palmetto Bay","41",41
+"Florida",551,"33160",946,13,"Dade","Dade-33160","North Miami Beach","North Miami Beach, Sunny Isles Beach, Aventura, North Miami, Golden Beach, Hallandale Beach, Ojus",260,"Dade-33160","Aventura, Cleveland, Golden Beach, Miami, North Miami Beach, Sunny Isles Beach","319",319
+"Florida",552,"33161",947,13,"Dade","Dade-33161","Miami","North Miami Beach, Biscayne Park, North Miami, Miami Shores, Golden Glades",261,"Dade-33161","Biscayne Park, Miami, North Miami","954",954
+"Florida",553,"33162",948,13,"Dade","Dade-33162","Miami","North Miami Beach, North Miami, Golden Glades, Ojus",262,"Dade-33162","Miami, Miami Beach, North Miami Beach","631",631
+"Florida",554,"33165",949,13,"Dade","Dade-33165","Miami","Olympia Heights, Sunset, University Park, Westchester, Westwood Lakes",263,"Dade-33165","Miami","895",895
+"Florida",555,"33166",950,13,"Dade","Dade-33166","Miami","Doral, Hialeah, Hialeah Gardens, Medley, Virginia Gardens, Miami Springs",264,"Dade-33166","Doral, Medley, Miami, Miami Springs, Virginia Gardens","495",495
+"Florida",556,"33167",951,13,"Dade","Dade-33167","Miami","Hialeah, North Miami, Opa-locka, Golden Glades, Pinewood, West Little River, Westview",265,"Dade-33167","Miami, North Miami","283",283
+"Florida",557,"33168",952,13,"Dade","Dade-33168","Miami","North Miami, Miami Shores, Golden Glades, Pinewood",266,"Dade-33168","Miami, North Miami","368",368
+"Florida",558,"33169",954,13,"Dade","Dade-33169","Miami","North Miami Beach, Miami Gardens, Miramar, West Park, Golden Glades",267,"Dade-33169","Miami, Miami Gardens, North Miami Beach, Opa Locka","644",644
+"Florida",559,"33170",955,13,"Dade","Dade-33170","Miami","Cutler Bay, Goulds, Princeton",268,"Dade-33170","Cutler Ridge, Goulds, Miami","250",250
+"Florida",560,"33172",956,13,"Dade","Dade-33172","Miami","Sweetwater, Doral, Fountainebleau, Tamiami",269,"Dade-33172","Doral, Miami, Sweetwater, West Miami","572",572
+"Florida",561,"33173",957,13,"Dade","Dade-33173","Miami","Glenvar Heights, Kendall, Olympia Heights, Sunset, Westwood Lakes",270,"Dade-33173","Miami","314",314
+"Florida",562,"33174",958,13,"Dade","Dade-33174","Miami","Sweetwater, Fountainebleau, Tamiami, University Park, Westchester",271,"Dade-33174","Miami, Sweetwater","364",364
+"Florida",563,"33175",959,13,"Dade","Dade-33175","Miami","Kendale Lakes, Kendall West, Tamiami, University Park, Westwood Lakes",272,"Dade-33175","Miami","862",862
+"Florida",564,"33176",960,13,"Dade","Dade-33176","Miami","Palmetto Bay, Kendall, Palmetto Estates, Richmond Heights, Three Lakes",273,"Dade-33176","Miami, Palmetto Bay","514",514
+"Florida",565,"33177",961,13,"Dade","Dade-33177","Miami","Country Walk, Goulds, Palmetto Estates, Richmond Heights, Richmond West, South Miami Heights, Three Lakes, West Perrine",274,"Dade-33177","Miami","669",669
+"Florida",566,"33178",962,13,"Dade","Dade-33178","Miami","Doral, Hialeah Gardens, Medley",275,"Dade-33178","Doral, Medley, Miami","689",689
+"Florida",567,"33179",964,13,"Dade","Dade-33179","Miami","North Miami Beach, Miami Gardens, Pembroke Park, West Park, Hallandale Beach, Ives Estates, Ojus",276,"Dade-33179","Miami, Miami Gardens, North Miami Beach","597",597
+"Florida",568,"33180",966,13,"Dade","Dade-33180","Miami","North Miami Beach, Sunny Isles Beach, Aventura, Coral Gables, Hallandale Beach, Coral Terrace, Ojus",277,"Dade-33180","Aventura, Miami","359",359
+"Florida",569,"33181",967,13,"Dade","Dade-33181","Miami","North Miami Beach, North Miami, Golden Glades",278,"Dade-33181","Biscayne Park, Miami, North Miami, North Miami Beach","211",211
+"Florida",570,"33182",968,13,"Dade","Dade-33182","Miami","Doral, Tamiami",279,"Dade-33182","Doral, Miami","158",158
+"Florida",571,"33183",969,13,"Dade","Dade-33183","Miami","Kendale Lakes, Kendall, Kendall West, Sunset, The Crossings, Westwood Lakes",280,"Dade-33183","Kendall, Miami","399",399
+"Florida",572,"33184",970,13,"Dade","Dade-33184","Miami","Tamiami, University Park",281,"Dade-33184","Miami","264",264
+"Florida",573,"33185",971,13,"Dade","Dade-33185","Miami","Kendale Lakes, Kendall West",282,"Dade-33185","Miami","257",257
+"Florida",574,"33186",972,13,"Dade","Dade-33186","Miami","Country Walk, Kendale Lakes, Kendall, Kendall West, Richmond Heights, Richmond West, The Crossings, The Hammocks, Three Lakes",283,"Dade-33186","Miami","574",574
+"Florida",575,"33187",973,13,"Dade","Dade-33187","Miami","Country Walk, Richmond West",284,"Dade-33187","Miami","233",233
+"Florida",576,"33189",974,13,"Dade","Dade-33189","Miami","Cutler Bay, Goulds, South Miami Heights",285,"Dade-33189","Cutler Bay, Miami","244",244
+"Florida",577,"33190",975,13,"Dade","Dade-33190","Miami","Cutler Bay, Goulds",286,"Dade-33190","Cutler Bay, Miami, Quail Heights","157",157
+"Florida",578,"33193",976,13,"Dade","Dade-33193","Miami","Kendale Lakes, Kendall West, The Hammocks",287,"Dade-33193","Miami","525",525
+"Florida",579,"33194",977,13,"Dade","Dade-33194","Miami","Tamiami",288,"Dade-33194","Miami","197",197
+"Florida",580,"33196",980,13,"Dade","Dade-33196","Miami","Country Walk, Kendall West, Richmond West, The Hammocks",289,"Dade-33196","Miami","530",530
+"Florida",581,"33199",982,13,"Dade","Dade-33199","Miami","University Park",290,"Dade-33199","Miami","<5",-2
+"Florida",582,"33301",983,6,"Broward","Broward-33301","Fort Lauderdale","Fort Lauderdale",102,"Broward-33301","Fort Lauderdale, Hollywood, Pompano Beach, Weston","160",160
+"Florida",583,"33304",984,6,"Broward","Broward-33304","Fort Lauderdale","Fort Lauderdale",103,"Broward-33304","Fort Lauderdale","149",149
+"Florida",584,"33305",985,6,"Broward","Broward-33305","Fort Lauderdale","Wilton Manors, Fort Lauderdale, Lazy Lake",104,"Broward-33305","Fort Lauderdale, Oakland Park, Wilton Manors","140",140
+"Florida",585,"33306",986,6,"Broward","Broward-33306","Fort Lauderdale","Wilton Manors, Fort Lauderdale, Oakland Park",105,"Broward-33306","Fort Lauderdale, Oakland Park, Wilton Manors","20",20
+"Florida",586,"33308",987,6,"Broward","Broward-33308","Fort Lauderdale","Pompano Beach, Lauderdale-by-the-Sea, Sea Ranch Lakes, Fort Lauderdale, Oakland Park",106,"Broward-33308","Fort Lauderdale, Laud-by-the-sea, Lauderdale By The Sea, Oakland Park","177",177
+"Florida",587,"33309",988,6,"Broward","Broward-33309","Fort Lauderdale","North Lauderdale, Pompano Beach, Tamarac, Lauderdale Lakes, Fort Lauderdale, Oakland Park",107,"Broward-33309","Coral Springs, Fort Lauderdale, Hollywood, Lauderdale Lakes, Oakland Park, Pompano Beach, Tamarac","518",518
+"Florida",588,"33311",989,6,"Broward","Broward-33311","Fort Lauderdale","Lauderdale Lakes, Wilton Manors, Lauderhill, Fort Lauderdale, Lazy Lake, Oakland Park, Plantation, Boulevard Gardens, Franklin Park, Roosevelt Gardens, Washington Park",108,"Broward-33311","Fort Lauderdale, Lauderdale Lakes, Lauderhill, Oakland Park, Plantation, Wilton Manors","963",963
+"Florida",589,"33312",990,6,"Broward","Broward-33312","Fort Lauderdale","Lauderhill, Hollywood, Dania Beach, Davie, Fort Lauderdale, Plantation, Boulevard Gardens, Broadview Park, Washington Park",109,"Broward-33312","Davie, Fort Lauderdale","483",483
+"Florida",590,"33313",991,6,"Broward","Broward-33313","Fort Lauderdale","Sunrise, Lauderdale Lakes, Lauderhill, Plantation",110,"Broward-33313","City Of Sunrise, Fort Lauderdale, Lauderdale Lakes, Lauderhill, Oakland Park, Plantation, Sunrise","695",695
+"Florida",591,"33314",992,6,"Broward","Broward-33314","Fort Lauderdale","Hollywood, Dania Beach, Davie",111,"Broward-33314","Dania Beach, Davie, Fort Lauderdale","263",263
+"Florida",592,"33315",993,6,"Broward","Broward-33315","Fort Lauderdale","Dania Beach, Fort Lauderdale",112,"Broward-33315","Fort Lauderdale","172",172
+"Florida",593,"33316",994,6,"Broward","Broward-33316","Fort Lauderdale","Hollywood, Dania Beach, Fort Lauderdale",113,"Broward-33316","Fort Lauderdale, Port Everglades","592",592
+"Florida",594,"33317",995,6,"Broward","Broward-33317","Fort Lauderdale","Sunrise, Davie, Fort Lauderdale, Plantation, Broadview Park",114,"Broward-33317","Davie, Fort Lauderdale, Plantation","303",303
+"Florida",595,"33319",996,6,"Broward","Broward-33319","Fort Lauderdale","North Lauderdale, Sunrise, Tamarac, Lauderdale Lakes, Lauderhill, Fort Lauderdale",115,"Broward-33319","Fort Lauderdale, Lauderdale Lakes, Lauderhill, North Lauderdale, Tamarac","458",458
+"Florida",596,"33321",997,6,"Broward","Broward-33321","Fort Lauderdale","Coral Springs, North Lauderdale, Sunrise, Tamarac",116,"Broward-33321","Fort Lauderdale, Tamarac","329",329
+"Florida",597,"33322",998,6,"Broward","Broward-33322","Fort Lauderdale","Sunrise, Plantation",117,"Broward-33322","Fort Lauderdale, Plantation, Sunrise","213",213
+"Florida",598,"33323",999,6,"Broward","Broward-33323","Fort Lauderdale","Sunrise, Davie, Plantation",118,"Broward-33323","Fort Lauderdale, Plantation, Sunrise","151",151
+"Florida",599,"33324",1000,6,"Broward","Broward-33324","Fort Lauderdale","Davie, Plantation",119,"Broward-33324","Davie, Fort Lauderdale, Plantation","249",249
+"Florida",600,"33325",1001,6,"Broward","Broward-33325","Fort Lauderdale","Sunrise, Davie, Plantation",120,"Broward-33325","Davie, Fort Lauderdale, Plantation, Sunrise","230",230
+"Florida",601,"33326",1002,6,"Broward","Broward-33326","Fort Lauderdale","Sunrise, Weston, Davie",121,"Broward-33326","Davie, Fort Lauderdale, Sunrise, Weston","192",192
+"Florida",602,"33327",1003,6,"Broward","Broward-33327","Fort Lauderdale","Coral Springs, Sunrise, Tamarac, Weston",122,"Broward-33327","Fort Lauderdale, Weston","104",104
+"Florida",603,"33328",1004,6,"Broward","Broward-33328","Fort Lauderdale","Cooper City, Davie",123,"Broward-33328","Cooper City, Davie, Fort Lauderdale","160",160
+"Florida",604,"33330",1005,6,"Broward","Broward-33330","Fort Lauderdale","Cooper City, Davie, Southwest Ranches, Pembroke Pines",124,"Broward-33330","Cooper City, Davie, Fort Lauderdale, Southwest Ranches","75",75
+"Florida",605,"33331",1006,6,"Broward","Broward-33331","Fort Lauderdale","Weston, Davie, Southwest Ranches, Pembroke Pines",125,"Broward-33331","Davie, Fort Lauderdale, Southwest Ranches, Weston","169",169
+"Florida",606,"33332",1007,6,"Broward","Broward-33332","Fort Lauderdale","Weston, Southwest Ranches, Pembroke Pines",126,"Broward-33332","Fort Lauderdale, Southwest Ranches, Weston","54",54
+"Florida",607,"33334",1008,6,"Broward","Broward-33334","Fort Lauderdale","Pompano Beach, Wilton Manors, Fort Lauderdale, Oakland Park",127,"Broward-33334","Fort Lauderdale, Oakland Park, Wilton Manors","302",302
+"Florida",608,"33351",1009,6,"Broward","Broward-33351","Fort Lauderdale","Sunrise, Tamarac, Lauderhill",128,"Broward-33351","Fort Lauderdale, Lauderdale Lakes, Lauderhill, Miramar, Sunrise, Tamarac","264",264
+"Florida",609,"33401",1012,50,"Palm Beach","Palm Beach-33401","West Palm Beach","West Palm Beach",769,"Palm Beach-33401","West Palm Beach","400",400
+"Florida",610,"33403",1013,50,"Palm Beach","Palm Beach-33403","West Palm Beach","Riviera Beach, Lake Park, North Palm Beach, Palm Beach Gardens",770,"Palm Beach-33403","Lake Park, Palm Beach Gardens, Riviera Beach, West Palm Beach","113",113
+"Florida",611,"33404",1014,50,"Palm Beach","Palm Beach-33404","West Palm Beach","West Palm Beach, Riviera Beach, Lake Park, North Palm Beach, Palm Beach Gardens, Palm Beach Shores",771,"Palm Beach-33404","Palm Beach Shores, Rivera Beach, Riviera Beach, Singer Island, West Palm Beach","463",463
+"Florida",612,"33405",1015,50,"Palm Beach","Palm Beach-33405","West Palm Beach","West Palm Beach, Lake Clarke Shores, Lake Worth, Cloud Lake",772,"Palm Beach-33405","West Palm Beach","319",319
+"Florida",613,"33406",1016,50,"Palm Beach","Palm Beach-33406","West Palm Beach","West Palm Beach, Palm Springs, Glen Ridge, Lake Clarke Shores, Lake Worth, Cloud Lake, Acacia Villas, Gun Club Estates, Pine Air, Royal Palm Estates, Westgate",773,"Palm Beach-33406","Cloud Lake, Palm Springs, West Palm Beach","486",486
+"Florida",614,"33407",1017,50,"Palm Beach","Palm Beach-33407","West Palm Beach","West Palm Beach, Riviera Beach, Mangonia Park",774,"Palm Beach-33407","Mangonia Park, Riviera Beach, West Palm Beach","521",521
+"Florida",615,"33408",1018,50,"Palm Beach","Palm Beach-33408","North Palm Beach","Riviera Beach, Jupiter, Juno Beach, Lake Park, North Palm Beach, Palm Beach Gardens, Juno Ridge",775,"Palm Beach-33408","Juno Beach, North Palm Beach","100",100
+"Florida",616,"33409",1019,50,"Palm Beach","Palm Beach-33409","West Palm Beach","West Palm Beach, Haverhill, Schall Circle, Westgate",776,"Palm Beach-33409","Haverhill, West Palm Beach","393",393
+"Florida",617,"33410",1020,50,"Palm Beach","Palm Beach-33410","Palm Beach Gardens","Riviera Beach, Jupiter, Juno Beach, North Palm Beach, Palm Beach Gardens, Cabana Colony",777,"Palm Beach-33410","North Palm Beach, Palm Beach Gardens, Riviera Beach, West Palm Beach","306",306
+"Florida",618,"33411",1021,50,"Palm Beach","Palm Beach-33411","West Palm Beach","Loxahatchee Groves, West Palm Beach, Royal Palm Beach, Wellington, The Acreage",778,"Palm Beach-33411","Royal Palm Beach, Wellington, West Palm Beach","473",473
+"Florida",619,"33412",1022,50,"Palm Beach","Palm Beach-33412","West Palm Beach","West Palm Beach, Palm Beach Gardens, The Acreage",779,"Palm Beach-33412","Palm Beach Gardens, Royal Palm Beach, West Palm Beach","90",90
+"Florida",620,"33413",1023,50,"Palm Beach","Palm Beach-33413","West Palm Beach","Wellington, Haverhill, Greenacres, Lake Belvedere Estates, Royal Palm Estates",780,"Palm Beach-33413","Greenacres, West Palm Beach","180",180
+"Florida",621,"33414",1024,50,"Palm Beach","Palm Beach-33414","Wellington","Royal Palm Beach, Wellington",781,"Palm Beach-33414","Wellington, West Palm Beach","329",329
+"Florida",622,"33415",1025,50,"Palm Beach","Palm Beach-33415","West Palm Beach","Palm Springs, Haverhill, Greenacres, Acacia Villas, Lake Belvedere Estates, Royal Palm Estates, Westgate",782,"Palm Beach-33415","Greenacres, Haverhill, West Palm Beach","782",782
+"Florida",623,"33417",1026,50,"Palm Beach","Palm Beach-33417","West Palm Beach","West Palm Beach, Haverhill, Lake Belvedere Estates, Plantation Mobile Home Park, Schall Circle, Stacey Street",783,"Palm Beach-33417","Haverhill, West Palm Beach","352",352
+"Florida",624,"33418",1027,50,"Palm Beach","Palm Beach-33418","Palm Beach Gardens","West Palm Beach, Riviera Beach, Jupiter, Palm Beach Gardens, Jupiter Farms",784,"Palm Beach-33418","Palm Beach Gardens, Riviera Beach, West Palm Beach","218",218
+"Florida",625,"33426",1028,50,"Palm Beach","Palm Beach-33426","Boynton Beach","Lantana, Boynton Beach",785,"Palm Beach-33426","Boynton Beach","213",213
+"Florida",626,"33428",1030,50,"Palm Beach","Palm Beach-33428","Boca Raton","Watergate",786,"Palm Beach-33428","Boca Raton","328",328
+"Florida",627,"33430",1031,50,"Palm Beach","Palm Beach-33430","Belle Glade","South Bay, Belle Glade",787,"Palm Beach-33430","Belle Glade","587",587
+"Florida",628,"33431",1032,50,"Palm Beach","Palm Beach-33431","Boca Raton","Boca Raton, Highland Beach",788,"Palm Beach-33431","Boca Raton","175",175
+"Florida",629,"33432",1034,50,"Palm Beach","Palm Beach-33432","Boca Raton","Boca Raton",789,"Palm Beach-33432","Boca Raton","196",196
+"Florida",630,"33433",1036,50,"Palm Beach","Palm Beach-33433","Boca Raton","Boca Raton",790,"Palm Beach-33433","Boca Raton","327",327
+"Florida",631,"33434",1037,50,"Palm Beach","Palm Beach-33434","Boca Raton","Boca Raton",791,"Palm Beach-33434","Boca Raton","105",105
+"Florida",632,"33435",1038,50,"Palm Beach","Palm Beach-33435","Boynton Beach","Briny Breezes, Ocean Ridge, Delray Beach, Hypoluxo, Boynton Beach, San Castle",792,"Palm Beach-33435","Boynton Beach, Ocean Ridge","520",520
+"Florida",633,"33436",1039,50,"Palm Beach","Palm Beach-33436","Boynton Beach","Golf, Boynton Beach",793,"Palm Beach-33436","Boynton Beach","328",328
+"Florida",634,"33437",1040,50,"Palm Beach","Palm Beach-33437","Boynton Beach","Boynton Beach",794,"Palm Beach-33437","Boynton Beach","213",213
+"Florida",635,"33438",1041,43,"Martin","Martin-33438","Canal Point","Canal Point",660,"Martin-33438","","0",0
+"Florida",636,"33438",1042,50,"Palm Beach","Palm Beach-33438","Canal Point","Pahokee, Canal Point",795,"Palm Beach-33438","Canal Point","14",14
+"Florida",637,"33440",1046,26,"Hendry","Hendry-33440","Clewiston","Clewiston, Harlem, Montura, Pioneer",395,"Hendry-33440","Clewiston","579",579
+"Florida",638,"33440",1047,50,"Palm Beach","Palm Beach-33440","Clewiston","Lake Harbor",796,"Palm Beach-33440","Clewiston","<5",-2
+"Florida",639,"33441",1048,6,"Broward","Broward-33441","Deerfield Beach","Deerfield Beach, Pompano Beach, Lighthouse Point, Hillsboro Beach, Boca Raton",129,"Broward-33441","Deerfield Beach","281",281
+"Florida",640,"33442",1050,6,"Broward","Broward-33442","Deerfield Beach","Deerfield Beach, Boca Raton",130,"Broward-33442","Deerfield Beach","196",196
+"Florida",641,"33444",1052,50,"Palm Beach","Palm Beach-33444","Delray Beach","Boca Raton, Delray Beach, Boynton Beach",797,"Palm Beach-33444","Delray Beach","256",256
+"Florida",642,"33445",1053,50,"Palm Beach","Palm Beach-33445","Delray Beach","Boca Raton, Delray Beach, Boynton Beach",798,"Palm Beach-33445","Delray Beach","241",241
+"Florida",643,"33446",1054,50,"Palm Beach","Palm Beach-33446","Delray Beach","Delray Beach",799,"Palm Beach-33446","Delray Beach","177",177
+"Florida",644,"33449",1055,50,"Palm Beach","Palm Beach-33449","Lake Worth","Wellington",800,"Palm Beach-33449","Lake Worth, Wellington","69",69
+"Florida",645,"33455",1056,43,"Martin","Martin-33455","Hobe Sound","Jupiter Island, Hobe Sound",661,"Martin-33455","Hobe Sound","146",146
+"Florida",646,"33458",1058,43,"Martin","Martin-33458","Jupiter","Jupiter",662,"Martin-33458","","0",0
+"Florida",647,"33458",1059,50,"Palm Beach","Palm Beach-33458","Jupiter","Jupiter, Palm Beach Gardens, Limestone Creek",801,"Palm Beach-33458","Jupiter","557",557
+"Florida",648,"33460",1060,50,"Palm Beach","Palm Beach-33460","Lake Worth Beach","Lantana, West Palm Beach, Lake Clarke Shores, Lake Worth",802,"Palm Beach-33460","Lake Worth, Lake Worth Beach","964",964
+"Florida",649,"33461",1061,50,"Palm Beach","Palm Beach-33461","Lake Worth","Lantana, Palm Springs, Atlantis, Lake Clarke Shores, Lake Worth, Greenacres, Acacia Villas, Kenwood Estates",803,"Palm Beach-33461","Lake Worth, Lake Worth Beach, Palm Springs","795",795
+"Florida",650,"33462",1062,50,"Palm Beach","Palm Beach-33462","Lake Worth","Manalapan, Lantana, Atlantis, Hypoluxo, Lake Worth, South Palm Beach, Boynton Beach, Palm Beach, San Castle, Seminole Manor",804,"Palm Beach-33462","Atlantis, Hypoluxo, Lake Worth, Lantana, Manalapan","417",417
+"Florida",651,"33463",1063,50,"Palm Beach","Palm Beach-33463","Lake Worth","Atlantis, Greenacres, Kenwood Estates",805,"Palm Beach-33463","Green Acres, Greenacres, Lake Worth","828",828
+"Florida",652,"33467",1064,50,"Palm Beach","Palm Beach-33467","Lake Worth","Wellington, Greenacres",806,"Palm Beach-33467","Greenacres, Lake Worth, Wellington","361",361
+"Florida",653,"33469",1065,43,"Martin","Martin-33469","Jupiter","Tequesta, Jupiter Island, Hobe Sound",663,"Martin-33469","","0",0
+"Florida",654,"33469",1066,50,"Palm Beach","Palm Beach-33469","Jupiter","Tequesta, Jupiter, Jupiter Inlet Colony",807,"Palm Beach-33469","Jupiter, Tequesta","77",77
+"Florida",655,"33470",1068,50,"Palm Beach","Palm Beach-33470","Loxahatchee","Loxahatchee Groves, Royal Palm Beach, Wellington, Palm Beach Gardens, The Acreage",808,"Palm Beach-33470","Loxahatchee, Loxahatchee Groves, Wellington","170",170
+"Florida",656,"33471",1069,22,"Glades","Glades-33471","Moore Haven","Moore Haven, Pioneer",380,"Glades-33471","Moore Haven","165",165
+"Florida",657,"33472",1072,50,"Palm Beach","Palm Beach-33472","Boynton Beach","Boynton Beach",809,"Palm Beach-33472","Boynton Beach","98",98
+"Florida",658,"33473",1073,50,"Palm Beach","Palm Beach-33473","Boynton Beach","Boynton Beach",810,"Palm Beach-33473","Boynton Beach","33",33
+"Florida",659,"33476",1074,50,"Palm Beach","Palm Beach-33476","Pahokee","Pahokee, Canal Point",811,"Palm Beach-33476","Pahokee","254",254
+"Florida",660,"33477",1075,50,"Palm Beach","Palm Beach-33477","Jupiter","Jupiter, Juno Beach, Jupiter Inlet Colony",812,"Palm Beach-33477","Jupiter","62",62
+"Florida",661,"33478",1076,43,"Martin","Martin-33478","Jupiter","Jupiter Farms",664,"Martin-33478","","0",0
+"Florida",662,"33478",1077,50,"Palm Beach","Palm Beach-33478","Jupiter","Jupiter, Palm Beach Gardens, Jupiter Farms, The Acreage",813,"Palm Beach-33478","Jupiter","61",61
+"Florida",663,"33480",1078,50,"Palm Beach","Palm Beach-33480","Palm Beach","Lantana, Lake Worth, South Palm Beach, Palm Beach",814,"Palm Beach-33480","Palm Beach, South Palm Beach","48",48
+"Florida",664,"33483",1079,50,"Palm Beach","Palm Beach-33483","Delray Beach","Briny Breezes, Boca Raton, Delray Beach, Gulf Stream, Boynton Beach, Highland Beach",815,"Palm Beach-33483","Delray Beach, Gulf Stream","75",75
+"Florida",665,"33484",1080,50,"Palm Beach","Palm Beach-33484","Delray Beach","Delray Beach",816,"Palm Beach-33484","Delray Beach, West Delray Beach","227",227
+"Florida",666,"33486",1082,50,"Palm Beach","Palm Beach-33486","Boca Raton","Deerfield Beach, Boca Raton",817,"Palm Beach-33486","Boca Raton","235",235
+"Florida",667,"33487",1083,50,"Palm Beach","Palm Beach-33487","Boca Raton","Boca Raton, Delray Beach, Highland Beach",818,"Palm Beach-33487","Boca Raton","102",102
+"Florida",668,"33493",1084,50,"Palm Beach","Palm Beach-33493","South Bay","South Bay",819,"Palm Beach-33493","South Bay","286",286
+"Florida",669,"33496",1085,50,"Palm Beach","Palm Beach-33496","Boca Raton","Boca Raton",820,"Palm Beach-33496","Boca Raton","102",102
+"Florida",670,"33498",1086,50,"Palm Beach","Palm Beach-33498","Boca Raton","Wellington",821,"Palm Beach-33498","Boca Raton","74",74
+"Florida",671,"33510",1087,29,"Hillsborough","Hillsborough-33510","Brandon","Brandon, East Lake-Orient Park, Mango, Seffner",421,"Hillsborough-33510","Brandon","211",211
+"Florida",672,"33511",1088,29,"Hillsborough","Hillsborough-33511","Brandon","Bloomingdale, Brandon, Riverview",422,"Hillsborough-33511","Brandon","587",587
+"Florida",673,"33513",1091,60,"Sumter","Sumter-33513","Bushnell","Bushnell, Istachatta, Nobleton",1041,"Sumter-33513","Bushnell","152",152
+"Florida",674,"33514",1093,60,"Sumter","Sumter-33514","Center Hill","Center Hill, Wildwood",1042,"Sumter-33514","Center Hill","13",13
+"Florida",675,"33523",1094,27,"Hernando","Hernando-33523","Dade City","Lacoochee, Ridge Manor",399,"Hernando-33523","","0",0
+"Florida",676,"33523",1095,51,"Pasco","Pasco-33523","Dade City","Dade City, Dade City North, Lacoochee, Trilby",825,"Pasco-33523","Dade City, Ridge Manor","67",67
+"Florida",677,"33525",1097,51,"Pasco","Pasco-33525","Dade City","St. Leo, San Antonio, Dade City, Connerton, Dade City North, Pasadena Hills",826,"Pasco-33525","Dade City","193",193
+"Florida",678,"33527",1100,29,"Hillsborough","Hillsborough-33527","Dover","Brandon, Dover, Fish Hawk, Thonotosassa, Valrico",423,"Hillsborough-33527","Dover","144",144
+"Florida",679,"33534",1101,29,"Hillsborough","Hillsborough-33534","Gibsonton","Apollo Beach, Gibsonton, Riverview",424,"Hillsborough-33534","Gibsonton","127",127
+"Florida",680,"33538",1104,60,"Sumter","Sumter-33538","Lake Panasoffkee","Bushnell, Lake Panasoffkee",1043,"Sumter-33538","Lake Panasoffkee","25",25
+"Florida",681,"33540",1105,29,"Hillsborough","Hillsborough-33540","Zephyrhills","Crystal Springs",425,"Hillsborough-33540","","0",0
+"Florida",682,"33540",1106,51,"Pasco","Pasco-33540","Zephyrhills","Zephyrhills, Crystal Springs, Pasadena Hills, Zephyrhills North, Zephyrhills South",827,"Pasco-33540","Zephyrhills","19",19
+"Florida",683,"33541",1109,51,"Pasco","Pasco-33541","Zephyrhills","Zephyrhills, Pasadena Hills, Wesley Chapel, Zephyrhills South, Zephyrhills West",828,"Pasco-33541","Zephyrhills","79",79
+"Florida",684,"33542",1110,51,"Pasco","Pasco-33542","Zephyrhills","Zephyrhills, Pasadena Hills, Zephyrhills North, Zephyrhills South, Zephyrhills West",829,"Pasco-33542","Zephyrhills","72",72
+"Florida",685,"33543",1112,51,"Pasco","Pasco-33543","Wesley Chapel","Tampa, Pasadena Hills, Wesley Chapel",830,"Pasco-33543","Wesley Chapel, Zephyrhills","157",157
+"Florida",686,"33544",1114,51,"Pasco","Pasco-33544","Wesley Chapel","Tampa, Wesley Chapel",831,"Pasco-33544","Wesley Chapel, Zephyrhills","183",183
+"Florida",687,"33545",1115,51,"Pasco","Pasco-33545","Wesley Chapel","Pasadena Hills, Wesley Chapel",832,"Pasco-33545","Wesley Chapel, Zephyrhills","86",86
+"Florida",688,"33547",1116,29,"Hillsborough","Hillsborough-33547","Lithia","Bloomingdale, Fish Hawk, Riverview, Valrico",426,"Hillsborough-33547","Lithia","91",91
+"Florida",689,"33547",1118,53,"Polk","Polk-33547","Lithia","Mulberry",901,"Polk-33547","","0",0
+"Florida",690,"33548",1119,29,"Hillsborough","Hillsborough-33548","Lutz","Cheval, Lake Magdalene, Lutz, Northdale",427,"Hillsborough-33548","Lutz","38",38
+"Florida",691,"33548",1120,51,"Pasco","Pasco-33548","Lutz","Land O' Lakes, Lutz",833,"Pasco-33548","","0",0
+"Florida",692,"33549",1121,29,"Hillsborough","Hillsborough-33549","Lutz","Lake Magdalene, Land O' Lakes, Lutz, University",428,"Hillsborough-33549","Lutz","86",86
+"Florida",693,"33549",1122,51,"Pasco","Pasco-33549","Lutz","Land O' Lakes, Lutz",834,"Pasco-33549","Lutz","<5",-2
+"Florida",694,"33556",1123,29,"Hillsborough","Hillsborough-33556","Odessa","Citrus Park, East Lake, Keystone, Northdale, Odessa, Trinity, Westchase",429,"Hillsborough-33556","Odessa","165",165
+"Florida",695,"33556",1124,51,"Pasco","Pasco-33556","Odessa","Keystone, Odessa, Trinity",835,"Pasco-33556","Odessa","8",8
+"Florida",696,"33558",1126,29,"Hillsborough","Hillsborough-33558","Lutz","Cheval, Citrus Park, Keystone, Lutz, Northdale, Odessa",430,"Hillsborough-33558","Lutz","129",129
+"Florida",697,"33558",1127,51,"Pasco","Pasco-33558","Lutz","Keystone, Land O' Lakes, Lutz, Odessa",836,"Pasco-33558","Lutz","<5",-2
+"Florida",698,"33559",1128,29,"Hillsborough","Hillsborough-33559","Lutz","Tampa, Land O' Lakes, Lutz, University, Wesley Chapel",431,"Hillsborough-33559","Lutz","78",78
+"Florida",699,"33559",1129,51,"Pasco","Pasco-33559","Lutz","Land O' Lakes, Lutz, Wesley Chapel",837,"Pasco-33559","Lutz","<5",-2
+"Florida",700,"33563",1130,29,"Hillsborough","Hillsborough-33563","Plant City","Plant City",432,"Hillsborough-33563","Plant City","326",326
+"Florida",701,"33565",1131,29,"Hillsborough","Hillsborough-33565","Plant City","Plant City, Crystal Springs, Thonotosassa",433,"Hillsborough-33565","Plant City","86",86
+"Florida",702,"33566",1134,29,"Hillsborough","Hillsborough-33566","Plant City","Lakeland, Plant City, Dover",434,"Hillsborough-33566","Plant City","199",199
+"Florida",703,"33567",1135,29,"Hillsborough","Hillsborough-33567","Plant City","Plant City, Fish Hawk",435,"Hillsborough-33567","Plant City","87",87
+"Florida",704,"33569",1136,29,"Hillsborough","Hillsborough-33569","Riverview","Bloomingdale, Fish Hawk, Riverview",436,"Hillsborough-33569","Riverview","147",147
+"Florida",705,"33570",1137,29,"Hillsborough","Hillsborough-33570","Ruskin","Apollo Beach, Ruskin, Sun City Center",437,"Hillsborough-33570","Ruskin","310",310
+"Florida",706,"33572",1140,29,"Hillsborough","Hillsborough-33572","Apollo Beach","Apollo Beach, Gibsonton, Riverview, Ruskin",438,"Hillsborough-33572","Apollo Beach","105",105
+"Florida",707,"33573",1141,29,"Hillsborough","Hillsborough-33573","Sun City Center","Apollo Beach, Riverview, Ruskin, Sun City Center",439,"Hillsborough-33573","Ruskin, Sun City Center","103",103
+"Florida",708,"33576",1142,51,"Pasco","Pasco-33576","San Antonio","St. Leo, San Antonio, Pasadena Hills",838,"Pasco-33576","San Antonio","11",11
+"Florida",709,"33578",1143,29,"Hillsborough","Hillsborough-33578","Riverview","Apollo Beach, Bloomingdale, Brandon, Gibsonton, Palm River-Clair Mel, Progress Village, Riverview",440,"Hillsborough-33578","Riverview","407",407
+"Florida",710,"33579",1144,29,"Hillsborough","Hillsborough-33579","Riverview","Apollo Beach, Balm, Fish Hawk, Riverview",441,"Hillsborough-33579","Riverview","238",238
+"Florida",711,"33584",1145,29,"Hillsborough","Hillsborough-33584","Seffner","Brandon, East Lake-Orient Park, Mango, Seffner, Thonotosassa",442,"Hillsborough-33584","Seffner","183",183
+"Florida",712,"33585",1147,60,"Sumter","Sumter-33585","Sumterville","Bushnell, Wildwood, Coleman, The Villages",1044,"Sumter-33585","Sumterville","7",7
+"Florida",713,"33592",1148,29,"Hillsborough","Hillsborough-33592","Thonotosassa","Tampa, Thonotosassa, Wesley Chapel",443,"Hillsborough-33592","Thonotosassa","63",63
+"Florida",714,"33594",1149,29,"Hillsborough","Hillsborough-33594","Valrico","Brandon, Valrico",444,"Hillsborough-33594","Valrico","166",166
+"Florida",715,"33596",1150,29,"Hillsborough","Hillsborough-33596","Valrico","Bloomingdale, Brandon, Fish Hawk, Riverview, Valrico",445,"Hillsborough-33596","Valrico","122",122
+"Florida",716,"33597",1151,27,"Hernando","Hernando-33597","Webster","Lacoochee, Ridge Manor",400,"Hernando-33597","","<5",-2
+"Florida",717,"33597",1153,51,"Pasco","Pasco-33597","Webster","Lacoochee",839,"Pasco-33597","","0",0
+"Florida",718,"33597",1155,60,"Sumter","Sumter-33597","Webster","Center Hill, Bushnell, Webster",1045,"Sumter-33597","Webster","18",18
+"Florida",719,"33598",1156,29,"Hillsborough","Hillsborough-33598","Wimauma","Apollo Beach, Balm, Riverview, Ruskin, Sun City Center, Wimauma",446,"Hillsborough-33598","Wimauma","284",284
+"Florida",720,"33598",1157,41,"Manatee","Manatee-33598","Wimauma","Wimauma",608,"Manatee-33598","Wimauma","<5",-2
+"Florida",721,"33602",1158,29,"Hillsborough","Hillsborough-33602","Tampa","Tampa",447,"Hillsborough-33602","Tampa","354",354
+"Florida",722,"33603",1159,29,"Hillsborough","Hillsborough-33603","Tampa","Tampa, Egypt Lake-Leto",448,"Hillsborough-33603","Tampa","168",168
+"Florida",723,"33604",1160,29,"Hillsborough","Hillsborough-33604","Tampa","Tampa, Egypt Lake-Leto",449,"Hillsborough-33604","Tampa","335",335
+"Florida",724,"33605",1161,29,"Hillsborough","Hillsborough-33605","Tampa","Tampa",450,"Hillsborough-33605","Tampa, Ybor City","239",239
+"Florida",725,"33606",1162,29,"Hillsborough","Hillsborough-33606","Tampa","Tampa",451,"Hillsborough-33606","Tampa, University Of Tampa","421",421
+"Florida",726,"33607",1163,29,"Hillsborough","Hillsborough-33607","Tampa","Tampa",452,"Hillsborough-33607","Tampa","491",491
+"Florida",727,"33609",1164,29,"Hillsborough","Hillsborough-33609","Tampa","Tampa",453,"Hillsborough-33609","Tampa","245",245
+"Florida",728,"33610",1165,29,"Hillsborough","Hillsborough-33610","Tampa","Tampa, East Lake-Orient Park, Mango, Thonotosassa",454,"Hillsborough-33610","Tampa","529",529
+"Florida",729,"33611",1166,29,"Hillsborough","Hillsborough-33611","Tampa","Tampa",455,"Hillsborough-33611","Tampa","282",282
+"Florida",730,"33612",1167,29,"Hillsborough","Hillsborough-33612","Tampa","Tampa, Carrollwood, Lake Magdalene, University",456,"Hillsborough-33612","Tampa","549",549
+"Florida",731,"33613",1168,29,"Hillsborough","Hillsborough-33613","Tampa","Tampa, Lake Magdalene, Lutz, University",457,"Hillsborough-33613","Tampa","522",522
+"Florida",732,"33614",1169,29,"Hillsborough","Hillsborough-33614","Tampa","Tampa, Carrollwood, Egypt Lake-Leto, Town 'n' Country",458,"Hillsborough-33614","Tampa","687",687
+"Florida",733,"33615",1170,29,"Hillsborough","Hillsborough-33615","Tampa","Tampa, Citrus Park, Town 'n' Country",459,"Hillsborough-33615","Tampa, Town N Country","496",496
+"Florida",734,"33616",1171,29,"Hillsborough","Hillsborough-33616","Tampa","Tampa",460,"Hillsborough-33616","Tampa","177",177
+"Florida",735,"33617",1172,29,"Hillsborough","Hillsborough-33617","Tampa","Tampa, Temple Terrace, East Lake-Orient Park",461,"Hillsborough-33617","Tampa, Temple Terrace","329",329
+"Florida",736,"33618",1173,29,"Hillsborough","Hillsborough-33618","Tampa","Tampa, Carrollwood, Egypt Lake-Leto, Lake Magdalene, Lutz, Northdale",462,"Hillsborough-33618","Carrollwood, Tampa","177",177
+"Florida",737,"33619",1174,29,"Hillsborough","Hillsborough-33619","Tampa","Tampa, Brandon, East Lake-Orient Park, Palm River-Clair Mel, Progress Village",463,"Hillsborough-33619","Tampa","451",451
+"Florida",738,"33620",1175,29,"Hillsborough","Hillsborough-33620","Tampa","Tampa",464,"Hillsborough-33620","Tampa","16",16
+"Florida",739,"33621",1176,29,"Hillsborough","Hillsborough-33621","Tampa","Tampa",465,"Hillsborough-33621","Tampa","8",8
+"Florida",740,"33624",1177,29,"Hillsborough","Hillsborough-33624","Tampa","Carrollwood, Citrus Park, Egypt Lake-Leto, Northdale",466,"Hillsborough-33624","Northdale, Tampa","288",288
+"Florida",741,"33625",1178,29,"Hillsborough","Hillsborough-33625","Tampa","Carrollwood, Citrus Park, Keystone, Northdale, Town 'n' Country, Westchase",467,"Hillsborough-33625","Carrollwood, Tampa","204",204
+"Florida",742,"33626",1179,29,"Hillsborough","Hillsborough-33626","Tampa","Oldsmar, Citrus Park, East Lake, Keystone, Town 'n' Country, Westchase",468,"Hillsborough-33626","Northdale, Tampa, Westchase","175",175
+"Florida",743,"33629",1181,29,"Hillsborough","Hillsborough-33629","Tampa","Tampa",469,"Hillsborough-33629","Tampa","252",252
+"Florida",744,"33634",1182,29,"Hillsborough","Hillsborough-33634","Tampa","Tampa, Carrollwood, Citrus Park, Egypt Lake-Leto, Town 'n' Country",470,"Hillsborough-33634","Tampa","186",186
+"Florida",745,"33635",1183,29,"Hillsborough","Hillsborough-33635","Tampa","Oldsmar, Citrus Park, Town 'n' Country, Westchase",471,"Hillsborough-33635","Tampa","118",118
+"Florida",746,"33637",1184,29,"Hillsborough","Hillsborough-33637","Tampa","Tampa, Temple Terrace, East Lake-Orient Park, Thonotosassa",472,"Hillsborough-33637","Tampa, Temple Terrace","135",135
+"Florida",747,"33647",1185,29,"Hillsborough","Hillsborough-33647","Tampa","Tampa, Lutz, Pebble Creek, University, Wesley Chapel",473,"Hillsborough-33647","Tampa, Tampa Palms","361",361
+"Florida",748,"33701",1187,52,"Pinellas","Pinellas-33701","Saint Petersburg","St. Petersburg",854,"Pinellas-33701","Saint Petersburg","301",301
+"Florida",749,"33702",1188,52,"Pinellas","Pinellas-33702","Saint Petersburg","Pinellas Park, St. Petersburg, Lealman",855,"Pinellas-33702","Lealman, Saint Petersburg","284",284
+"Florida",750,"33703",1189,52,"Pinellas","Pinellas-33703","Saint Petersburg","St. Petersburg, Lealman",856,"Pinellas-33703","Saint Petersburg","165",165
+"Florida",751,"33704",1190,52,"Pinellas","Pinellas-33704","Saint Petersburg","St. Petersburg",857,"Pinellas-33704","Saint Petersburg","102",102
+"Florida",752,"33705",1191,52,"Pinellas","Pinellas-33705","Saint Petersburg","St. Petersburg",858,"Pinellas-33705","Saint Petersburg","516",516
+"Florida",753,"33706",1192,52,"Pinellas","Pinellas-33706","Saint Petersburg","Madeira Beach, St. Pete Beach, South Pasadena, Treasure Island, St. Petersburg",859,"Pinellas-33706","Saint Pete Beach, Saint Petersburg, Treasure Island","75",75
+"Florida",754,"33707",1193,52,"Pinellas","Pinellas-33707","Saint Petersburg","Gulfport, St. Pete Beach, South Pasadena, Treasure Island, St. Petersburg, Bear Creek",860,"Pinellas-33707","Gulfport, Pasadena, Saint Petersburg, South Pasadena","189",189
+"Florida",755,"33708",1194,52,"Pinellas","Pinellas-33708","Saint Petersburg","Indian Shores, Madeira Beach, North Redington Beach, Redington Shores, Redington Beach, Seminole, Bay Pines",861,"Pinellas-33708","Madeira Beach, North Redington Beach, Redington Beach, Saint Petersburg","91",91
+"Florida",756,"33709",1195,52,"Pinellas","Pinellas-33709","Saint Petersburg","Kenneth City, Pinellas Park, St. Petersburg, Seminole, Lealman, West Lealman",862,"Pinellas-33709","Kenneth City, Saint Petersburg","223",223
+"Florida",757,"33710",1196,52,"Pinellas","Pinellas-33710","Saint Petersburg","St. Petersburg, West Lealman",863,"Pinellas-33710","Saint Petersburg","255",255
+"Florida",758,"33711",1198,52,"Pinellas","Pinellas-33711","Saint Petersburg","Gulfport, St. Petersburg",864,"Pinellas-33711","Gulfport, Saint Petersburg","314",314
+"Florida",759,"33712",1199,52,"Pinellas","Pinellas-33712","Saint Petersburg","St. Petersburg",865,"Pinellas-33712","Saint Petersburg","446",446
+"Florida",760,"33713",1200,52,"Pinellas","Pinellas-33713","Saint Petersburg","St. Petersburg, Lealman",866,"Pinellas-33713","Saint Petersburg","286",286
+"Florida",761,"33714",1201,52,"Pinellas","Pinellas-33714","Saint Petersburg","Pinellas Park, St. Petersburg, Lealman",867,"Pinellas-33714","Lealman, Saint Petersburg","130",130
+"Florida",762,"33715",1203,52,"Pinellas","Pinellas-33715","Saint Petersburg","St. Pete Beach, St. Petersburg, Tierra Verde",868,"Pinellas-33715","Saint Petersburg, Tierra Verde","32",32
+"Florida",763,"33716",1204,52,"Pinellas","Pinellas-33716","Saint Petersburg","Pinellas Park, St. Petersburg",869,"Pinellas-33716","Saint Petersburg","273",273
+"Florida",764,"33755",1205,52,"Pinellas","Pinellas-33755","Clearwater","Clearwater, Dunedin",870,"Pinellas-33755","Clearwater","222",222
+"Florida",765,"33756",1206,52,"Pinellas","Pinellas-33756","Clearwater","Belleair, Belleair Bluffs, Clearwater, Largo",871,"Pinellas-33756","Belleair, Clearwater","362",362
+"Florida",766,"33759",1208,52,"Pinellas","Pinellas-33759","Clearwater","Clearwater, Safety Harbor",872,"Pinellas-33759","Clearwater","135",135
+"Florida",767,"33760",1209,52,"Pinellas","Pinellas-33760","Clearwater","Clearwater, Pinellas Park, Largo, Feather Sound, South Highpoint",873,"Pinellas-33760","Clearwater","129",129
+"Florida",768,"33761",1210,52,"Pinellas","Pinellas-33761","Clearwater","Clearwater, Safety Harbor, Dunedin, Palm Harbor",874,"Pinellas-33761","Clearwater","90",90
+"Florida",769,"33762",1211,52,"Pinellas","Pinellas-33762","Clearwater","Pinellas Park, Largo, St. Petersburg, Feather Sound",875,"Pinellas-33762","Clearwater","45",45
+"Florida",770,"33763",1212,52,"Pinellas","Pinellas-33763","Clearwater","Clearwater, Dunedin, Greenbriar",876,"Pinellas-33763","Clearwater","89",89
+"Florida",771,"33764",1213,52,"Pinellas","Pinellas-33764","Clearwater","Clearwater, Largo, South Highpoint",877,"Pinellas-33764","Clearwater","138",138
+"Florida",772,"33765",1214,52,"Pinellas","Pinellas-33765","Clearwater","Clearwater",878,"Pinellas-33765","Clearwater","109",109
+"Florida",773,"33767",1215,52,"Pinellas","Pinellas-33767","Clearwater Beach","Clearwater, Dunedin",879,"Pinellas-33767","Clearwater, Clearwater Beach","57",57
+"Florida",774,"33770",1216,52,"Pinellas","Pinellas-33770","Largo","Belleair, Belleair Bluffs, Largo, Harbor Bluffs, Ridgecrest",880,"Pinellas-33770","Belleair Bluffs, Largo","150",150
+"Florida",775,"33771",1217,52,"Pinellas","Pinellas-33771","Largo","Pinellas Park, Largo",881,"Pinellas-33771","Largo","196",196
+"Florida",776,"33772",1218,52,"Pinellas","Pinellas-33772","Seminole","Seminole, Bay Pines",882,"Pinellas-33772","Seminole","175",175
+"Florida",777,"33773",1219,52,"Pinellas","Pinellas-33773","Largo","Pinellas Park, Largo, Bardmoor",883,"Pinellas-33773","Largo","162",162
+"Florida",778,"33774",1220,52,"Pinellas","Pinellas-33774","Largo","Indian Rocks Beach, Indian Shores, Largo, Seminole, Harbor Bluffs, Ridgecrest",884,"Pinellas-33774","Largo","112",112
+"Florida",779,"33776",1221,52,"Pinellas","Pinellas-33776","Seminole","Indian Shores, Redington Shores, Seminole",885,"Pinellas-33776","Largo, Seminole","79",79
+"Florida",780,"33777",1222,52,"Pinellas","Pinellas-33777","Seminole","Pinellas Park, Seminole, Bardmoor",886,"Pinellas-33777","Largo, Seminole","179",179
+"Florida",781,"33778",1223,52,"Pinellas","Pinellas-33778","Largo","Largo, Seminole, Ridgecrest",887,"Pinellas-33778","Largo, Seminole","95",95
+"Florida",782,"33781",1224,52,"Pinellas","Pinellas-33781","Pinellas Park","Pinellas Park, Bardmoor, Lealman, West Lealman",888,"Pinellas-33781","Pinellas Park","211",211
+"Florida",783,"33782",1225,52,"Pinellas","Pinellas-33782","Pinellas Park","Pinellas Park, St. Petersburg, Bardmoor",889,"Pinellas-33782","Pinellas Park","165",165
+"Florida",784,"33785",1226,52,"Pinellas","Pinellas-33785","Indian Rocks Beach","Belleair Beach, Belleair Shore, Indian Rocks Beach, Indian Shores, Largo",890,"Pinellas-33785","Indian Rock Beach, Indian Rocks Beach, Indian Shores","25",25
+"Florida",785,"33786",1227,52,"Pinellas","Pinellas-33786","Belleair Beach","Belleair Beach, Belleair Shore, Clearwater, Indian Rocks Beach",891,"Pinellas-33786","Belleair Beach","11",11
+"Florida",786,"33801",1228,53,"Polk","Polk-33801","Lakeland","Lakeland, Combee Settlement, Crystal Lake, Fussels Corner",902,"Polk-33801","Lakeland","210",210
+"Florida",787,"33803",1229,53,"Polk","Polk-33803","Lakeland","Lakeland, Highland City",903,"Polk-33803","Lakeland","145",145
+"Florida",788,"33805",1230,53,"Polk","Polk-33805","Lakeland","Lakeland, Combee Settlement",904,"Polk-33805","Gibsonia, Lakeland","263",263
+"Florida",789,"33809",1232,53,"Polk","Polk-33809","Lakeland","Lakeland, Polk City",905,"Polk-33809","Lakeland","140",140
+"Florida",790,"33810",1234,29,"Hillsborough","Hillsborough-33810","Lakeland","Lakeland, Kathleen",474,"Hillsborough-33810","","0",0
+"Florida",791,"33810",1235,53,"Polk","Polk-33810","Lakeland","Lakeland, Kathleen",906,"Polk-33810","Lakeland","219",219
+"Florida",792,"33811",1237,53,"Polk","Polk-33811","Lakeland","Lakeland, Plant City, Fuller Heights, Medulla, Willow Oak",907,"Polk-33811","Lakeland","104",104
+"Florida",793,"33812",1238,53,"Polk","Polk-33812","Lakeland","Lakeland, Highland City, Lakeland Highlands",908,"Polk-33812","Lakeland","63",63
+"Florida",794,"33813",1239,53,"Polk","Polk-33813","Lakeland","Lakeland, Bartow, Mulberry, Highland City, Lakeland Highlands, Medulla",909,"Polk-33813","Lakeland","230",230
+"Florida",795,"33815",1241,53,"Polk","Polk-33815","Lakeland","Lakeland, Plant City",910,"Polk-33815","Lakeland","112",112
+"Florida",796,"33823",1242,53,"Polk","Polk-33823","Auburndale","Lakeland, Lake Alfred, Winter Haven, Auburndale, Fussels Corner, Inwood, Jan Phyl Village",911,"Polk-33823","Auburndale","182",182
+"Florida",797,"33825",1243,25,"Hardee","Hardee-33825","Avon Park","Avon Park",390,"Hardee-33825","","0",0
+"Florida",798,"33825",1244,28,"Highlands","Highlands-33825","Avon Park","Avon Park",411,"Highlands-33825","Avon Park","119",119
+"Florida",799,"33825",1246,53,"Polk","Polk-33825","Avon Park","Frostproof",912,"Polk-33825","","0",0
+"Florida",800,"33827",1247,53,"Polk","Polk-33827","Babson Park","Frostproof, Hillcrest Heights, Babson Park",913,"Polk-33827","Babson Park","12",12
+"Florida",801,"33830",1248,53,"Polk","Polk-33830","Bartow","Bartow, Fort Meade, Mulberry, Eagle Lake, Winter Haven, Alturas, Highland City, Homeland",914,"Polk-33830","Bartow","341",341
+"Florida",802,"33834",1249,25,"Hardee","Hardee-33834","Bowling Green","Bowling Green, Fort Green, Fort Green Springs",391,"Hardee-33834","Bowling Green","122",122
+"Florida",803,"33834",1252,53,"Polk","Polk-33834","Bowling Green","Bowling Green",915,"Polk-33834","","0",0
+"Florida",804,"33837",1254,53,"Polk","Polk-33837","Davenport","Haines City, Davenport, Loughman, Poinciana",916,"Polk-33837","Davenport","143",143
+"Florida",805,"33838",1255,53,"Polk","Polk-33838","Dundee","Dundee, Lake Hamilton, Winter Haven, Waverly",917,"Polk-33838","Dundee","16",16
+"Florida",806,"33839",1256,53,"Polk","Polk-33839","Eagle Lake","Eagle Lake, Winter Haven, Wahneta",918,"Polk-33839","Eagle Lake","34",34
+"Florida",807,"33841",1259,53,"Polk","Polk-33841","Fort Meade","Bartow, Fort Meade, Alturas, Bradley Junction, Brewster",919,"Polk-33841","Fort Meade","117",117
+"Florida",808,"33843",1262,53,"Polk","Polk-33843","Frostproof","Frostproof",920,"Polk-33843","Frostproof","114",114
+"Florida",809,"33844",1264,53,"Polk","Polk-33844","Haines City","Dundee, Lake Alfred, Lake Hamilton, Winter Haven, Haines City, Davenport, Grenelefe, Poinciana",921,"Polk-33844","Haines City","234",234
+"Florida",810,"33849",1267,53,"Polk","Polk-33849","Kathleen","Kathleen",922,"Polk-33849","Kathleen","<5",-2
+"Florida",811,"33850",1268,53,"Polk","Polk-33850","Lake Alfred","Lake Alfred, Winter Haven, Auburndale",923,"Polk-33850","Lake Alfred","48",48
+"Florida",812,"33852",1272,28,"Highlands","Highlands-33852","Lake Placid","Lake Placid",412,"Highlands-33852","Lake Placid","55",55
+"Florida",813,"33853",1273,53,"Polk","Polk-33853","Lake Wales","Lake Wales",924,"Polk-33853","Lake Wales","80",80
+"Florida",814,"33854",1274,53,"Polk","Polk-33854","Lakeshore","Lakeshore",925,"Polk-33854","","0",0
+"Florida",815,"33855",1275,53,"Polk","Polk-33855","Indian Lake Estates","Indian Lake Estates",926,"Polk-33855","Indian Lake Estates","<5",-2
+"Florida",816,"33856",1276,53,"Polk","Polk-33856","Nalcrest","Nalcrest",927,"Polk-33856","","0",0
+"Florida",817,"33857",1278,28,"Highlands","Highlands-33857","Lorida","Lorida",413,"Highlands-33857","Lorida","<5",-2
+"Florida",818,"33859",1280,53,"Polk","Polk-33859","Lake Wales","Lake Wales, Dundee, Winter Haven, Highland Park, Alturas, Crooked Lake Park, Waverly",928,"Polk-33859","Lake Wales","38",38
+"Florida",819,"33860",1282,53,"Polk","Polk-33860","Mulberry","Mulberry, Bradley Junction, Brewster, Fuller Heights, Lakeland Highlands, Medulla, Willow Oak",929,"Polk-33860","Mulberry","154",154
+"Florida",820,"33865",1284,25,"Hardee","Hardee-33865","Ona","Limestone, Ona",392,"Hardee-33865","Ona","7",7
+"Florida",821,"33867",1287,53,"Polk","Polk-33867","River Ranch","River Ranch",930,"Polk-33867","River Ranch","<5",-2
+"Florida",822,"33868",1289,53,"Polk","Polk-33868","Polk City","Lakeland, Lake Alfred, Polk City, Auburndale",931,"Polk-33868","Polk City","34",34
+"Florida",823,"33870",1291,28,"Highlands","Highlands-33870","Sebring","Sebring",414,"Highlands-33870","Sebring","129",129
+"Florida",824,"33872",1293,28,"Highlands","Highlands-33872","Sebring","Sebring",415,"Highlands-33872","Sebring","38",38
+"Florida",825,"33873",1294,25,"Hardee","Hardee-33873","Wauchula","Zolfo Springs, Wauchula, Fort Green Springs, Lemon Grove, Ona",393,"Hardee-33873","Wauchula","314",314
+"Florida",826,"33875",1297,28,"Highlands","Highlands-33875","Sebring","Sebring",416,"Highlands-33875","Sebring","17",17
+"Florida",827,"33876",1298,28,"Highlands","Highlands-33876","Sebring","Sebring",417,"Highlands-33876","Sebring","12",12
+"Florida",828,"33880",1299,53,"Polk","Polk-33880","Winter Haven","Bartow, Eagle Lake, Winter Haven, Auburndale, Alturas, Cypress Gardens, Inwood, Jan Phyl Village, Wahneta",932,"Polk-33880","Eloise, Wahneta, Winter Haven","382",382
+"Florida",829,"33881",1300,53,"Polk","Polk-33881","Winter Haven","Dundee, Lake Alfred, Lake Hamilton, Winter Haven, Auburndale, Inwood",933,"Polk-33881","Winter Haven","475",475
+"Florida",830,"33884",1301,53,"Polk","Polk-33884","Winter Haven","Lake Wales, Dundee, Winter Haven, Cypress Gardens",934,"Polk-33884","Cypress Gardens, Winter Haven","205",205
+"Florida",831,"33890",1303,25,"Hardee","Hardee-33890","Zolfo Springs","Zolfo Springs, Gardner, Lemon Grove, Limestone",394,"Hardee-33890","Zolfo Springs","48",48
+"Florida",832,"33896",1305,49,"Osceola","Osceola-33896","Davenport","Kissimmee, Campbell, Celebration, Four Corners, Loughman, Poinciana",753,"Osceola-33896","Davenport","<5",-2
+"Florida",833,"33896",1306,53,"Polk","Polk-33896","Davenport","Four Corners, Loughman",935,"Polk-33896","Champions Gate, Davenport","83",83
+"Florida",834,"33897",1309,53,"Polk","Polk-33897","Davenport","Four Corners",936,"Polk-33897","Davenport","121",121
+"Florida",835,"33898",1310,49,"Osceola","Osceola-33898","Lake Wales","Lake Wales",754,"Osceola-33898","","0",0
+"Florida",836,"33898",1311,53,"Polk","Polk-33898","Lake Wales","Lake Wales, Dundee, Highland Park, Waverly",937,"Polk-33898","Lake Wales","66",66
+"Florida",837,"33901",1312,36,"Lee","Lee-33901","Fort Myers","Fort Myers",537,"Lee-33901","Fort Myers","428",428
+"Florida",838,"33903",1314,36,"Lee","Lee-33903","North Fort Myers","Cape Coral, Lochmoor Waterway Estates, North Fort Myers, Palmona Park",538,"Lee-33903","Fort Myers, North Fort Myers","101",101
+"Florida",839,"33904",1315,36,"Lee","Lee-33904","Cape Coral","Cape Coral",539,"Lee-33904","Cape Coral","157",157
+"Florida",840,"33905",1316,36,"Lee","Lee-33905","Fort Myers","Fort Myers, Buckingham, Fort Myers Shores, Lehigh Acres, North Fort Myers, Olga, Tice",540,"Lee-33905","Buckingham, Fort Myers, Tice","535",535
+"Florida",841,"33907",1317,36,"Lee","Lee-33907","Fort Myers","Fort Myers, Cypress Lake, Page Park, Pine Manor, Villas, Whiskey Creek",541,"Lee-33907","Fort Myers","369",369
+"Florida",842,"33908",1318,36,"Lee","Lee-33908","Fort Myers","Fort Myers Beach, Cypress Lake, Estero, Harlem Heights, Iona, McGregor, Punta Rassa, San Carlos Park, Villas",542,"Lee-33908","Fort Myers","256",256
+"Florida",843,"33909",1319,36,"Lee","Lee-33909","Cape Coral","Cape Coral, Burnt Store Marina, North Fort Myers",543,"Lee-33909","Cape Coral","304",304
+"Florida",844,"33912",1320,36,"Lee","Lee-33912","Fort Myers","Fort Myers, San Carlos Park, Three Oaks, Villas",544,"Lee-33912","Fort Myers, San Carlos Park","226",226
+"Florida",845,"33913",1322,36,"Lee","Lee-33913","Fort Myers","Fort Myers, Estero, Gateway, Lehigh Acres, Three Oaks",545,"Lee-33913","Fort Myers, Miromar Lakes","136",136
+"Florida",846,"33914",1323,36,"Lee","Lee-33914","Cape Coral","Cape Coral, Matlacha Isles-Matlacha Shores",546,"Lee-33914","Cape Coral","216",216
+"Florida",847,"33916",1324,36,"Lee","Lee-33916","Fort Myers","Fort Myers",547,"Lee-33916","Fort Myers","488",488
+"Florida",848,"33917",1325,8,"Charlotte","Charlotte-33917","North Fort Myers","North Fort Myers",140,"Charlotte-33917","","0",0
+"Florida",849,"33917",1326,36,"Lee","Lee-33917","North Fort Myers","Cape Coral, North Fort Myers, Palmona Park, Suncoast Estates",548,"Lee-33917","Fort Myers, North Fort Myers","125",125
+"Florida",850,"33919",1327,36,"Lee","Lee-33919","Fort Myers","Fort Myers, Cypress Lake, Iona, McGregor, Pine Manor, Villas, Whiskey Creek",549,"Lee-33919","Fort Myers","140",140
+"Florida",851,"33920",1330,36,"Lee","Lee-33920","Alva","Alva, Buckingham, Charleston Park, Fort Denaud, Fort Myers Shores, Lehigh Acres, North Fort Myers, Olga",550,"Lee-33920","Alva","27",27
+"Florida",852,"33921",1332,36,"Lee","Lee-33921","Boca Grande","Boca Grande",551,"Lee-33921","Boca Grande","<5",-2
+"Florida",853,"33922",1333,36,"Lee","Lee-33922","Bokeelia","Bokeelia, Pine Island Center, Pineland, St. James City",552,"Lee-33922","Bokeelia","11",11
+"Florida",854,"33924",1334,36,"Lee","Lee-33924","Captiva","Sanibel, Captiva",553,"Lee-33924","Captiva","<5",-2
+"Florida",855,"33928",1336,36,"Lee","Lee-33928","Estero","Bonita Springs, Estero",554,"Lee-33928","Estero","129",129
+"Florida",856,"33931",1337,36,"Lee","Lee-33931","Fort Myers Beach","Fort Myers Beach, Bonita Springs, Iona",555,"Lee-33931","Fort Myers Beach","33",33
+"Florida",857,"33935",1340,22,"Glades","Glades-33935","Labelle","LaBelle, Fort Denaud",381,"Glades-33935","Labelle","<5",-2
+"Florida",858,"33935",1341,26,"Hendry","Hendry-33935","Labelle","LaBelle, Alva, Fort Denaud, Port LaBelle",396,"Hendry-33935","Fort Denaud, Labelle","407",407
+"Florida",859,"33936",1343,26,"Hendry","Hendry-33936","Lehigh Acres","Lehigh Acres",397,"Hendry-33936","","0",0
+"Florida",860,"33936",1344,36,"Lee","Lee-33936","Lehigh Acres","Lehigh Acres",556,"Lee-33936","Lehigh, Lehigh Acres","247",247
+"Florida",861,"33944",1345,22,"Glades","Glades-33944","Palmdale","Palmdale",382,"Glades-33944","Palmdale","<5",-2
+"Florida",862,"33946",1346,8,"Charlotte","Charlotte-33946","Placida","Rotonda",141,"Charlotte-33946","Placida","7",7
+"Florida",863,"33947",1348,8,"Charlotte","Charlotte-33947","Rotonda West","Grove City, Rotonda",142,"Charlotte-33947","Cape Haze, Rotunda West","31",31
+"Florida",864,"33948",1349,8,"Charlotte","Charlotte-33948","Port Charlotte","Port Charlotte",143,"Charlotte-33948","Port Charlotte","81",81
+"Florida",865,"33950",1350,8,"Charlotte","Charlotte-33950","Punta Gorda","Punta Gorda, Charlotte Park, Cleveland, Solana",144,"Charlotte-33950","Punta Gorda","82",82
+"Florida",866,"33952",1351,8,"Charlotte","Charlotte-33952","Port Charlotte","Charlotte Harbor, Port Charlotte",145,"Charlotte-33952","Port Charlotte","189",189
+"Florida",867,"33953",1352,8,"Charlotte","Charlotte-33953","Port Charlotte","North Port, Port Charlotte",146,"Charlotte-33953","Port Charlotte","21",21
+"Florida",868,"33954",1354,8,"Charlotte","Charlotte-33954","Port Charlotte","North Port, Port Charlotte",147,"Charlotte-33954","Port Charlotte","49",49
+"Florida",869,"33955",1356,8,"Charlotte","Charlotte-33955","Punta Gorda","Punta Gorda, Burnt Store Marina, Charlotte Park",148,"Charlotte-33955","Punta Gorda","22",22
+"Florida",870,"33955",1357,36,"Lee","Lee-33955","Punta Gorda","Cape Coral, Burnt Store Marina, North Fort Myers",557,"Lee-33955","","0",0
+"Florida",871,"33956",1358,36,"Lee","Lee-33956","Saint James City","Pine Island Center, St. James City",558,"Lee-33956","Saint James City","<5",-2
+"Florida",872,"33957",1359,36,"Lee","Lee-33957","Sanibel","Sanibel, Captiva",559,"Lee-33957","Sanibel","17",17
+"Florida",873,"33960",1362,22,"Glades","Glades-33960","Venus","Venus",383,"Glades-33960","","0",0
+"Florida",874,"33960",1363,28,"Highlands","Highlands-33960","Venus","Venus",418,"Highlands-33960","Venus","7",7
+"Florida",875,"33965",1364,36,"Lee","Lee-33965","Fort Myers","Estero",560,"Lee-33965","Fort Myers","<5",-2
+"Florida",876,"33966",1365,36,"Lee","Lee-33966","Fort Myers","Fort Myers, Villas",561,"Lee-33966","Fort Myers","79",79
+"Florida",877,"33967",1366,36,"Lee","Lee-33967","Fort Myers","Estero, San Carlos Park, Three Oaks",562,"Lee-33967","Estero, Fort Myers, San Carlos Park","225",225
+"Florida",878,"33971",1367,36,"Lee","Lee-33971","Lehigh Acres","Fort Myers, Buckingham, Gateway, Lehigh Acres",563,"Lee-33971","Lehigh Acres","397",397
+"Florida",879,"33972",1369,36,"Lee","Lee-33972","Lehigh Acres","Alva, Lehigh Acres",564,"Lee-33972","Lehigh Acres","134",134
+"Florida",880,"33973",1370,36,"Lee","Lee-33973","Lehigh Acres","Fort Myers, Gateway, Lehigh Acres",565,"Lee-33973","Lehigh Acres","184",184
+"Florida",881,"33974",1372,36,"Lee","Lee-33974","Lehigh Acres","Lehigh Acres",566,"Lee-33974","Lehigh Acres","197",197
+"Florida",882,"33976",1373,36,"Lee","Lee-33976","Lehigh Acres","Lehigh Acres",567,"Lee-33976","Lehigh, Lehigh Acres","230",230
+"Florida",883,"33980",1374,8,"Charlotte","Charlotte-33980","Punta Gorda","Charlotte Harbor, Port Charlotte",149,"Charlotte-33980","Port Charlotte, Punta Gorda","143",143
+"Florida",884,"33981",1375,8,"Charlotte","Charlotte-33981","Port Charlotte","North Port, Englewood",150,"Charlotte-33981","Port Charlotte","36",36
+"Florida",885,"33982",1377,8,"Charlotte","Charlotte-33982","Punta Gorda","Cleveland, North Fort Myers, Solana",151,"Charlotte-33982","Punta Gorda","34",34
+"Florida",886,"33983",1381,8,"Charlotte","Charlotte-33983","Punta Gorda","Harbour Heights",152,"Charlotte-33983","Port Charlotte, Punta Gorda","80",80
+"Florida",887,"33990",1383,36,"Lee","Lee-33990","Cape Coral","Cape Coral, Lochmoor Waterway Estates",568,"Lee-33990","Cape Coral","259",259
+"Florida",888,"33991",1384,36,"Lee","Lee-33991","Cape Coral","Cape Coral, Matlacha Isles-Matlacha Shores",569,"Lee-33991","Cape Coral","173",173
+"Florida",889,"33993",1386,36,"Lee","Lee-33993","Cape Coral","Cape Coral, Burnt Store Marina, Matlacha, Matlacha Isles-Matlacha Shores",570,"Lee-33993","Cape Coral, Matlacha","236",236
+"Florida",890,"34102",1387,11,"Collier","Collier-34102","Naples","Naples",181,"Collier-34102","Naples","135",135
+"Florida",891,"34103",1388,11,"Collier","Collier-34103","Naples","Naples, Pelican Bay",182,"Collier-34103","Naples","54",54
+"Florida",892,"34104",1389,11,"Collier","Collier-34104","Naples","Naples",183,"Collier-34104","Naples","372",372
+"Florida",893,"34105",1390,11,"Collier","Collier-34105","Naples","Naples",184,"Collier-34105","Naples","75",75
+"Florida",894,"34108",1391,11,"Collier","Collier-34108","Naples","Naples, Naples Park, Pelican Bay, Pine Ridge",185,"Collier-34108","Naples","87",87
+"Florida",895,"34109",1392,11,"Collier","Collier-34109","Naples","Pine Ridge, Vineyards",186,"Collier-34109","Naples","201",201
+"Florida",896,"34110",1393,11,"Collier","Collier-34110","Naples","Bonita Springs, Naples Park",187,"Collier-34110","Naples","135",135
+"Florida",897,"34110",1394,36,"Lee","Lee-34110","Naples","Bonita Springs",571,"Lee-34110","","0",0
+"Florida",898,"34112",1395,11,"Collier","Collier-34112","Naples","Naples, Lely, Lely Resort",188,"Collier-34112","Naples","239",239
+"Florida",899,"34113",1396,11,"Collier","Collier-34113","Naples","Naples, Lely, Lely Resort, Naples Manor, Verona Walk",189,"Collier-34113","Naples","248",248
+"Florida",900,"34114",1397,11,"Collier","Collier-34114","Naples","Everglades, Marco Island, Lely Resort, Verona Walk",190,"Collier-34114","Naples","134",134
+"Florida",901,"34116",1398,11,"Collier","Collier-34116","Naples","Golden Gate",191,"Collier-34116","Naples","507",507
+"Florida",902,"34117",1399,11,"Collier","Collier-34117","Naples","Golden Gate",192,"Collier-34117","Naples","129",129
+"Florida",903,"34119",1400,11,"Collier","Collier-34119","Naples","Bonita Springs, Island Walk, Vineyards",193,"Collier-34119","Naples","230",230
+"Florida",904,"34119",1401,36,"Lee","Lee-34119","Naples","Bonita Springs",572,"Lee-34119","","0",0
+"Florida",905,"34120",1402,11,"Collier","Collier-34120","Naples","Bonita Springs, Immokalee, Orangetree",194,"Collier-34120","Naples","400",400
+"Florida",906,"34134",1404,11,"Collier","Collier-34134","Bonita Springs","Bonita Springs",195,"Collier-34134","Bonita Springs","<5",-2
+"Florida",907,"34134",1405,36,"Lee","Lee-34134","Bonita Springs","Bonita Springs, Estero",573,"Lee-34134","Bonita Springs","51",51
+"Florida",908,"34135",1407,36,"Lee","Lee-34135","Bonita Springs","Bonita Springs, Estero",574,"Lee-34135","Bonita Springs, Estero","364",364
+"Florida",909,"34138",1408,11,"Collier","Collier-34138","Chokoloskee","Chokoloskee",196,"Collier-34138","Chokoloskee","<5",-2
+"Florida",910,"34139",1409,11,"Collier","Collier-34139","Everglades City","Everglades",197,"Collier-34139","Everglades City","<5",-2
+"Florida",911,"34140",1410,11,"Collier","Collier-34140","Goodland","Marco Island, Goodland",198,"Collier-34140","Goodland","<5",-2
+"Florida",912,"34141",1412,11,"Collier","Collier-34141","Ochopee","Everglades, Plantation Island",199,"Collier-34141","Ochopee","10",10
+"Florida",913,"34142",1416,11,"Collier","Collier-34142","Immokalee","Immokalee",200,"Collier-34142","Ave Maria, Immokalee","1517",1517
+"Florida",914,"34142",1417,26,"Hendry","Hendry-34142","Immokalee","Immokalee",398,"Hendry-34142","","0",0
+"Florida",915,"34145",1419,11,"Collier","Collier-34145","Marco Island","Marco Island",201,"Collier-34145","Marco Island","35",35
+"Florida",916,"34201",1420,41,"Manatee","Manatee-34201","Bradenton","Bradenton",609,"Manatee-34201","Bradenton, University Park","13",13
+"Florida",917,"34202",1421,41,"Manatee","Manatee-34202","Bradenton","Bradenton",610,"Manatee-34202","Bradenton, Lakewood Ranch","114",114
+"Florida",918,"34203",1423,41,"Manatee","Manatee-34203","Bradenton","Bayshore Gardens, Samoset, South Bradenton, West Samoset",611,"Manatee-34203","Braden River, Bradenton","398",398
+"Florida",919,"34205",1424,41,"Manatee","Manatee-34205","Bradenton","Bradenton, South Bradenton, West Bradenton, West Samoset",612,"Manatee-34205","Bradenton, West Bradenton","325",325
+"Florida",920,"34207",1425,41,"Manatee","Manatee-34207","Bradenton","Bayshore Gardens, South Bradenton, Whitfield",613,"Manatee-34207","Bayshore Gardens, Bradenton","351",351
+"Florida",921,"34208",1426,41,"Manatee","Manatee-34208","Bradenton","Bradenton, Ellenton, Samoset, South Bradenton, West Samoset",614,"Manatee-34208","Bradenton, Samoset","663",663
+"Florida",922,"34209",1427,41,"Manatee","Manatee-34209","Bradenton","Bradenton, Cortez, West Bradenton",615,"Manatee-34209","Bradenton, Palma Sola","207",207
+"Florida",923,"34210",1428,41,"Manatee","Manatee-34210","Bradenton","Bradenton, Bayshore Gardens, Cortez, South Bradenton",616,"Manatee-34210","Bradenton","104",104
+"Florida",924,"34211",1429,41,"Manatee","Manatee-34211","Bradenton","Bradenton",617,"Manatee-34211","Bradenton, Lakewood Ranch","45",45
+"Florida",925,"34212",1430,41,"Manatee","Manatee-34212","Bradenton","Bradenton",618,"Manatee-34212","Bradenton","90",90
+"Florida",926,"34215",1431,41,"Manatee","Manatee-34215","Cortez","Bradenton Beach, Holmes Beach, Cortez",619,"Manatee-34215","","0",0
+"Florida",927,"34216",1432,41,"Manatee","Manatee-34216","Anna Maria","Anna Maria",620,"Manatee-34216","Anna Maria","<5",-2
+"Florida",928,"34217",1433,41,"Manatee","Manatee-34217","Bradenton Beach","Anna Maria, Bradenton Beach, Holmes Beach",621,"Manatee-34217","Bradenton Beach, Holmes Beach","14",14
+"Florida",929,"34219",1436,41,"Manatee","Manatee-34219","Parrish","Wimauma",622,"Manatee-34219","Duette, Parrish","117",117
+"Florida",930,"34221",1438,41,"Manatee","Manatee-34221","Palmetto","Bradenton, Palmetto, Ellenton, Memphis, West Bradenton",623,"Manatee-34221","Bradenton, Palmetto, Rubonia","516",516
+"Florida",931,"34222",1439,41,"Manatee","Manatee-34222","Ellenton","Palmetto, Ellenton, Memphis",624,"Manatee-34222","Ellenton","93",93
+"Florida",932,"34223",1440,8,"Charlotte","Charlotte-34223","Englewood","North Port, Englewood, Manasota Key",153,"Charlotte-34223","","0",0
+"Florida",933,"34223",1441,58,"Sarasota","Sarasota-34223","Englewood","North Port, Englewood, Manasota Key, South Venice",964,"Sarasota-34223","Englewood","22",22
+"Florida",934,"34224",1442,8,"Charlotte","Charlotte-34224","Englewood","North Port, Englewood, Grove City, Manasota Key, Rotonda",154,"Charlotte-34224","Englewood","46",46
+"Florida",935,"34224",1443,58,"Sarasota","Sarasota-34224","Englewood","North Port",965,"Sarasota-34224","","0",0
+"Florida",936,"34228",1444,41,"Manatee","Manatee-34228","Longboat Key","Longboat Key",625,"Manatee-34228","Long Boat Key, Longboat Key","8",8
+"Florida",937,"34228",1445,58,"Sarasota","Sarasota-34228","Longboat Key","Longboat Key",966,"Sarasota-34228","Longboat Key","<5",-2
+"Florida",938,"34229",1446,58,"Sarasota","Sarasota-34229","Osprey","Laurel, Osprey, Vamo",967,"Sarasota-34229","Osprey","19",19
+"Florida",939,"34231",1447,58,"Sarasota","Sarasota-34231","Sarasota","Sarasota, Gulf Gate Estates, Ridge Wood Heights, Siesta Key, Southgate, South Gate Ridge, South Sarasota, Vamo",968,"Sarasota-34231","Sarasota","135",135
+"Florida",940,"34232",1448,58,"Sarasota","Sarasota-34232","Sarasota","Sarasota, Bee Ridge, Fruitville, Kensington Park, Sarasota Springs, Southgate, South Gate Ridge, The Meadows",969,"Sarasota-34232","Sarasota","154",154
+"Florida",941,"34233",1449,58,"Sarasota","Sarasota-34233","Sarasota","Bee Ridge, Gulf Gate Estates, Sarasota Springs, Southgate, South Gate Ridge",970,"Sarasota-34233","Sarasota, West Villages","83",83
+"Florida",942,"34234",1450,58,"Sarasota","Sarasota-34234","Sarasota","Sarasota, Desoto Lakes, Kensington Park, North Sarasota",971,"Sarasota-34234","Sarasota","185",185
+"Florida",943,"34235",1451,58,"Sarasota","Sarasota-34235","Sarasota","Sarasota, Desoto Lakes, Fruitville, Kensington Park, North Sarasota, The Meadows",972,"Sarasota-34235","Sarasota","133",133
+"Florida",944,"34236",1452,58,"Sarasota","Sarasota-34236","Sarasota","Longboat Key, Sarasota",973,"Sarasota-34236","Sarasota","103",103
+"Florida",945,"34237",1453,58,"Sarasota","Sarasota-34237","Sarasota","Sarasota, Kensington Park, North Sarasota, Southgate",974,"Sarasota-34237","Sarasota","169",169
+"Florida",946,"34238",1454,58,"Sarasota","Sarasota-34238","Sarasota","Bee Ridge, Gulf Gate Estates, Laurel, Osprey, South Gate Ridge, Vamo",975,"Sarasota-34238","Sarasota","73",73
+"Florida",947,"34239",1455,58,"Sarasota","Sarasota-34239","Sarasota","Sarasota, Ridge Wood Heights, Sarasota Springs, Southgate, South Gate Ridge, South Sarasota",976,"Sarasota-34239","Sarasota","141",141
+"Florida",948,"34240",1456,41,"Manatee","Manatee-34240","Sarasota","Sarasota",626,"Manatee-34240","","0",0
+"Florida",949,"34240",1457,58,"Sarasota","Sarasota-34240","Sarasota","Fruitville, Lake Sarasota",977,"Sarasota-34240","Sarasota","41",41
+"Florida",950,"34241",1459,58,"Sarasota","Sarasota-34241","Sarasota","Venice, Lake Sarasota",978,"Sarasota-34241","Sarasota","51",51
+"Florida",951,"34242",1460,58,"Sarasota","Sarasota-34242","Sarasota","Sarasota, Osprey, Siesta Key, South Sarasota",979,"Sarasota-34242","Sarasota, Siesta Key","37",37
+"Florida",952,"34243",1461,41,"Manatee","Manatee-34243","Sarasota","Sarasota, Bayshore Gardens, North Sarasota, Whitfield",627,"Manatee-34243","Sarasota","104",104
+"Florida",953,"34243",1462,58,"Sarasota","Sarasota-34243","Sarasota","Sarasota, Desoto Lakes, North Sarasota, The Meadows",980,"Sarasota-34243","Sarasota","29",29
+"Florida",954,"34251",1465,41,"Manatee","Manatee-34251","Myakka City","Myakka City",628,"Manatee-34251","Myakka City","50",50
+"Florida",955,"34251",1466,58,"Sarasota","Sarasota-34251","Myakka City","Myakka City",981,"Sarasota-34251","","0",0
+"Florida",956,"34266",1468,14,"Desoto","Desoto-34266","Arcadia","Arcadia, North Port, Gardner, Limestone, Southeast Arcadia",293,"Desoto-34266","Arcadia","637",637
+"Florida",957,"34266",1472,58,"Sarasota","Sarasota-34266","Arcadia","North Port",982,"Sarasota-34266","","0",0
+"Florida",958,"34269",1474,14,"Desoto","Desoto-34269","Arcadia","North Port",294,"Desoto-34269","Arcadia, Lake Suzy","21",21
+"Florida",959,"34275",1476,58,"Sarasota","Sarasota-34275","Nokomis","Venice, Laurel, Nokomis, Osprey",983,"Sarasota-34275","Nokomis, North Venice","33",33
+"Florida",960,"34285",1477,58,"Sarasota","Sarasota-34285","Venice","Venice, Laurel, Nokomis, South Venice, Venice Gardens",984,"Sarasota-34285","Venice","34",34
+"Florida",961,"34286",1480,58,"Sarasota","Sarasota-34286","North Port","North Port",985,"Sarasota-34286","North Port, Venice","73",73
+"Florida",962,"34287",1482,58,"Sarasota","Sarasota-34287","North Port","North Port, Warm Mineral Springs",986,"Sarasota-34287","North Port","59",59
+"Florida",963,"34288",1484,58,"Sarasota","Sarasota-34288","North Port","North Port",987,"Sarasota-34288","North Port","55",55
+"Florida",964,"34289",1485,58,"Sarasota","Sarasota-34289","North Port","North Port",988,"Sarasota-34289","North Port","<5",-2
+"Florida",965,"34291",1486,58,"Sarasota","Sarasota-34291","North Port","North Port",989,"Sarasota-34291","North Port","25",25
+"Florida",966,"34292",1487,58,"Sarasota","Sarasota-34292","Venice","Venice, North Port, Nokomis, Plantation, Venice Gardens",990,"Sarasota-34292","Venice","29",29
+"Florida",967,"34293",1488,58,"Sarasota","Sarasota-34293","Venice","Venice, North Port, Plantation, South Venice, Venice Gardens, Warm Mineral Springs",991,"Sarasota-34293","Venice","74",74
+"Florida",968,"34420",1489,42,"Marion","Marion-34420","Belleview","Belleview, Silver Springs Shores",643,"Marion-34420","Belleview","41",41
+"Florida",969,"34428",1490,9,"Citrus","Citrus-34428","Crystal River","Inglis, Crystal River",155,"Citrus-34428","Crystal River","29",29
+"Florida",970,"34429",1492,9,"Citrus","Citrus-34429","Crystal River","Crystal River, Black Diamond, Homosassa Springs, Lecanto",156,"Citrus-34429","Crystal River","29",29
+"Florida",971,"34431",1494,38,"Levy","Levy-34431","Dunnellon","Dunnellon",597,"Levy-34431","","0",0
+"Florida",972,"34431",1495,42,"Marion","Marion-34431","Dunnellon","Dunnellon",644,"Marion-34431","Dunnellon","19",19
+"Florida",973,"34432",1498,42,"Marion","Marion-34432","Dunnellon","Dunnellon, Hernando",645,"Marion-34432","Dunnellon","13",13
+"Florida",974,"34433",1500,9,"Citrus","Citrus-34433","Dunnellon","Dunnellon, Citrus Springs, Pine Ridge",157,"Citrus-34433","Citrus Springs, Dunnellon","10",10
+"Florida",975,"34434",1503,9,"Citrus","Citrus-34434","Dunnellon","Dunnellon, Citrus Springs, Hernando, Pine Ridge",158,"Citrus-34434","Citrus Springs, Dunnellon","25",25
+"Florida",976,"34436",1505,9,"Citrus","Citrus-34436","Floral City","Floral City",159,"Citrus-34436","Floral City","6",6
+"Florida",977,"34442",1508,9,"Citrus","Citrus-34442","Hernando","Citrus Hills, Citrus Springs, Hernando, Lecanto, Pine Ridge",160,"Citrus-34442","Hernando","20",20
+"Florida",978,"34445",1511,9,"Citrus","Citrus-34445","Holder","Citrus Springs, Hernando, Pine Ridge",161,"Citrus-34445","Holder","<5",-2
+"Florida",979,"34446",1512,9,"Citrus","Citrus-34446","Homosassa","Homosassa, Homosassa Springs, Lecanto, Sugarmill Woods",162,"Citrus-34446","Homosassa","25",25
+"Florida",980,"34448",1514,9,"Citrus","Citrus-34448","Homosassa","Crystal River, Homosassa, Homosassa Springs, Lecanto, Sugarmill Woods",163,"Citrus-34448","Homosassa","11",11
+"Florida",981,"34449",1516,9,"Citrus","Citrus-34449","Inglis","Inglis, Yankeetown",164,"Citrus-34449","","0",0
+"Florida",982,"34449",1517,38,"Levy","Levy-34449","Inglis","Inglis, Yankeetown",598,"Levy-34449","","0",0
+"Florida",983,"34450",1519,9,"Citrus","Citrus-34450","Inverness","Inverness, Inverness Highlands South",165,"Citrus-34450","Inverness","21",21
+"Florida",984,"34452",1521,9,"Citrus","Citrus-34452","Inverness","Inverness, Floral City, Inverness Highlands North, Inverness Highlands South",166,"Citrus-34452","Inverness","109",109
+"Florida",985,"34453",1523,9,"Citrus","Citrus-34453","Inverness","Inverness, Citrus Hills, Hernando, Inverness Highlands North, Lecanto",167,"Citrus-34453","Inverness","26",26
+"Florida",986,"34461",1525,9,"Citrus","Citrus-34461","Lecanto","Black Diamond, Citrus Hills, Homosassa Springs, Lecanto, Pine Ridge, Sugarmill Woods",168,"Citrus-34461","Lecanto","24",24
+"Florida",987,"34465",1526,9,"Citrus","Citrus-34465","Beverly Hills","Beverly Hills, Black Diamond, Citrus Springs, Lecanto, Pine Ridge",169,"Citrus-34465","Beverly Hills","27",27
+"Florida",988,"34470",1527,42,"Marion","Marion-34470","Ocala","Ocala",646,"Marion-34470","Ocala","29",29
+"Florida",989,"34471",1528,42,"Marion","Marion-34471","Ocala","Ocala",647,"Marion-34471","Ocala","123",123
+"Florida",990,"34472",1529,42,"Marion","Marion-34472","Ocala","Silver Springs Shores",648,"Marion-34472","Ocala","55",55
+"Florida",991,"34473",1530,42,"Marion","Marion-34473","Ocala","Ocala",649,"Marion-34473","Ocala","72",72
+"Florida",992,"34474",1532,42,"Marion","Marion-34474","Ocala","Ocala",650,"Marion-34474","Ocala","56",56
+"Florida",993,"34475",1533,42,"Marion","Marion-34475","Ocala","Ocala",651,"Marion-34475","Ocala","27",27
+"Florida",994,"34476",1534,42,"Marion","Marion-34476","Ocala","Ocala",652,"Marion-34476","Ocala","66",66
+"Florida",995,"34479",1536,42,"Marion","Marion-34479","Ocala","Ocala",653,"Marion-34479","Ocala","27",27
+"Florida",996,"34480",1537,42,"Marion","Marion-34480","Ocala","Ocala, Belleview",654,"Marion-34480","Ocala","49",49
+"Florida",997,"34481",1538,42,"Marion","Marion-34481","Ocala","Ocala",655,"Marion-34481","Ocala","16",16
+"Florida",998,"34482",1539,42,"Marion","Marion-34482","Ocala","Ocala",656,"Marion-34482","Ocala","34",34
+"Florida",999,"34484",1541,60,"Sumter","Sumter-34484","Oxford","Wildwood, The Villages",1046,"Sumter-34484","Oxford","26",26
+"Florida",1000,"34488",1542,42,"Marion","Marion-34488","Silver Springs","Ocala",657,"Marion-34488","Silver Springs","8",8
+"Florida",1001,"34491",1543,42,"Marion","Marion-34491","Summerfield","Belleview, Lady Lake, The Villages",658,"Marion-34491","Summerfield","69",69
+"Florida",1002,"34498",1546,38,"Levy","Levy-34498","Yankeetown","Inglis, Yankeetown",599,"Levy-34498","Yankeetown","<5",-2
+"Florida",1003,"34601",1548,27,"Hernando","Hernando-34601","Brooksville","Brooksville, Floral City, Hill 'n Dale, Istachatta, Lake Lindsey, Nobleton, North Brooksville, South Brooksville, Spring Hill, Spring Lake, Sugarmill Woods, Wiscon",401,"Hernando-34601","Brooksville","54",54
+"Florida",1004,"34602",1550,27,"Hernando","Hernando-34602","Brooksville","Hill 'n Dale, Ridge Manor, South Brooksville, Spring Lake",402,"Hernando-34602","Brooksville","14",14
+"Florida",1005,"34604",1553,27,"Hernando","Hernando-34604","Brooksville","Brooksville, Brookridge, Garden Grove, Masaryktown, Shady Hills, South Brooksville, Spring Hill, Wiscon",403,"Hernando-34604","Brooksville","31",31
+"Florida",1006,"34606",1555,27,"Hernando","Hernando-34606","Spring Hill","Weeki Wachee, North Weeki Wachee, Spring Hill, Timber Pines",404,"Hernando-34606","Brooksville, Spring Hill","74",74
+"Florida",1007,"34607",1557,27,"Hernando","Hernando-34607","Spring Hill","Weeki Wachee, Aripeka, Bayport, Hernando Beach, North Weeki Wachee, Pine Island, Spring Hill, Weeki Wachee Gardens",405,"Hernando-34607","Brooksville, Hernando Beach, Spring Hill, Weeki Wachee","25",25
+"Florida",1008,"34608",1559,27,"Hernando","Hernando-34608","Spring Hill","High Point, North Weeki Wachee, Shady Hills, Spring Hill",406,"Hernando-34608","Brooksville, Spring Hill","107",107
+"Florida",1009,"34609",1560,27,"Hernando","Hernando-34609","Spring Hill","Brookridge, High Point, Spring Hill",407,"Hernando-34609","Brooksville, Spring Hill","109",109
+"Florida",1010,"34610",1563,51,"Pasco","Pasco-34610","Spring Hill","Connerton, Quail Ridge, Shady Hills, Spring Hill",840,"Pasco-34610","Spring Hill","45",45
+"Florida",1011,"34613",1564,27,"Hernando","Hernando-34613","Brooksville","Weeki Wachee, Bayport, Brookridge, High Point, North Weeki Wachee, Pine Island, South Brooksville, Spring Hill, Weeki Wachee Gardens, Wiscon",408,"Hernando-34613","Brooksville, Spring Hill, Weeki Wachee","37",37
+"Florida",1012,"34614",1566,27,"Hernando","Hernando-34614","Brooksville","North Weeki Wachee, South Brooksville, Sugarmill Woods",409,"Hernando-34614","Brooksville, Weeki Wachee","10",10
+"Florida",1013,"34637",1567,51,"Pasco","Pasco-34637","Land O Lakes","Connerton, Land O' Lakes",841,"Pasco-34637","Land O Lakes","97",97
+"Florida",1014,"34638",1568,51,"Pasco","Pasco-34638","Land O Lakes","Connerton, Land O' Lakes, Moon Lake, Quail Ridge",842,"Pasco-34638","Land O Lakes","160",160
+"Florida",1015,"34639",1569,51,"Pasco","Pasco-34639","Land O Lakes","Connerton, Land O' Lakes, Wesley Chapel",843,"Pasco-34639","Land O Lakes","123",123
+"Florida",1016,"34652",1570,51,"Pasco","Pasco-34652","New Port Richey","New Port Richey, Port Richey, Beacon Square, Elfers",844,"Pasco-34652","New Port Richey","127",127
+"Florida",1017,"34653",1571,51,"Pasco","Pasco-34653","New Port Richey","New Port Richey, Port Richey, Elfers, Jasmine Estates, New Port Richey East",845,"Pasco-34653","New Port Richey","168",168
+"Florida",1018,"34654",1572,51,"Pasco","Pasco-34654","New Port Richey","Bayonet Point, Jasmine Estates, Meadow Oaks, Moon Lake, River Ridge",846,"Pasco-34654","New Port Richey","103",103
+"Florida",1019,"34655",1574,51,"Pasco","Pasco-34655","New Port Richey","Elfers, Holiday, Keystone, Moon Lake, Odessa, River Ridge, Trinity",847,"Pasco-34655","New Port Richey, Seven Springs, Trinity","220",220
+"Florida",1020,"34661",1576,27,"Hernando","Hernando-34661","Nobleton","Nobleton",410,"Hernando-34661","","0",0
+"Florida",1021,"34667",1579,51,"Pasco","Pasco-34667","Hudson","Aripeka, Bayonet Point, Heritage Pines, Hudson, Shady Hills, Spring Hill",848,"Pasco-34667","Bayonet Point, Hudson","108",108
+"Florida",1022,"34668",1580,51,"Pasco","Pasco-34668","Port Richey","New Port Richey, Port Richey, Bayonet Point, Jasmine Estates, New Port Richey East",849,"Pasco-34668","Port Richey","183",183
+"Florida",1023,"34669",1581,51,"Pasco","Pasco-34669","Hudson","Bayonet Point, Hudson, Meadow Oaks, Moon Lake, Quail Ridge, Shady Hills",850,"Pasco-34669","Hudson, Port Richey","53",53
+"Florida",1024,"34677",1583,52,"Pinellas","Pinellas-34677","Oldsmar","Safety Harbor, Oldsmar, East Lake, Palm Harbor",892,"Pinellas-34677","Oldsmar","116",116
+"Florida",1025,"34681",1584,52,"Pinellas","Pinellas-34681","Crystal Beach","Palm Harbor",893,"Pinellas-34681","Crystal Beach","9",9
+"Florida",1026,"34683",1585,52,"Pinellas","Pinellas-34683","Palm Harbor","Tarpon Springs, Dunedin, Palm Harbor",894,"Pinellas-34683","Palm Harbor","151",151
+"Florida",1027,"34684",1586,52,"Pinellas","Pinellas-34684","Palm Harbor","Clearwater, Tarpon Springs, Dunedin, East Lake, Palm Harbor",895,"Pinellas-34684","Palm Harbor","139",139
+"Florida",1028,"34685",1588,52,"Pinellas","Pinellas-34685","Palm Harbor","Oldsmar, East Lake, Keystone, Palm Harbor",896,"Pinellas-34685","Palm Harbor","78",78
+"Florida",1029,"34688",1591,52,"Pinellas","Pinellas-34688","Tarpon Springs","Tarpon Springs, East Lake, Holiday, Keystone, Trinity",897,"Pinellas-34688","Tarpon Springs","43",43
+"Florida",1030,"34689",1593,52,"Pinellas","Pinellas-34689","Tarpon Springs","Tarpon Springs, East Lake, Holiday, Palm Harbor",898,"Pinellas-34689","Clearwater, Tarpon Springs","154",154
+"Florida",1031,"34690",1594,51,"Pasco","Pasco-34690","Holiday","Beacon Square, Elfers, Holiday",851,"Pasco-34690","Holiday","61",61
+"Florida",1032,"34691",1596,51,"Pasco","Pasco-34691","Holiday","Beacon Square, Elfers, Holiday, Key Vista",852,"Pasco-34691","Holiday","93",93
+"Florida",1033,"34695",1598,52,"Pinellas","Pinellas-34695","Safety Harbor","Tampa, Clearwater, Safety Harbor, Oldsmar",899,"Pinellas-34695","Safety Harbor","100",100
+"Florida",1034,"34698",1599,52,"Pinellas","Pinellas-34698","Dunedin","Clearwater, Dunedin, Greenbriar, Palm Harbor",900,"Pinellas-34698","Dunedin","177",177
+"Florida",1035,"34705",1600,35,"Lake","Lake-34705","Astatula","Astatula",523,"Lake-34705","Astatula","<5",-2
+"Florida",1036,"34711",1601,35,"Lake","Lake-34711","Clermont","Groveland, Minneola, Clermont",524,"Lake-34711","Clermont","289",289
+"Florida",1037,"34714",1602,35,"Lake","Lake-34714","Clermont","Four Corners, Horizon West",525,"Lake-34714","Clermont","110",110
+"Florida",1038,"34715",1605,35,"Lake","Lake-34715","Clermont","Groveland, Minneola, Clermont, Montverde, Ferndale",526,"Lake-34715","Clermont, Minneola","73",73
+"Florida",1039,"34731",1607,35,"Lake","Lake-34731","Fruitland Park","Fruitland Park, Lady Lake, Leesburg, The Villages",527,"Lake-34731","Fruitland Park","22",22
+"Florida",1040,"34734",1609,48,"Orange","Orange-34734","Gotha","Ocoee, Gotha, Lake Butler",747,"Orange-34734","Gotha","40",40
+"Florida",1041,"34736",1610,35,"Lake","Lake-34736","Groveland","Groveland, Mascotte, Wildwood, Clermont, Leesburg",528,"Lake-34736","Groveland","98",98
+"Florida",1042,"34737",1613,35,"Lake","Lake-34737","Howey In The Hills","Groveland, Howey-in-the-Hills, Leesburg, Yalaha",529,"Lake-34737","Howey-in-the-hills","14",14
+"Florida",1043,"34739",1615,31,"Indian River","Indian River-34739","Kenansville","Kenansville",488,"Indian River-34739","","0",0
+"Florida",1044,"34739",1617,49,"Osceola","Osceola-34739","Kenansville","Kenansville",755,"Osceola-34739","Kenansville","<5",-2
+"Florida",1045,"34741",1620,49,"Osceola","Osceola-34741","Kissimmee","Kissimmee, Campbell, Hunters Creek",756,"Osceola-34741","Kissimmee","498",498
+"Florida",1046,"34743",1622,49,"Osceola","Osceola-34743","Kissimmee","Kissimmee, Buenaventura Lakes, Meadow Woods",757,"Osceola-34743","Buena Ventura Lakes, Kissimmee","344",344
+"Florida",1047,"34744",1624,49,"Osceola","Osceola-34744","Kissimmee","Kissimmee, St. Cloud, Buenaventura Lakes, Southchase",758,"Osceola-34744","Kindred, Kissimmee","505",505
+"Florida",1048,"34746",1626,49,"Osceola","Osceola-34746","Kissimmee","Kissimmee, Campbell, Celebration, Hunters Creek",759,"Osceola-34746","Kissimmee","323",323
+"Florida",1049,"34747",1628,49,"Osceola","Osceola-34747","Kissimmee","Celebration, Four Corners, Loughman",760,"Osceola-34747","Celebration, Kissimmee, Reunion","128",128
+"Florida",1050,"34748",1630,35,"Lake","Lake-34748","Leesburg","Wildwood, Fruitland Park, Leesburg, Okahumpka, The Villages, Yalaha",530,"Lake-34748","Leesburg","176",176
+"Florida",1051,"34753",1632,35,"Lake","Lake-34753","Mascotte","Groveland, Mascotte",531,"Lake-34753","Mascotte","34",34
+"Florida",1052,"34756",1633,35,"Lake","Lake-34756","Montverde","Minneola, Clermont, Montverde, Ferndale",532,"Lake-34756","Montverde","22",22
+"Florida",1053,"34758",1635,49,"Osceola","Osceola-34758","Kissimmee","Campbell, Poinciana",761,"Osceola-34758","Kissimmee, Poinciana","202",202
+"Florida",1054,"34759",1637,49,"Osceola","Osceola-34759","Kissimmee","Poinciana",762,"Osceola-34759","Kissimmee","<5",-2
+"Florida",1055,"34759",1638,53,"Polk","Polk-34759","Kissimmee","Poinciana",938,"Polk-34759","Kissimmee, Poinciana","196",196
+"Florida",1056,"34760",1639,48,"Orange","Orange-34760","Oakland","Oakland, Winter Garden",748,"Orange-34760","Oakland","5",5
+"Florida",1057,"34761",1640,48,"Orange","Orange-34761","Ocoee","Apopka, Winter Garden, Ocoee, Clarcona, Gotha, Lake Butler, Paradise Heights",749,"Orange-34761","Ocoee, Winter Garden","382",382
+"Florida",1058,"34762",1641,35,"Lake","Lake-34762","Okahumpka","Wildwood, Leesburg, Okahumpka, Yalaha",533,"Lake-34762","Okahumpka","8",8
+"Florida",1059,"34769",1643,49,"Osceola","Osceola-34769","Saint Cloud","St. Cloud",763,"Osceola-34769","Saint Cloud","180",180
+"Florida",1060,"34771",1645,49,"Osceola","Osceola-34771","Saint Cloud","St. Cloud",764,"Osceola-34771","Saint Cloud","101",101
+"Florida",1061,"34772",1646,49,"Osceola","Osceola-34772","Saint Cloud","St. Cloud",765,"Osceola-34772","Saint Cloud","146",146
+"Florida",1062,"34773",1650,49,"Osceola","Osceola-34773","Saint Cloud","Saint Cloud",766,"Osceola-34773","Harmony, Saint Cloud","14",14
+"Florida",1063,"34785",1652,60,"Sumter","Sumter-34785","Wildwood","Wildwood, Coleman, The Villages",1047,"Sumter-34785","Wildwood","20",20
+"Florida",1064,"34786",1653,48,"Orange","Orange-34786","Windermere","Bay Lake, Windermere, Winter Garden, Ocoee, Bay Hill, Gotha, Horizon West, Lake Butler",750,"Orange-34786","Windermere","298",298
+"Florida",1065,"34787",1654,35,"Lake","Lake-34787","Winter Garden","Clermont, Four Corners, Horizon West",534,"Lake-34787","","0",0
+"Florida",1066,"34787",1655,48,"Orange","Orange-34787","Winter Garden","Bay Lake, Oakland, Winter Garden, Ocoee, Four Corners, Horizon West, Lake Butler, Tildenville",751,"Orange-34787","Oakland, Winter Garden","471",471
+"Florida",1067,"34788",1657,35,"Lake","Lake-34788","Leesburg","Tavares, Leesburg, Lisbon, Silver Lake",535,"Lake-34788","Leesburg","45",45
+"Florida",1068,"34797",1659,35,"Lake","Lake-34797","Yalaha","Leesburg, Yalaha",536,"Lake-34797","Yalaha","9",9
+"Florida",1069,"34945",1662,56,"St. Lucie","St. Lucie-34945","Fort Pierce","Fort Pierce, Port St. Lucie",1020,"St. Lucie-34945","Fort Pierce","40",40
+"Florida",1070,"34946",1664,56,"St. Lucie","St. Lucie-34946","Fort Pierce","Fort Pierce, St. Lucie Village, Florida Ridge, Fort Pierce North, Lakewood Park",1021,"St. Lucie-34946","Fort Pierce","31",31
+"Florida",1071,"34947",1665,56,"St. Lucie","St. Lucie-34947","Fort Pierce","Fort Pierce, Fort Pierce North, Fort Pierce South",1022,"St. Lucie-34947","Fort Pierce","88",88
+"Florida",1072,"34949",1667,56,"St. Lucie","St. Lucie-34949","Fort Pierce","Fort Pierce, Hutchinson Island South, South Beach",1023,"St. Lucie-34949","Fort Pierce, Hutchinson Island","8",8
+"Florida",1073,"34950",1668,56,"St. Lucie","St. Lucie-34950","Fort Pierce","Fort Pierce, Fort Pierce North",1024,"St. Lucie-34950","Fort Pierce","222",222
+"Florida",1074,"34951",1670,56,"St. Lucie","St. Lucie-34951","Fort Pierce","Florida Ridge, Lakewood Park",1025,"St. Lucie-34951","Fort Pierce","60",60
+"Florida",1075,"34952",1672,56,"St. Lucie","St. Lucie-34952","Port Saint Lucie","Port St. Lucie, Indian River Estates, River Park, White City",1026,"St. Lucie-34952","Port Saint Lucie","293",293
+"Florida",1076,"34953",1674,56,"St. Lucie","St. Lucie-34953","Port Saint Lucie","Port St. Lucie",1027,"St. Lucie-34953","Fort Pierce, Port Saint Lucie","439",439
+"Florida",1077,"34956",1675,43,"Martin","Martin-34956","Indiantown","Port St. Lucie, Indiantown",665,"Martin-34956","Indiantown","721",721
+"Florida",1078,"34957",1678,43,"Martin","Martin-34957","Jensen Beach","Port St. Lucie, Stuart, Ocean Breeze Park, Jensen Beach, North River Shores, Rio",666,"Martin-34957","Jensen Beach","70",70
+"Florida",1079,"34957",1679,56,"St. Lucie","St. Lucie-34957","Jensen Beach","Port St. Lucie, Hutchinson Island South, Jensen Beach, North River Shores",1028,"St. Lucie-34957","","0",0
+"Florida",1080,"34972",1683,47,"Okeechobee","Okeechobee-34972","Okeechobee","Okeechobee, Cypress Quarters",703,"Okeechobee-34972","Okeechobee","255",255
+"Florida",1081,"34972",1684,49,"Osceola","Osceola-34972","Okeechobee","Yeehaw Junction",767,"Osceola-34972","","0",0
+"Florida",1082,"34972",1685,56,"St. Lucie","St. Lucie-34972","Okeechobee","Okeechobee",1029,"St. Lucie-34972","Okeechobee","<5",-2
+"Florida",1083,"34974",1686,22,"Glades","Glades-34974","Okeechobee","Buckhead Ridge",384,"Glades-34974","","0",0
+"Florida",1084,"34974",1688,28,"Highlands","Highlands-34974","Okeechobee","Okeechobee",419,"Highlands-34974","","0",0
+"Florida",1085,"34974",1689,43,"Martin","Martin-34974","Okeechobee","Okeechobee",667,"Martin-34974","Okeechobee","<5",-2
+"Florida",1086,"34974",1690,47,"Okeechobee","Okeechobee-34974","Okeechobee","Okeechobee, Buckhead Ridge, Cypress Quarters, Taylor Creek",704,"Okeechobee-34974","Okeechobee","140",140
+"Florida",1087,"34974",1691,50,"Palm Beach","Palm Beach-34974","Okeechobee","Okeechobee",822,"Palm Beach-34974","","0",0
+"Florida",1088,"34981",1693,56,"St. Lucie","St. Lucie-34981","Fort Pierce","Fort Pierce, Port St. Lucie, Fort Pierce South, White City",1030,"St. Lucie-34981","Fort Pierce","30",30
+"Florida",1089,"34982",1694,56,"St. Lucie","St. Lucie-34982","Fort Pierce","Fort Pierce, Port St. Lucie, Fort Pierce South, Indian River Estates, White City",1031,"St. Lucie-34982","Fort Pierce","176",176
+"Florida",1090,"34983",1695,56,"St. Lucie","St. Lucie-34983","Port Saint Lucie","Port St. Lucie, River Park, White City",1032,"St. Lucie-34983","Fort Pierce, Port Saint Lucie","274",274
+"Florida",1091,"34984",1697,56,"St. Lucie","St. Lucie-34984","Port Saint Lucie","Port St. Lucie",1033,"St. Lucie-34984","Port Saint Lucie","83",83
+"Florida",1092,"34986",1698,56,"St. Lucie","St. Lucie-34986","Port Saint Lucie","Port St. Lucie",1034,"St. Lucie-34986","Port Saint Lucie","130",130
+"Florida",1093,"34987",1700,56,"St. Lucie","St. Lucie-34987","Port Saint Lucie","Port St. Lucie",1035,"St. Lucie-34987","Fort Pierce, Port Saint Lucie","89",89
+"Florida",1094,"34988",1702,56,"St. Lucie","St. Lucie-34988","Port Saint Lucie","Port St. Lucie",1036,"St. Lucie-34988","Port Saint Lucie","<5",-2
+"Florida",1095,"34990",1703,43,"Martin","Martin-34990","Palm City","Port St. Lucie, Stuart, Palm City",668,"Martin-34990","Palm City","153",153
+"Florida",1096,"34990",1704,56,"St. Lucie","St. Lucie-34990","Palm City","Port St. Lucie, Palm City",1037,"St. Lucie-34990","","0",0
+"Florida",1097,"34994",1705,43,"Martin","Martin-34994","Stuart","Stuart, Jensen Beach, North River Shores, Palm City, Rio",669,"Martin-34994","Stuart","358",358
+"Florida",1098,"34996",1707,43,"Martin","Martin-34996","Stuart","Stuart, Sewall's Point, Jensen Beach, Rio",670,"Martin-34996","Sewalls Point, Stuart","60",60
+"Florida",1099,"34997",1708,43,"Martin","Martin-34997","Stuart","Stuart, Palm City, Port Salerno",671,"Martin-34997","Stuart","668",668
+"Florida",1100,"00043",9991,9991,"Dade","Dade-00043","NONE","Federal Land",NA,NA,"","0",0
+"Florida",1101,"32323",1152,19,"Franklin","Franklin-32323","Lanark Village","Lanark Village",364,"Franklin-32323","","0",0
+"Florida",1102,"32815",725,64,"Volusia","Volusia-32815",NA,NA,1095,"Volusia-32815","","0",0
